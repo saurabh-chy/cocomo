@@ -30,18 +30,30 @@ def gh_get(url, params=None, search=False):
         time.sleep(5)
     return None
 
-def commit_count_since(full_name, since):
-    """Number of commits on the default branch since a date (one API call, via the Link header)."""
-    url = f"https://api.github.com/repos/{full_name}/commits"
+def link_count(path, params=None):
+    """Count items behind a paged GitHub list endpoint with one request (per_page=1, Link header)."""
     headers = {"Authorization": f"Bearer {GITHUB_TOKEN}", "Accept": "application/vnd.github+json"}
-    try:
-        r = SESSION.get(url, headers=headers, params={"since": since, "per_page": 1}, timeout=60)
+    p = dict(params or {}, per_page=1)
+    for attempt in range(3):
+        try:
+            r = SESSION.get("https://api.github.com" + path, headers=headers, params=p, timeout=60)
+        except Exception:
+            time.sleep(5)
+            continue
+        if r.status_code in (403, 429) and r.headers.get("X-RateLimit-Remaining") == "0":
+            time.sleep(max(5, int(r.headers.get("X-RateLimit-Reset", time.time() + 60)) - time.time() + 5))
+            continue
         if r.status_code != 200:
             return 0
         m = re.search(r'[?&]page=(\d+)>; rel="last"', r.headers.get("Link", ""))
         return int(m.group(1)) if m else len(r.json())
-    except Exception:
-        return 0
+    return 0
+
+def commit_count_since(full_name, since):
+    return link_count(f"/repos/{full_name}/commits", {"since": since})
+
+def contributor_count(full_name):
+    return link_count(f"/repos/{full_name}/contributors", {"anon": "false"})
 
 def repo_meta(full_name):
     j = gh_get(f"/repos/{full_name}")

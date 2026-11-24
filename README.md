@@ -23,18 +23,22 @@ pipeline/            measurement code (also embedded in the notebook)
   api.py             GitHub API, OpenSSF Scorecard and AIDev helpers
   run.py             per-repository processing and driver scoring
   select.py          sample selection (AI repositories and matched comparisons)
-  build_notebook.py  builds notebooks/COCOMO_Extended_pilot.ipynb from the files above
-notebooks/           Google Colab notebook(s) to run the pipeline
+  build_notebook.py  builds notebooks/COCOMO_Extended_full_run.ipynb from the files above
+notebooks/
+  COCOMO_Extended_full_run.ipynb   the notebook for the main data collection
+  COCOMO_Extended_pilot.ipynb      pilot version, kept as a record
 data/pilot_v1/       first pilot (20 repositories, 6-month windows)
 data/pilot_v2/       second pilot (20 repositories, quarterly windows)
-docs/                pilot findings, hand-check results and design decisions
+docs/
+  pilot_log.md       pilot findings, hand-check results and design decisions
+  data_dictionary.md every output file and column
 ```
 
 ## How to run
 
-1. Open `notebooks/COCOMO_Extended_pilot.ipynb` in Google Colab.
+1. Open `notebooks/COCOMO_Extended_full_run.ipynb` in Google Colab.
 2. Add a GitHub token as a Colab secret named `GITHUB_TOKEN` (fine-grained, read-only access to public repositories).
-3. Run all cells. Results are saved to Google Drive, or to the Colab disk with a download cell at the end.
+3. Run all cells. The full run (about 600 repositories) takes several sessions: each session stops after its time budget, and running the notebook again continues where it stopped. Use Google Drive so results persist between sessions.
 
 To change the measurement code, edit the files in `pipeline/` and run `python pipeline/build_notebook.py` to regenerate the notebook.
 
@@ -44,7 +48,7 @@ To change the measurement code, edit the files in `pipeline/` and run `python pi
 - [x] Pilot 2: 20 repositories, fixes confirmed
 - [x] Hand check of mlflow, go-zero and tinygo against the repositories
 - [x] Detection fixes for services and IaC files
-- [ ] Full-run notebook (Robles threshold, continuous scores, 2 comparisons per AI repository, contributor screen, batching)
+- [x] Full-run notebook (Robles threshold, continuous scores, 2 comparisons per AI repository, contributor screen, resumable batches)
 - [ ] OSF pre-registration
 - [ ] Full data collection (about 600 repositories)
 - [ ] Bayesian model, difference-in-differences, baselines, simulation

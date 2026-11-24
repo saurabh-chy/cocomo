@@ -7,7 +7,10 @@ def eligible(m, cfg):
         return False
     # activity screen: enough recent commits to have a real team (saves cloning inactive repos)
     m["recent_commits"] = commit_count_since(m["full_name"], cfg["ACTIVE_SINCE"])
-    return m["recent_commits"] >= cfg["MIN_RECENT_COMMITS"]
+    if m["recent_commits"] < cfg["MIN_RECENT_COMMITS"]:
+        return False
+    m["contributors"] = contributor_count(m["full_name"])
+    return m["contributors"] >= cfg["MIN_CONTRIBUTORS"]
 
 def select_ai_repos(prs, repos, cfg, n):
     merged = (prs[prs["merged_at"].notna() & prs["repo"].notna()]
@@ -42,23 +45,32 @@ def select_ai_repos(prs, repos, cfg, n):
     return chosen
 
 def select_control_repos(ai_chosen, aidev_repos, cfg):
-    """One comparison repository per AI repository: same language, similar stars, no AIDev activity."""
+    """CONTROLS_PER_AI comparison repositories per AI repository: same language, similar stars,
+    no AIDev activity."""
     used = set(aidev_repos) | {m["full_name"] for m in ai_chosen}
     chosen = []
-    for m in ai_chosen:
+    for i, m in enumerate(ai_chosen):
         lo, hi = max(cfg["MIN_STARS"], m["stars"] // 2), m["stars"] * 2
         q = (f'language:"{m["language"]}" stars:{lo}..{hi} created:<{cfg["CREATED_BEFORE"]} '
              f'pushed:>{cfg["ACTIVE_AFTER"]} fork:false archived:false')
-        j = gh_get("/search/repositories", params={"q": q, "sort": "updated", "per_page": 50}, search=True)
-        for it in (j or {}).get("items", []):
-            fn = it["full_name"]
-            if fn in used:
-                continue
-            c = repo_meta(fn)
-            if eligible(c, cfg):
+        got = 0
+        for page in (1, 2, 3):
+            j = gh_get("/search/repositories", params={"q": q, "sort": "updated", "per_page": 50, "page": page},
+                       search=True)
+            items = (j or {}).get("items", [])
+            for it in items:
+                fn = it["full_name"]
+                if fn in used or it["size"] / 1024 > cfg["MAX_REPO_MB"]:
+                    continue
+                c = repo_meta(fn)
                 used.add(fn)
-                c.update(group="control", matched_to=m["full_name"])
-                chosen.append(c)
-                print(f"  control for {m['full_name']}: {fn} ({c['stars']} stars)")
+                if eligible(c, cfg):
+                    c.update(group="control", matched_to=m["full_name"])
+                    chosen.append(c)
+                    got += 1
+                    if got >= cfg["CONTROLS_PER_AI"]:
+                        break
+            if got >= cfg["CONTROLS_PER_AI"] or not items:
                 break
+        print(f"  [{i+1}/{len(ai_chosen)}] {m['full_name']}: {got} comparison repositories")
     return chosen

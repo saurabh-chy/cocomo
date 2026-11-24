@@ -57,7 +57,20 @@ def process_repo(full_name, group, cfg, aidev_prs, aidev_cutoff, use_api=True):
             r["include"] = int(r["core_devs"] >= cfg["MIN_CORE_DEVS"] and r["ksloc"] >= cfg["MIN_KSLOC"])
             rows.append(r)
         df = pd.DataFrame(rows)
+        # robustness: effort over 6-month windows (the window length validated by Robles et al.)
+        six = []
+        for label, a, b in make_windows(cfg["START"], cfg["END"], 6):
+            hc = [c for c in commits if a <= c["date"] < b and author_kind(c["name"], c["email"]) == "human"]
+            if hc:
+                e = effort_for_period(hc, 6, cfg)
+                e.update(repo=full_name, half=label, commits_human=len(hc),
+                         ksloc=sum(sum(x for x, _, p in c["files"] if file_class(p) == "src") for c in hc
+                                   if sum(x for x, _, p in c["files"] if file_class(p) == "src")
+                                   <= cfg["BULK_COMMIT_LINES"]) / 1000.0)
+                six.append(e)
         os.makedirs(os.path.dirname(out_csv), exist_ok=True)
+        os.makedirs(os.path.join(cfg["OUT_DIR"], "repos_6m"), exist_ok=True)
+        pd.DataFrame(six).to_csv(out_csv.replace("/repos/", "/repos_6m/"), index=False)
         df.to_csv(out_csv, index=False)
         print(f"  done {full_name}: {len(df)} windows, {df['include'].sum() if len(df) else 0} included, "
               f"{(time.time() - t0)/60:.1f} min")

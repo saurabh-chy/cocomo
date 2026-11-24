@@ -273,6 +273,25 @@ def tree_measures(repo_dir, sha, max_yaml=300):
     m["_ci_set"] = set(ci_files)
     return m
 
+# ---------- effort (Robles et al. 2022) ----------
+def fte_months(counts, theta_6m, months):
+    """Developers at or above the threshold count as full-time; others count commits/threshold.
+    The threshold is defined per 6 months and scaled to the window length."""
+    th = theta_6m * months / 6.0
+    return float(sum(min(1.0, n / th) for n in counts) * months)
+
+def effort_for_period(human_commits, months, cfg):
+    commits = defaultdict(int)
+    days = defaultdict(set)
+    for c in human_commits:
+        commits[c["email"]] += 1
+        days[c["email"]].add(c["date"].date())
+    out = {"effort_pm": fte_months(commits.values(), cfg["THETA_6M"], months),
+           "effort_pm_days": fte_months([len(v) for v in days.values()], cfg["THETA_6M"], months)}
+    for t in cfg["THETA_ROBUST"]:
+        out[f"effort_pm_t{t}"] = fte_months(commits.values(), t, months)
+    return out
+
 # ---------- one window ----------
 def window_measures(commits, first_dates, tags, w_start, w_end, cfg):
     cw = [c for c in commits if w_start <= c["date"] < w_end]
@@ -283,12 +302,8 @@ def window_measures(commits, first_dates, tags, w_start, w_end, cfg):
            "commits_bot": sum(c["kind"] == "bot" for c in cw),
            "commits_ai_author": sum(c["kind"] == "ai" for c in cw)}
 
-    # effort: full-time-equivalent developer-months (Robles et al.)
-    per_dev_month = defaultdict(int)
-    for c in human:
-        per_dev_month[(c["email"], c["date"].strftime("%Y-%m"))] += 1
-    T = cfg["FT_COMMITS_PER_MONTH"]
-    row["effort_pm"] = float(sum(min(1.0, n / T) for n in per_dev_month.values()))
+    # effort: full-time-equivalent developer-months (Robles et al. 2022), main threshold + robustness variants
+    row.update(effort_for_period(human, cfg["WINDOW_MONTHS"], cfg))
 
     dev_commits = defaultdict(int)
     for c in human:

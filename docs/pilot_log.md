@@ -61,3 +61,16 @@ Decision: commits are dated by **author date** (when the work was done), not by 
 Robles et al. use a 6-month window and set the threshold per project from developer surveys: OpenStack 12, Moodle 14, Linux 17, WebKit 16 to 19, Ceph 24, MediaWiki 36 to 37 commits per 6 months. A developer at or above the threshold counts as full-time; below it, commits / threshold x period length.
 
 Decision for the full run: main analysis threshold 12 per 6 months (6 per quarter); robustness checks with 17 and 24, 6-month windows, and an "active days" variant. The pilots used a placeholder of 10 commits per month, which underestimates effort.
+
+## Full-run notebook (built after pilot 2)
+
+| Change | Detail |
+| --- | --- |
+| Effort | Threshold 12 commits per 6 months (6 per quarter), as in Robles et al. (2022), replacing the pilot placeholder of 10 per month. Example: tinygo 2026Q1, 20 developers and 90 commits, 24 PM |
+| Effort robustness | Thresholds 17 and 24; active-days version; 6-month windows (`repos_6m/`) |
+| Sample | 200 AI repositories, 2 comparison repositories each (same language, half to double the stars) |
+| Screen | At least 300 commits since 2025-01-01 and at least 20 contributors, checked before cloning |
+| Scores | Continuous 0-1 scores in the main model; levels for reporting only |
+| Sessions | Resumable; stops after 10 hours; settings saved and checked so all repositories are measured with the same rules |
+
+Tested offline on pydantic-ai, tinygo and full-stack-fastapi-template, including a resumed second run.
