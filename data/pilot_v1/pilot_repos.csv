@@ -1,0 +1,21 @@
+repo,stars,language,created_at,fork,archived,size_mb,owner_type,default_branch,group,first_agent_pr,n_agent_prs,matched_to
+camunda/camunda-modeler,1737,JavaScript,2015-09-18T09:38:04Z,False,False,199.8134765625,Organization,develop,ai,2025-06-30 08:02:52+00:00,10.0,
+readthedocs/readthedocs.org,8411,Python,2010-08-16T19:18:06Z,False,False,138.4794921875,Organization,main,ai,2025-10-29 19:01:40+00:00,44.0,
+WordPress/gutenberg,11798,TypeScript,2017-02-03T19:34:19Z,False,False,1215.0244140625,Organization,trunk,ai,2025-11-14 15:09:35+00:00,93.0,
+strawberry-graphql/strawberry-django,504,Python,2020-10-30T17:12:01Z,False,False,3.33984375,Organization,main,ai,2025-11-23 10:48:50+00:00,9.0,
+treeverse/lakeFS,5591,Go,2019-09-12T11:46:28Z,False,False,173.251953125,Organization,master,ai,2026-01-20 07:28:53+00:00,5.0,
+mikel-brostrom/boxmot,8329,Python,2020-06-26T09:26:23Z,False,False,122.7607421875,User,master,ai,2025-08-04 16:06:44+00:00,6.0,
+not-a-bank/open-banking-tracker-data,329,Python,2019-03-11T02:48:30Z,False,False,63.859375,Organization,master,ai,2026-01-31 15:03:57+00:00,10.0,
+pwncollege/dojo,529,Python,2019-08-30T18:49:25Z,False,False,13.0615234375,Organization,master,ai,2025-10-22 18:38:14+00:00,20.0,
+effekseer/EffekseerForWebGL,139,Python,2017-05-19T23:56:42Z,False,False,16.7314453125,Organization,master,ai,2025-10-03 10:05:22+00:00,12.0,
+Byron/dua-cli,6482,Rust,2019-05-29T11:49:29Z,False,False,3.03125,User,main,ai,2025-09-15 03:59:09+00:00,6.0,
+scality/cloudserver,1957,JavaScript,2016-06-01T09:58:56Z,False,False,64.1328125,Organization,development/9.6,control,,,camunda/camunda-modeler
+pymupdf/PyMuPDF,11187,Python,2012-10-06T18:54:25Z,False,False,357.107421875,Organization,main,control,,,readthedocs/readthedocs.org
+redis/RedisInsight,8939,TypeScript,2021-07-30T09:20:35Z,False,False,90.3427734375,Organization,main,control,,,WordPress/gutenberg
+histolab/histolab,467,Python,2020-05-09T07:38:51Z,False,False,380.5859375,Organization,main,control,,,strawberry-graphql/strawberry-django
+kiali/kiali,3650,Go,2018-02-04T12:11:57Z,False,False,93.6025390625,Organization,master,control,,,treeverse/lakeFS
+budtmo/docker-android,16200,Python,2016-12-22T13:02:48Z,False,False,238.91796875,User,master,control,,,mikel-brostrom/boxmot
+adobe/ops-cli,202,Python,2019-01-30T23:18:55Z,False,False,0.56640625,Organization,master,control,,,not-a-bank/open-banking-tracker-data
+zephyrproject-rtos/west,384,Python,2018-05-23T13:56:05Z,False,False,2.5478515625,Organization,main,control,,,pwncollege/dojo
+splunk/splunk-platform-automator,138,Python,2017-11-11T12:35:04Z,False,False,8.216796875,Organization,master,control,,,effekseer/EffekseerForWebGL
+cloud-hypervisor/cloud-hypervisor,6572,Rust,2019-04-30T22:49:03Z,False,False,39.8984375,Organization,main,control,,,Byron/dua-cli

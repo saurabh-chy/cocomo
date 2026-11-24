@@ -1,0 +1,21 @@
+repo,stars,language,created_at,fork,archived,size_mb,owner_type,default_branch,recent_commits,group,first_agent_pr,n_agent_prs,matched_to
+binarywang/WxJava,33204,Java,2016-01-06T08:24:05Z,False,False,20.435546875,User,develop,452,ai,2025-07-24 08:39:56+00:00,116.0,
+Byron/dua-cli,6484,Rust,2019-05-29T11:49:29Z,False,False,3.0390625,User,main,343,ai,2025-09-15 03:59:09+00:00,6.0,
+mlflow/mlflow,28951,Python,2018-06-05T16:05:58Z,False,False,1487.271484375,Organization,master,7701,ai,2025-05-23 05:30:00+00:00,1240.0,
+torchgeo/torchgeo,4248,Python,2021-05-21T05:58:56Z,False,False,493.806640625,Organization,main,1318,ai,2025-07-15 18:29:28+00:00,6.0,
+graphprotocol/graph-node,3169,Rust,2018-04-19T07:13:50Z,False,False,332.236328125,Organization,master,1167,ai,2025-08-14 10:43:47+00:00,6.0,
+homebridge/homebridge-config-ui-x,2817,TypeScript,2017-12-21T04:20:54Z,False,False,73.6376953125,Organization,latest,1010,ai,2025-09-08 13:50:22+00:00,5.0,
+microsoft/FluidFramework,4954,TypeScript,2019-08-22T17:37:57Z,False,False,774.0263671875,Organization,main,3881,ai,2025-08-25 21:56:55+00:00,84.0,
+reactiveui/ReactiveUI,8559,C#,2010-06-11T05:24:29Z,False,False,93.9970703125,Organization,main,452,ai,2025-09-04 01:24:17+00:00,14.0,
+zeromicro/go-zero,33441,Go,2020-08-07T15:37:57Z,False,False,32.7060546875,Organization,master,503,ai,2025-09-20 05:40:43+00:00,6.0,
+ioBroker/ioBroker.admin,302,TypeScript,2014-08-20T15:23:02Z,False,False,68.763671875,Organization,master,812,ai,2025-09-05 07:11:19+00:00,34.0,
+openjdk/jdk,23568,Java,2018-09-17T12:29:20Z,False,False,1473.62109375,Organization,master,9325,control,,,binarywang/WxJava
+actix/examples,3967,Rust,2018-04-13T00:07:42Z,False,False,6.4189453125,Organization,main,1026,control,,,Byron/dua-cli
+NVIDIA-NeMo/Speech,18784,Python,2019-08-05T20:16:42Z,False,False,529.9716796875,Organization,main,1994,control,,,mlflow/mlflow
+Drakkar-Software/OctoBot,6981,Python,2018-02-23T23:13:05Z,False,False,173.2373046875,Organization,master,1062,control,,,torchgeo/torchgeo
+greenbone/openvas-scanner,4955,Rust,2018-01-22T07:49:57Z,False,False,46.5927734375,Organization,main,1675,control,,,graphprotocol/graph-node
+lukevella/rallly,5368,TypeScript,2015-01-27T17:01:38Z,False,False,81.771484375,User,main,2494,control,,,homebridge/homebridge-config-ui-x
+NomicFoundation/hardhat,8522,TypeScript,2018-04-14T22:20:59Z,False,False,225.3798828125,Organization,main,6700,control,,,microsoft/FluidFramework
+testcontainers/testcontainers-dotnet,4378,C#,2019-02-16T10:03:36Z,False,False,6.41015625,Organization,develop,301,control,,,reactiveui/ReactiveUI
+tinygo-org/tinygo,17934,Go,2018-06-07T16:39:19Z,False,False,16.0205078125,Organization,dev,1437,control,,,zeromicro/go-zero
+guardian/dotcom-rendering,277,TypeScript,2017-10-16T10:13:32Z,False,False,195.36328125,Organization,main,5827,control,,,ioBroker/ioBroker.admin
