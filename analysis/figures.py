@@ -30,7 +30,7 @@ ax[0].plot(xs, np.polyval(b, xs), color=ORANGE, lw=2, label=f"Pooled fit, B = {b
 ax[0].set_xlabel("ln size per quarter (KSLOC)"); ax[0].set_ylabel("ln effort per quarter (PM)")
 ax[0].set_title("(a) Repository-quarters (n = 5,932)", fontsize=10, color=INK, loc="left")
 ax[0].legend(frameon=False, fontsize=8, loc="upper left")
-cb = fig.colorbar(hb, ax=ax[0], pad=0.01); cb.set_label("Quarters", fontsize=8); cb.ax.tick_params(labelsize=7)
+cb = fig.colorbar(hb, ax=ax[0], pad=0.01); cb.set_label("Repository-quarters (count)", fontsize=8); cb.ax.tick_params(labelsize=7)
 sc = ax[1].scatter(r["ln_ksloc"], r["ln_pm"], c=r["n_quarters"], cmap="Blues", vmin=0, vmax=22, s=12,
                    edgecolors="white", linewidths=0.4)
 b2 = np.polyfit(r["ln_ksloc"], r["ln_pm"], 1)

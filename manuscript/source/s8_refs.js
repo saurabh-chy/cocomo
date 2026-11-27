@@ -29,6 +29,7 @@ const R = [
   "Leppänen, M., Mäkinen, S., Pagels, M., Eloranta, V.-P., Itkonen, J., Mäntylä, M. V., & Männistö, T. (2015). The highways and country roads to continuous deployment. *IEEE Software, 32*(2), 64–72. https://doi.org/10.1109/MS.2015.50",
   "Li, H., Zhang, H., & Hassan, A. E. (2026). *AIDev: Studying AI coding agents on GitHub* (arXiv:2602.09185). arXiv. https://doi.org/10.48550/arXiv.2602.09185",
   "Madachy, R., & Longshore, R. (2024). Systems acquisition cost modeling initiative for AI assistance. In *Proceedings of the 21st Annual Acquisition Research Symposium* (SYM-AM-24-080). Naval Postgraduate School.",
+  "Mundlak, Y. (1978). On the pooling of time series and cross section data. *Econometrica, 46*(1), 69–85. https://doi.org/10.2307/1913646",
   "Newman, S. (2021). *Building microservices* (2nd ed.). O'Reilly Media.",
   "Open Source Security Foundation. (n.d.). *OpenSSF Scorecard*. Retrieved November 27, 2026, from https://github.com/ossf/scorecard",
   "Peng, S., Kalliamvakou, E., Cihon, P., & Demirer, M. (2023). *The impact of AI on developer productivity: Evidence from GitHub Copilot* (arXiv:2302.06590). arXiv. https://doi.org/10.48550/arXiv.2302.06590",

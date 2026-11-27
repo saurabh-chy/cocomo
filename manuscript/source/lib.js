@@ -39,11 +39,11 @@ function table(num, title, headers, rows, widths, note) {
   const total = widths.reduce((a, b) => a + b, 0);
   const w = widths.map((x) => Math.round((x * TW) / total));
   w[w.length - 1] += TW - w.reduce((a, b) => a + b, 0);
-  const cell = (t, i, isHead, isLast) => new d.TableCell({
+  const cell = (t, i, isHead, isLast) => new d.TableCell({ // keepNext on all but the last row keeps a table on one page
     width: { size: w[i], type: d.WidthType.DXA },
     margins: { top: 40, bottom: 40, left: 80, right: 80 },
     borders: { top: isHead ? border : none, bottom: isHead || isLast ? border : none, left: none, right: none },
-    children: [new d.Paragraph({ children: runs(String(t), isHead ? { bold: true } : {}), spacing: { line: 240, after: 0 },
+    children: [new d.Paragraph({ children: runs(String(t), isHead ? { bold: true } : {}), spacing: { line: 240, after: 0 }, keepNext: !isLast,
       alignment: i === 0 ? d.AlignmentType.LEFT : d.AlignmentType.CENTER })],
   });
   const tbl = new d.Table({
