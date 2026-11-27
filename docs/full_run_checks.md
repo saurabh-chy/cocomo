@@ -48,11 +48,6 @@ No missing values in the six driver scores. VIF 1.05 to 1.36. Within-repository 
 | 6-month windows (KSLOC at least 2) | 4,717 | 0.50 | 0.30 | 0.27 |
 | **Repository totals over the study period** | **482** | **0.75** | **0.72** | - |
 
-Interpretation: at the level of whole repositories, the size-effort relation resembles project-level COCOMO data. Within short windows, effort tracks team size (correlation of log effort and log team size: 0.94) much more than code added.
+**Correction (after the analysis):** the repository-total exponent of 0.75 is an artefact of observation length. Total effort and total size both grow with the number of quarters a repository is observed, which the study window sets. With the number of observed quarters controlled, the repository-level exponent is 0.27 (Bayesian model, `analysis/out/rq1_repo_literature_duration.csv`). Code size is a weak predictor of effort at both levels; effort tracks team size (correlation of log effort and log team size: 0.94).
 
-Decision for the analysis: estimate the driver effects at two levels.
-
-1. **Repository level** (one row per repository; drivers averaged over the period), the unit closest to a COCOMO project; used for the COCOMO-style calibration and the accuracy comparison.
-2. **Repository-quarter level** (mixed model with random repository effects and time effects), used for changes within repositories, including the AI adoption analysis.
-
-Report the window-level weakness of size as a finding and as a threat to validity.
+Decision: the repository-level model controls for the number of observed quarters (main specification). The model without that control is reported only to show the artefact.

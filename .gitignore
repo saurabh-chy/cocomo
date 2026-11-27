@@ -4,3 +4,4 @@ __pycache__/
 clones/
 *.zip
 .env
+*.npz

@@ -1,0 +1,7 @@
+profile,n,median_ratio_estimate_to_actual,share_off_by_more_than_25pct
+All projects,20000,1.0028938047534066,70.0
+High automation (DVOP and CLAU above 75th pct),2575,0.9116983870836346,69.00970873786407
+Microservices (MSVC above 0),3192,0.9627512141950932,70.11278195488721
+Experienced team (MTEX above 75th pct),4927,1.132227472789178,70.9559569717881
+New team (MTEX below 25th pct),5003,0.9342056117127264,70.43773735758545
+Heavy AI use (AIAD at least 0.3),1763,1.0119660593998154,69.76744186046511

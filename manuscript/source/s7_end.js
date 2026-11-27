@@ -1,0 +1,18 @@
+const { p, h1 } = require("./lib");
+module.exports = [
+  h1("7 Conclusion"),
+  p("COCOMO II was calibrated before continuous delivery, cloud automation, microservices, automated security and AI coding agents became common. We added six drivers for these practices and estimated their effects from 597 public repositories, quarter by quarter, from 2021 to mid-2026."),
+  p("Four findings stand out. First, code size was a weak driver of effort. The size exponent was 0.20 for quarters and 0.27 for whole repositories, far below the value that COCOMO assumes. Effort followed the size of the team. Second, team experience was the strongest of the six drivers, with 42% less quarterly effort across its full range. Third, DevOps maturity and cloud automation raised effort while teams built them, and cloud automation went with lower total effort once in place. Fourth, AI adoption left effort unchanged but raised the code delivered per person-month by about 29%. The extended model explained effort well but predicted it only slightly better than a calibrated baseline."),
+  p("Future work should test these drivers on industrial projects with recorded effort. It should study whether the cost of automation repays itself over a longer time, and it should follow the quality of the extra code that AI tools produce. Because every measure in this study is a script, the calibration can be repeated as tools and practices change."),
+
+  h1("Data Availability Statement"),
+  p("The data, mining scripts, analysis code, figures and pilot notes are openly available at https://github.com/saurabh-chy/cocomo. An archived copy will be deposited on Zenodo with a DOI on acceptance. All raw data come from public sources: GitHub, the AIDev dataset and the OpenSSF Scorecard. The released data contain no developer names or email addresses."),
+  h1("Conflict of Interest Statement"),
+  p("The authors declare no conflicts of interest."),
+  h1("Funding Statement"),
+  p("This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors."),
+  h1("Ethics Statement"),
+  p("The study used only publicly available repository data. We stored no developer identities in the analysis data, and the results identify no individual developer."),
+  h1("Author Contributions"),
+  p("**Saurabh Choudhary:** Conceptualization, Methodology, Software, Data curation, Formal analysis, Visualization, Writing – original draft. **Sachin Malhotra:** Conceptualization, Supervision, Writing – review & editing."),
+];
