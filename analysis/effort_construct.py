@@ -10,7 +10,8 @@ import numpy as np
 import pandas as pd
 import statsmodels.formula.api as smf
 
-q = pd.read_csv("out/quarter.csv")
+HERE = __import__("os").path.dirname(__import__("os").path.abspath(__file__))
+q = pd.read_csv(f"{HERE}/out/quarter.csv")
 q["ln_team"] = np.log(q.team_size)
 q["ln_int"] = q.ln_pm - q.ln_team          # person-months per active developer
 
@@ -32,7 +33,7 @@ for label, f, term in specs:
         rows.append(dict(model=label, level=level, slope=m.params[term], ci_lo=lo, ci_hi=hi, r2=m.rsquared))
 
 out = pd.DataFrame(rows)
-out.to_csv("out/effort_construct.csv", index=False)
+out.to_csv(f"{HERE}/out/effort_construct.csv", index=False)
 print(out.round(3).to_string(index=False))
 print("median PM per active developer per quarter:", round((q.effort_pm / q.team_size).median(), 2), "(ceiling 3)")
 print("within-repo SD: ln_team", round(w.ln_team.std(), 3), "ln_ksloc", round(w.ln_ksloc.std(), 3), "ln_pm", round(w.ln_pm.std(), 3))

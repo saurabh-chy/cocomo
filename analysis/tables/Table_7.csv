@@ -1,0 +1,11 @@
+﻿Sample and outcome,Effect after adoption (95% CI),Gap before adoption (95% CI),Adopters / never-adopters
+All: effort,"+0.8% (−4.7%, +7.5%)","−0.6% (−5.1%, +3.4%)",382 / 99
+All: size (KSLOC),"+29.7% (+14.3%, +47.3%)","+0.9% (−8.4%, +9.8%)",382 / 99
+All: productivity (KSLOC/PM),"+28.6% (+15.0%, +45.0%)","+1.5% (−7.2%, +9.7%)",382 / 99
+Company-led: effort,"+0.7% (−8.8%, +11.4%)","+8.3% (−0.3%, +19.2%)",86 / 40
+Community: effort,"+0.2% (−6.8%, +8.4%)","−4.8% (−9.5%, 0.0%)",296 / 59
+Experienced teams: effort,"+3.5% (−2.5%, +9.8%)","+0.3% (−4.7%, +4.6%)",150 / 99
+Less experienced teams: effort,"−4.7% (−13.1%, +5.6%)","−1.8% (−10.3%, +7.6%)",232 / 99
+No inclusion rules: effort,"+3.3% (−3.4%, +9.5%)","−4.3% (−8.7%, +0.4%)",454 / 141
+No inclusion rules: size (KSLOC),"+34.7% (+9.7%, +63.0%)","−5.6% (−18.0%, +7.1%)",454 / 141
+No inclusion rules: productivity,"+30.3% (+10.4%, +54.4%)","−1.4% (−13.1%, +9.7%)",454 / 141

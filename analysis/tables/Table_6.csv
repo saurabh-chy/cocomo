@@ -1,0 +1,9 @@
+﻿Variant,B,DVOP,AIAD,MSVC,CLAU,MTEX,SECU
+Main (θ = 12),0.20,1.25,0.93,1.03,1.14,0.58,1.03
+Effort with θ = 17,0.22,1.23,0.92,1.03,1.14,0.59,1.04
+Effort with θ = 24,0.24,1.21,0.91,1.03,1.14,0.60,1.05
+Effort by active days,0.21,1.26,0.92,1.03,1.16,0.58,1.05
+Company-led (126 repositories),0.17,1.17,1.06,1.04,1.14,0.62,0.98
+Community (356 repositories),0.21,1.28,0.90,1.02,1.15,0.55,1.04
+Within-repository part,0.19,1.26,0.94,1.01,1.14,0.56,1.01
+Between-repository part,0.36,1.16,0.45,1.31,1.00,0.79,1.54

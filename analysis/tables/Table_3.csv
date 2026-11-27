@@ -1,0 +1,8 @@
+﻿Parameter,Prior,Basis
+γ for DVOP and CLAU,"N(−0.41, 0.30^2)","ln(0.78 / 1.17), TOOL range"
+γ for MTEX,"N(−0.41, 0.30^2)","ln(0.81 / 1.22), APEX range"
+γ for SECU,"N(0.43, 0.30^2)","ln(1.26 / 0.82), RELY range"
+γ for MSVC and AIAD,"N(0, 0.50^2)",No calibrated value
+B (size exponent),"N(1, 0.50^2)",COCOMO II range of about 0.9 to 1.2
+"ln A, controls","N(0, 5^2), N(0, 1)",Weakly informative
+"σ, σu",Half-normal(1),Weakly informative

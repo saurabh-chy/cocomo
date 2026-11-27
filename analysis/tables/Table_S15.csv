@@ -1,0 +1,7 @@
+﻿Outcome,Effect after adoption (95% CI),Gap before adoption (95% CI)
+Active developers,"+2.3% (−4.0%, +8.7%)","−0.9% (−5.7%, +3.3%)"
+Core developers,"−0.8% (−7.0%, +7.2%)","+0.1% (−5.2%, +5.8%)"
+Effort per active developer,"−1.5% (−4.0%, +1.6%)","+0.3% (−2.4%, +3.1%)"
+Human commits,"+7.2% (−1.4%, +18.8%)","−3.5% (−9.6%, +2.8%)"
+Human commits per active developer,"+4.7% (−3.3%, +14.3%)","−2.6% (−8.4%, +3.5%)"
+Code per active developer (KSLOC),"+26.7% (+12.8%, +43.6%)","+1.8% (−7.4%, +10.4%)"

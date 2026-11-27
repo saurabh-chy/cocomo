@@ -1,0 +1,7 @@
+﻿Profile,Simulated quarters,Median estimate / actual,Off by more than 25% (%)
+All quarters,"20,000",1.00,70.0
+Experienced team (MTEX at or above 75th pct),"4,927",1.13,71.0
+New team (MTEX at or below 25th pct),"5,003",0.93,70.4
+High automation (DVOP and CLAU at or above 75th pct),"2,575",0.91,69.0
+Microservices (MSVC above 0),"3,192",0.96,70.1
+Heavy AI use (AIAD at least 0.3),"1,763",1.01,69.8

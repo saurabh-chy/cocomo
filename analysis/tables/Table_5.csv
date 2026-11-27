@@ -1,0 +1,11 @@
+﻿Parameter,Repository level: ratio (95% CrI),P(ratio < 1),Quarter level: ratio (95% CrI),P(ratio < 1)
+DevOps maturity,"0.92 (0.72, 1.18)",0.75,"1.25 (1.18, 1.32)",<0.001
+AI assistance,"1.06 (0.60, 1.91)",0.42,"0.93 (0.88, 0.98)",0.99
+Microservice complexity,"1.28 (0.82, 1.98)",0.13,"1.03 (0.91, 1.16)",0.31
+Cloud automation,"0.80 (0.62, 1.03)",0.95,"1.14 (1.07, 1.21)",<0.001
+Team experience,"0.71 (0.55, 0.93)",0.99,"0.58 (0.54, 0.61)",>0.999
+Security practice,"1.50 (1.18, 1.89)",<0.001,"1.04 (0.98, 1.10)",0.08
+Size exponent B,"0.27 (0.19, 0.34)",,"0.20 (0.19, 0.21)",
+Residual SD σ,0.53,,0.26,
+Repository SD σu,,,0.57,
+Observations,386 repositories,,"5,932 quarters",

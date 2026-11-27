@@ -55,7 +55,7 @@ def fit(level, prior, duration=False):
     draws = {v: post[v].values.reshape(-1, *post[v].shape[2:]) for v in ["lnA", "B", "sigma", "controls"] + DRIVERS
              + (["sigma_repo"] if level == "quarter" else [])}
     np.savez_compressed(os.path.join(OUT, f"rq1_{level}_{prior}{'_duration' if duration else ''}_draws.npz"), **draws,
-                        control_names=np.array(C.columns), lk_mean=lk.mean())
+                        control_names=np.array(C.columns, dtype=str), lk_mean=lk.mean())
     # Bayesian R2 (proportion of variance explained by the linear predictor)
     print(f"\n== {level} / {prior} / duration={duration}: n={len(df)}; max R-hat {sm['r_hat'].max():.3f}; "
           f"min ESS {sm['ess_bulk'].min():.0f}")

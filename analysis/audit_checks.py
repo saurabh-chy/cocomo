@@ -56,14 +56,17 @@ src = src.replace('os.path.join(OUT, "quarter.csv")', 'os.path.join(OUT, "_tmp_a
 ns = {"__file__": os.path.join(HERE, "rq2_did.py")}
 exec(src, ns)
 print("\n3 DiD on all quarters with effort and size > 0 (no inclusion filter)")
+unf = []
 for y in ["ln_pm", "ln_ksloc", "ln_prod"]:
     r, _ = ns["run"](ns["q"], y, "unfiltered")
     pct = lambda v: 100 * (np.exp(v) - 1)
     print(f"   {y:9s} {pct(r['att']):+.1f}% ({pct(r['ci_low']):+.1f}, {pct(r['ci_high']):+.1f}); pre {pct(r['pre_avg']):+.1f}%; "
           f"adopters {r['n_treated_repos']}, never {r['n_never']}")
+    unf.append(r)
     rows.append({"check": "did_unfiltered", "term": y, "coef": r["att"], "ci_low": r["ci_low"], "ci_high": r["ci_high"],
                  "pre": r["pre_avg"], "n_treated": r["n_treated_repos"], "n_never": r["n_never"]})
 os.remove(os.path.join(OUT, "_tmp_all.csv"))
+pd.DataFrame(unf).to_csv(os.path.join(OUT, "rq2_att_unfiltered.csv"), index=False)   # Table 7, last three rows
 
 # 4 SECU vs OpenSSF Scorecard (current scores; compare with the repository's latest SECU)
 sc = [c for c in q.columns if c.startswith("sc_")]

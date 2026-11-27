@@ -1,6 +1,6 @@
 # Analysis
 
-Run in order from the repository root (Python 3 with pymc, arviz, statsmodels, scikit-learn, SALib, matplotlib):
+Run everything with `python reproduce.py` from the repository root, or run the scripts below in order from this folder (Python 3 with pymc, arviz, statsmodels, scikit-learn, SALib, matplotlib):
 
 | Script | Purpose | Main outputs (analysis/out/) |
 | --- | --- | --- |
@@ -10,11 +10,10 @@ Run in order from the repository root (Python 3 with pymc, arviz, statsmodels, s
 | `rq3_accuracy.py` | RQ3: six models, grouped 10-fold cross-validation | `rq3_accuracy.csv`, `rq3_tests.csv` |
 | `rq4_sim.py` | RQ4: simulator built from the fitted quarter model | `rq4_*.csv` |
 | `robustness.py` | Alternative effort measures, company-led vs community, descriptives | `robustness.csv`, `descriptives.csv` |
-| `figures.py` | Figures 1-4 of the manuscript | `analysis/figures/*.png` |
+| `figures.py` | Figures 1-4 of the paper | `analysis/figures/*.png` |
+| `audit_checks.py` | Within/between split, turnover control, DiD without inclusion rules, Scorecard check | `audit_checks.csv`, `rq2_att_unfiltered.csv` |
+| `effort_construct.py` | What the effort measure counts | `effort_construct.csv` |
+| `rq2_components.py` | RQ2 on the parts of effort | `rq2_components.csv` |
+| `make_tables.py` | Formats every computed table as printed in the paper | `analysis/tables/Table_*.csv`, `all_tables.xlsx` |
 
 Seeds are fixed (20261127). The posterior draw files (`*.npz`) are large and not committed; rerun `rq1_bayes.py` to recreate them.
-
-## Effort-measure checks (revision, 2026-11-27)
-
-- `effort_construct.py` splits ln(PM) into ln(active developers) + ln(PM per developer) and relates each part to size, pooled and within repositories. Output: `out/effort_construct.csv` (Supporting Information Table S14).
-- `rq2_components.py` reruns the RQ2 difference-in-differences on active developers, core developers, PM per developer, human commits, commits per developer and KSLOC per developer. Output: `out/rq2_components.csv` (Table S15).

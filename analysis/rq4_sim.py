@@ -90,10 +90,10 @@ err = np.polyval(b, lk) - ysim                  # log error of size-only estimat
 v = q.iloc[rows]
 groups = {
     "All projects": np.ones(NSIM, bool),
-    "High automation (DVOP and CLAU above 75th pct)": ((v["DVOP"] >= q["DVOP"].quantile(.75)) & (v["CLAU"] >= q["CLAU"].quantile(.75))).values,
+    "High automation (DVOP and CLAU at or above 75th pct)": ((v["DVOP"] >= q["DVOP"].quantile(.75)) & (v["CLAU"] >= q["CLAU"].quantile(.75))).values,
     "Microservices (MSVC above 0)": (v["MSVC"] > 0).values,
-    "Experienced team (MTEX above 75th pct)": (v["MTEX"] >= q["MTEX"].quantile(.75)).values,
-    "New team (MTEX below 25th pct)": (v["MTEX"] <= q["MTEX"].quantile(.25)).values,
+    "Experienced team (MTEX at or above 75th pct)": (v["MTEX"] >= q["MTEX"].quantile(.75)).values,
+    "New team (MTEX at or below 25th pct)": (v["MTEX"] <= q["MTEX"].quantile(.25)).values,
     "Heavy AI use (AIAD at least 0.3)": (v["AIAD"] >= 0.3).values,
 }
 bias = pd.DataFrame([{"profile": k, "n": int(m.sum()), "median_ratio_estimate_to_actual": np.exp(np.median(err[m])),

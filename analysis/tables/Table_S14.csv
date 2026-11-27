@@ -1,0 +1,5 @@
+﻿Model,Pooled: slope (95% CI),Pooled R2,Within repository: slope (95% CI),Within R2
+ln effort on ln active developers,"0.82 (0.79, 0.85)",0.89,"0.77 (0.74, 0.79)",0.78
+ln effort on ln KSLOC,"0.38 (0.31, 0.45)",0.30,"0.20 (0.18, 0.22)",0.16
+ln active developers on ln KSLOC,"0.34 (0.26, 0.42)",0.18,"0.17 (0.14, 0.20)",0.09
+ln effort per developer on ln KSLOC,"0.04 (0.02, 0.06)",0.02,"0.03 (0.02, 0.04)",0.01

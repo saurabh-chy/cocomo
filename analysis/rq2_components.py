@@ -20,7 +20,7 @@ q["ln_ksloc_per_dev"] = q["ln_ksloc"] - q["ln_team"]
 OUT = {
     "ln_team": "Active developers",
     "ln_core": "Core developers",
-    "ln_pm_per_dev": "Effort per active developer (PM)",
+    "ln_pm_per_dev": "Effort per active developer",
     "ln_commits_human": "Human commits",
     "ln_commits_per_dev": "Human commits per active developer",
     "ln_ksloc_per_dev": "Code per active developer (KSLOC)",
