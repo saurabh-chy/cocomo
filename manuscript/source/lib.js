@@ -44,7 +44,7 @@ function table(num, title, headers, rows, widths, note) {
     margins: { top: 40, bottom: 40, left: 80, right: 80 },
     borders: { top: isHead ? border : none, bottom: isHead || isLast ? border : none, left: none, right: none },
     children: [new d.Paragraph({ children: runs(String(t), isHead ? { bold: true } : {}), spacing: { line: 240, after: 0 }, keepNext: !isLast,
-      alignment: i === 0 ? d.AlignmentType.LEFT : d.AlignmentType.CENTER })],
+      alignment: (i === 0 || String(t).length > 40) ? d.AlignmentType.LEFT : d.AlignmentType.CENTER })],
   });
   const tbl = new d.Table({
     width: { size: TW, type: d.WidthType.DXA }, columnWidths: w,

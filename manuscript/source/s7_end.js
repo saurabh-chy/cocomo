@@ -13,6 +13,10 @@ module.exports = [
   p("This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors."),
   h1("Ethics Statement"),
   p("The study used only publicly available repository data. We stored no developer identities in the analysis data, and the results identify no individual developer."),
+  h1("Supporting Information"),
+  p("Additional supporting information can be found online in the Supporting Information section at the end of this article."),
+  p("**Supporting Information S1.** Measurement rules, pilot studies and hand check, full model results, additional robustness checks and simulation details (Tables S1 to S13)."),
+  p("**Supplementary Data S1.** List of the 597 repositories with selection values, matching and use in the analysis (CSV)."),
   h1("Author Contributions"),
   p("**Saurabh Choudhary:** Conceptualization, Methodology, Software, Data curation, Formal analysis, Visualization, Writing – original draft. **Sachin Malhotra:** Conceptualization, Supervision, Writing – review & editing."),
 ];

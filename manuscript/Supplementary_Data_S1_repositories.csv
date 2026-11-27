@@ -1,0 +1,598 @@
+repo,group,language,stars,created_at,contributors,commits_since_2025_01_01,matched_to,first_merged_agent_pr,merged_agent_prs_in_aidev,included_quarters,company_led,first_ai_signal_quarter_start,in_repository_level_model
+1c-syntax/bsl-language-server,ai,Java,509,2018-12-31T09:03:18Z,63,5038,,2025-06-03 20:24:48+00:00,79.0,10,0.0,2025-04-01,1
+Agoric/agoric-sdk,ai,TypeScript,358,2019-11-01T15:30:18Z,89,5689,,2025-08-06 04:42:56+00:00,16.0,22,1.0,2024-10-01,1
+AltimateAI/vscode-dbt-power-user,ai,JavaScript,585,2020-08-18T16:36:48Z,63,443,,2025-08-29 02:16:08+00:00,31.0,8,0.0,2024-04-01,1
+Automattic/wp-calypso,ai,TypeScript,12650,2015-11-10T20:00:16Z,359,14315,,2025-06-27 02:03:44+00:00,151.0,22,0.0,2022-04-01,1
+Azure/azure-cosmos-dotnet-v3,ai,C#,798,2018-11-05T18:03:16Z,168,579,,2025-07-16 20:48:40+00:00,10.0,22,0.0,2025-07-01,1
+Azure/azure-functions-core-tools,ai,C#,1466,2017-01-04T07:09:00Z,167,373,,2025-06-02 17:10:51+00:00,25.0,2,1.0,2025-04-01,0
+Azure/azure-sdk-for-python,ai,Python,5624,2012-04-24T16:46:12Z,406,4989,,2025-05-27 22:57:52+00:00,67.0,22,0.0,2025-01-01,1
+Azure/azure-sdk-tools,ai,C#,134,2019-02-13T22:55:46Z,191,3515,,2025-05-12 22:06:37+00:00,154.0,22,0.0,2025-01-01,1
+Azure/data-api-builder,ai,C#,1549,2021-08-31T18:37:59Z,82,362,,2025-06-17 20:05:43+00:00,40.0,18,0.0,2025-04-01,1
+AzureAD/microsoft-identity-web,ai,C#,792,2020-02-18T01:53:41Z,99,479,,2025-07-15 18:19:12+00:00,48.0,4,1.0,2025-04-01,1
+Brooooooklyn/canvas,ai,TypeScript,2366,2020-08-30T03:08:40Z,39,425,,2025-06-08 14:41:54+00:00,28.0,0,,2025-04-01,0
+Byron/dua-cli,ai,Rust,6484,2019-05-29T11:49:29Z,79,343,,2025-09-15 03:59:09+00:00,6.0,0,,2025-07-01,0
+DataDog/integrations-core,ai,Python,1153,2015-12-01T16:41:45Z,385,4086,,2025-09-08 15:25:11+00:00,57.0,22,1.0,2025-01-01,1
+DataDog/terraform-provider-datadog,ai,Go,468,2017-06-05T20:53:58Z,430,1021,,2025-09-16 20:04:09+00:00,9.0,18,0.0,2025-07-01,1
+EduMIPS64/edumips64,ai,Java,177,2011-09-05T08:43:04Z,24,835,,2025-06-03 20:16:56+00:00,32.0,0,,2025-04-01,0
+Effect-TS/effect,ai,TypeScript,17671,2019-11-13T12:49:21Z,430,6133,,2025-07-10 21:26:23+00:00,6.0,15,0.0,2025-07-01,1
+FaridSafi/react-native-gifted-chat,ai,TypeScript,14451,2015-11-14T15:45:34Z,199,400,,2025-08-28 21:59:03+00:00,7.0,0,,2025-07-01,0
+Graylog2/graylog2-server,ai,Java,8183,2010-05-17T21:27:02Z,155,4521,,2025-09-25 12:12:41+00:00,28.0,22,1.0,2025-07-01,1
+Humanizr/Humanizer,ai,C#,9999,2012-05-03T12:01:45Z,256,514,,2025-07-30 23:20:55+00:00,32.0,1,0.0,2025-07-01,0
+IsmaelMartinez/teams-for-linux,ai,JavaScript,5254,2018-10-03T20:35:27Z,153,957,,2025-08-25 20:42:22+00:00,76.0,1,0.0,2025-04-01,0
+JuliaPluto/Pluto.jl,ai,JavaScript,5413,2020-02-23T01:50:12Z,135,474,,2025-06-24 12:52:55+00:00,5.0,7,0.0,2025-04-01,1
+KelvinTegelaar/CIPP,ai,JavaScript,1256,2021-10-13T17:48:22Z,96,4622,,2025-08-20 08:49:12+00:00,7.0,18,0.0,2025-07-01,1
+LMFDB/lmfdb,ai,Python,303,2012-12-14T14:09:00Z,120,1969,,2025-08-07 17:27:03+00:00,13.0,22,0.0,2025-04-01,1
+Live-Charts/LiveCharts2,ai,C#,5511,2021-02-11T01:01:27Z,65,2403,,2025-08-20 16:11:56+00:00,6.0,2,0.0,2025-07-01,0
+MontFerret/ferret,ai,Go,6024,2018-08-23T02:42:46Z,39,457,,2025-08-27 00:18:47+00:00,17.0,1,0.0,2025-07-01,0
+MudBlazor/MudBlazor,ai,C#,10676,2020-08-18T10:47:27Z,448,1951,,2025-08-21 19:17:30+00:00,135.0,20,0.0,2025-04-01,1
+MultiQC/MultiQC,ai,JavaScript,1505,2015-08-04T13:47:05Z,273,476,,2025-08-16 16:42:03+00:00,16.0,11,0.0,2024-10-01,1
+NASA-AMMOS/MMGIS,ai,JavaScript,241,2019-03-28T18:42:08Z,28,474,,2025-06-09 20:37:29+00:00,5.0,11,1.0,2025-04-01,1
+NangoHQ/nango,ai,TypeScript,13322,2020-04-09T09:31:24Z,271,4858,,2025-03-14 13:25:54+00:00,28.0,13,0.0,2025-01-01,1
+OHIF/Viewers,ai,TypeScript,4422,2015-10-13T08:57:37Z,187,1694,,2025-01-06 14:56:29+00:00,11.0,13,0.0,2025-01-01,1
+OffchainLabs/prysm,ai,Go,3792,2018-01-11T21:31:33Z,320,1769,,2025-07-28 18:27:33+00:00,7.0,22,0.0,2025-07-01,1
+OpenFeign/feign,ai,Java,9797,2013-06-26T23:28:16Z,303,1465,,2025-07-24 11:35:09+00:00,13.0,2,0.0,2024-10-01,0
+OpenSprinkler/OpenSprinkler-App,ai,JavaScript,209,2013-08-03T13:16:15Z,25,413,,2025-05-17 02:41:51+00:00,8.0,4,0.0,2025-04-01,1
+OrchardCMS/OrchardCore,ai,C#,8229,2014-11-19T22:29:26Z,338,1825,,2025-08-14 18:11:30+00:00,48.0,22,0.0,2025-07-01,1
+PyPSA/linopy,ai,Python,263,2021-03-22T09:08:29Z,66,428,,2025-06-18 19:41:22+00:00,15.0,0,,2025-04-01,0
+TykTechnologies/tyk,ai,Go,10897,2014-05-07T14:38:24Z,116,629,,2025-08-08 08:41:11+00:00,19.0,20,0.0,2024-10-01,1
+Valour-Software/Valour,ai,C#,399,2020-10-16T18:56:46Z,27,1336,,2025-05-16 23:40:39+00:00,31.0,6,0.0,2025-04-01,1
+airbytehq/airbyte,ai,Python,22438,2020-07-27T23:55:54Z,379,32085,,2025-01-24 23:09:46+00:00,679.0,22,0.0,2025-01-01,1
+aleo-labs-protocol/snarkOS,ai,Rust,4526,2020-02-16T21:46:21Z,111,3468,,2025-09-03 08:46:16+00:00,6.0,21,0.0,2025-07-01,1
+aleo-labs-protocol/snarkVM,ai,Rust,1166,2020-03-14T05:13:57Z,99,4535,,2025-09-01 18:35:34+00:00,5.0,22,0.0,2025-07-01,1
+altair-graphql/altair,ai,TypeScript,5437,2017-03-25T21:08:30Z,83,435,,2025-08-17 09:26:09+00:00,9.0,0,,2025-04-01,0
+altmenorg/HAsmartirrigation,ai,Python,573,2020-05-11T23:09:45Z,46,1158,,2025-07-12 18:29:39+00:00,30.0,2,0.0,2025-07-01,0
+amannn/next-intl,ai,TypeScript,4392,2020-11-20T11:24:11Z,94,422,,2025-08-08 07:43:53+00:00,43.0,2,0.0,2025-07-01,0
+apache/datafusion,ai,Rust,9655,2021-04-17T15:40:23Z,427,6250,,2025-09-04 13:30:00+00:00,37.0,22,0.0,2025-01-01,1
+apache/doris,ai,Java,16258,2017-08-10T12:13:30Z,330,9504,,2025-09-11 09:58:36+00:00,41.0,22,0.0,2025-07-01,1
+apache/solr,ai,Java,1706,2021-02-23T00:12:42Z,325,1751,,2025-08-29 01:02:48+00:00,17.0,22,0.0,2025-07-01,1
+artsy/metaphysics,ai,TypeScript,367,2015-09-18T14:51:48Z,110,1921,,2025-06-05 14:47:15+00:00,6.0,22,0.0,2025-04-01,1
+aztfmod/terraform-provider-azurecaf,ai,Go,189,2020-03-20T08:20:57Z,32,396,,2025-05-27 02:13:05+00:00,12.0,1,0.0,2025-04-01,0
+azukiazusa1/sapper-blog-app,ai,TypeScript,190,2021-02-09T13:24:10Z,47,1424,,2025-05-25 06:26:23+00:00,21.0,0,,2025-04-01,0
+beekeeper-studio/beekeeper-studio,ai,TypeScript,23919,2019-07-23T18:12:33Z,209,5514,,2025-03-11 14:35:45+00:00,9.0,17,0.0,2023-10-01,1
+benbjohnson/litestream,ai,Go,14690,2020-10-06T19:16:01Z,51,453,,2025-07-31 21:35:09+00:00,193.0,0,,2025-07-01,0
+bikeshaving/crank,ai,TypeScript,2803,2019-09-05T00:27:50Z,29,793,,2025-07-10 12:40:19+00:00,19.0,0,,2025-07-01,0
+binarywang/WxJava,ai,Java,33204,2016-01-06T08:24:05Z,414,452,,2025-07-24 08:39:56+00:00,116.0,5,0.0,2025-07-01,1
+bluealloy/revm,ai,Rust,2263,2021-09-29T09:21:18Z,302,1122,,2025-06-10 14:12:28+00:00,12.0,12,0.0,2025-04-01,1
+bootstrap-vue-next/bootstrap-vue-next,ai,TypeScript,1297,2021-06-30T01:30:57Z,143,464,,2025-08-19 23:55:04+00:00,74.0,14,0.0,2025-07-01,1
+browserless/browserless,ai,TypeScript,13960,2017-11-17T04:35:31Z,83,1583,,2025-04-14 14:53:41+00:00,16.0,1,1.0,2025-04-01,0
+cartography-cncf/cartography,ai,Python,4200,2019-02-27T00:16:29Z,153,1535,,2025-06-09 20:37:42+00:00,136.0,11,0.0,2025-04-01,1
+clerk/javascript,ai,TypeScript,1784,2021-12-14T16:53:48Z,314,4301,,2025-09-16 18:51:27+00:00,39.0,18,0.0,2025-04-01,1
+codeceptjs/CodeceptJS,ai,JavaScript,4254,2015-11-22T01:14:36Z,398,741,,2025-08-20 13:14:22+00:00,42.0,7,0.0,2025-04-01,1
+collinbarrett/FilterLists,ai,C#,1669,2016-12-10T20:28:16Z,77,905,,2025-07-29 01:30:51+00:00,41.0,9,0.0,2025-04-01,1
+conda-forge/staged-recipes,ai,Python,850,2015-09-02T21:49:20Z,376,35441,,2025-08-08 10:27:21+00:00,10.0,8,0.0,2023-07-01,1
+cross-seed/cross-seed,ai,TypeScript,1603,2020-06-08T18:56:37Z,63,1017,,2025-06-22 04:09:43+00:00,6.0,8,0.0,2025-04-01,1
+cupy/cupy,ai,Python,12414,2016-11-01T09:54:45Z,319,3145,,2025-08-24 14:11:38+00:00,18.0,20,0.0,2025-07-01,1
+dadoonet/fscrawler,ai,Java,1459,2012-06-08T17:23:03Z,55,1953,,2025-09-05 09:41:09+00:00,8.0,0,,2025-07-01,0
+dailydotdev/apps,ai,TypeScript,1006,2020-07-30T09:31:11Z,79,3398,,2025-07-03 07:24:52+00:00,78.0,20,0.0,2025-01-01,1
+data-privacy-stack/presidio,ai,Python,12030,2018-05-04T11:08:58Z,222,416,,2025-07-06 19:25:52+00:00,23.0,5,0.0,2025-01-01,1
+datahub-project/datahub,ai,Python,13019,2015-11-18T05:47:40Z,409,6356,,2025-05-27 09:15:41+00:00,156.0,22,0.0,2024-10-01,1
+datalad/datalad,ai,Python,676,2013-11-01T19:40:08Z,63,772,,2025-05-24 03:24:18+00:00,13.0,9,0.0,2025-04-01,1
+deepmodeling/deepmd-kit,ai,Python,2091,2017-12-12T15:23:44Z,97,849,,2025-08-18 14:24:49+00:00,31.0,13,0.0,2024-10-01,1
+depot/cli,ai,Go,217,2021-10-11T19:27:33Z,32,1336,,2025-05-21 13:12:08+00:00,11.0,7,0.0,2025-04-01,1
+directus/directus,ai,TypeScript,38630,2012-12-12T01:35:36Z,440,1554,,2025-08-04 19:45:27+00:00,10.0,22,0.0,2021-04-01,1
+dkron-io/dkron,ai,Go,4743,2015-06-10T08:13:17Z,77,334,,2025-09-09 07:28:12+00:00,40.0,0,,2025-07-01,0
+dockview/dockview,ai,TypeScript,3547,2020-06-24T20:40:51Z,54,2177,,2025-07-17 19:36:20+00:00,20.0,2,0.0,2025-07-01,0
+domaframework/doma,ai,Java,511,2014-03-04T14:30:03Z,44,925,,2025-05-03 19:42:07+00:00,43.0,1,0.0,2025-04-01,0
+dotCMS/core,ai,Java,970,2012-03-15T15:24:14Z,108,7413,,2025-06-10 01:00:23+00:00,110.0,22,0.0,2025-01-01,1
+dotnet/aspnetcore,ai,C#,38540,2014-03-11T06:09:42Z,333,3790,,2025-05-20 19:18:06+00:00,154.0,22,0.0,2025-01-01,1
+dotnet/docker-tools,ai,C#,181,2017-05-01T18:41:47Z,25,507,,2025-08-25 17:22:11+00:00,16.0,2,1.0,2025-07-01,0
+dotnet/dotnet-monitor,ai,C#,727,2021-02-15T06:04:41Z,96,1154,,2025-07-25 22:26:54+00:00,6.0,13,0.0,2025-07-01,1
+dotnet/efcore,ai,C#,14823,2014-01-23T00:52:01Z,365,3166,,2025-05-27 23:56:10+00:00,96.0,22,0.0,2025-04-01,1
+dotnet/runtime,ai,C#,18461,2019-09-24T23:36:39Z,317,11172,,2025-05-19 21:42:58+00:00,621.0,22,0.0,2025-01-01,1
+dotnet/vscode-csharp,ai,TypeScript,3080,2015-12-03T15:45:21Z,204,2603,,2025-09-23 01:13:37+00:00,23.0,13,1.0,2025-04-01,1
+dotnetcore/BootstrapBlazor,ai,C#,4973,2020-03-20T10:37:54Z,117,1761,,2025-09-27 02:25:00+00:00,5.0,12,0.0,2025-07-01,1
+dubzzz/fast-check,ai,TypeScript,5310,2017-10-30T23:41:11Z,78,1704,,2025-09-18 21:55:44+00:00,97.0,0,,2025-07-01,0
+dxos/dxos,ai,TypeScript,531,2021-04-07T08:13:23Z,41,5171,,2025-03-17 13:58:43+00:00,148.0,21,0.0,2025-01-01,1
+eggjs/egg,ai,TypeScript,18991,2016-06-18T06:53:23Z,218,567,,2025-08-31 08:17:31+00:00,76.0,2,1.0,2025-07-01,0
+elastic/fleet-server,ai,Go,115,2020-11-10T15:28:43Z,81,1053,,2025-09-22 10:26:23+00:00,24.0,13,0.0,2025-07-01,1
+elastic/terraform-provider-elasticstack,ai,Go,210,2021-10-27T10:31:30Z,107,2842,,2025-07-17 20:10:17+00:00,85.0,4,1.0,2025-07-01,1
+equinor/design-system,ai,TypeScript,157,2019-02-07T11:22:38Z,65,1106,,2025-09-10 11:54:25+00:00,31.0,18,0.0,2025-04-01,1
+ethereum/EIPs,ai,Python,14066,2015-10-26T13:57:23Z,428,2079,,2025-07-24 21:46:50+00:00,26.0,5,0.0,2025-07-01,1
+evcc-io/evcc,ai,Go,7654,2019-12-06T16:27:04Z,451,4803,,2025-07-04 18:59:31+00:00,37.0,22,0.0,2025-04-01,1
+filecoin-project/lotus,ai,Go,2997,2019-06-25T09:52:07Z,346,812,,2025-06-09 17:32:00+00:00,8.0,20,0.0,2025-04-01,1
+firebase/firebase-tools,ai,TypeScript,4492,2013-12-23T18:53:04Z,377,1810,,2025-08-17 21:30:03+00:00,14.0,22,1.0,2025-07-01,1
+freenet/freenet-core,ai,Rust,3132,2021-07-16T13:19:06Z,51,3019,,2025-05-11 13:55:27+00:00,133.0,14,0.0,2024-10-01,1
+frostwire/frostwire,ai,Java,604,2015-11-03T19:39:53Z,25,4231,,2025-08-30 03:13:46+00:00,68.0,0,,2025-07-01,0
+getsentry/sentry-cli,ai,Rust,1044,2016-02-05T21:44:33Z,164,861,,2025-06-11 15:06:28+00:00,38.0,7,0.0,2025-04-01,1
+getsentry/sentry-dotnet,ai,C#,775,2018-05-14T14:29:17Z,139,1294,,2025-07-12 22:57:12+00:00,13.0,17,0.0,2025-07-01,1
+gijzelaerr/python-snap7,ai,Python,879,2013-10-09T13:06:13Z,56,356,,2025-09-11 11:46:36+00:00,45.0,0,,2025-07-01,0
+github/gh-gei,ai,C#,483,2021-10-13T18:27:12Z,63,767,,2025-06-20 14:23:01+00:00,8.0,8,1.0,2025-04-01,1
+go-vikunja/vikunja,ai,Go,6168,2018-11-28T19:52:27Z,166,6219,,2025-06-10 11:03:58+00:00,111.0,12,1.0,2025-04-01,1
+gofiber/docs,ai,TypeScript,219,2020-02-05T21:35:47Z,118,1357,,2025-05-24 21:12:53+00:00,7.0,0,,2025-04-01,0
+gofiber/storage,ai,Go,340,2020-10-28T00:15:12Z,55,4534,,2025-07-02 11:27:33+00:00,7.0,3,0.0,2025-04-01,0
+gradio-app/gradio,ai,Python,44134,2018-12-19T08:24:04Z,465,1573,,2025-07-18 18:53:02+00:00,10.0,22,0.0,2023-07-01,1
+grafana/mimir,ai,Go,5287,2021-07-13T14:34:08Z,385,4756,,2025-08-14 15:41:56+00:00,7.0,22,0.0,2025-04-01,1
+grafana/pyroscope,ai,Go,11737,2020-12-31T05:47:19Z,254,1329,,2025-08-27 08:53:50+00:00,30.0,22,0.0,2025-07-01,1
+grandnode/grandnode2,ai,C#,1340,2021-05-10T14:07:03Z,31,679,,2025-09-14 16:40:54+00:00,6.0,4,1.0,2024-10-01,1
+graphprotocol/graph-node,ai,Rust,3169,2018-04-19T07:13:50Z,124,1167,,2025-08-14 10:43:47+00:00,6.0,19,0.0,2025-07-01,1
+growilabs/growi,ai,TypeScript,1478,2017-02-16T17:15:47Z,164,11555,,2025-09-24 13:39:05+00:00,25.0,22,1.0,2025-04-01,1
+home-assistant/core,ai,Python,92476,2013-09-17T07:29:48Z,431,37866,,2025-07-11 20:10:13+00:00,50.0,22,0.0,2025-01-01,1
+home-assistant/frontend,ai,TypeScript,5826,2015-07-12T23:58:06Z,434,8433,,2025-07-23 12:41:34+00:00,23.0,22,0.0,2025-04-01,1
+home-assistant/supervisor,ai,Python,2266,2017-03-14T08:54:15Z,115,1474,,2025-08-12 07:19:13+00:00,5.0,15,1.0,2025-07-01,1
+homebridge/homebridge-config-ui-x,ai,TypeScript,2817,2017-12-21T04:20:54Z,129,1010,,2025-09-08 13:50:22+00:00,5.0,2,1.0,2025-04-01,0
+honojs/hono,ai,TypeScript,33053,2021-12-14T20:05:30Z,377,782,,2025-05-29 09:49:04+00:00,6.0,11,0.0,2025-04-01,1
+imbhargav5/rooks,ai,TypeScript,3450,2018-11-08T16:14:39Z,81,410,,2025-07-10 19:58:25+00:00,50.0,2,0.0,2025-01-01,0
+ioBroker/ioBroker.admin,ai,TypeScript,302,2014-08-20T15:23:02Z,88,812,,2025-09-05 07:11:19+00:00,34.0,9,0.0,2024-10-01,1
+ioBroker/ioBroker.js-controller,ai,TypeScript,292,2014-07-22T18:58:09Z,46,313,,2025-08-31 11:45:47+00:00,8.0,6,0.0,2025-04-01,1
+jdereg/json-io,ai,Java,390,2013-09-04T15:44:02Z,34,1496,,2025-05-26 20:11:13+00:00,105.0,0,,2025-04-01,0
+kanisterio/kanister,ai,Go,889,2017-11-21T20:42:23Z,103,547,,2025-06-04 18:51:36+00:00,6.0,14,0.0,2025-04-01,1
+kayac/ecspresso,ai,Go,1142,2017-11-06T07:34:51Z,63,596,,2025-05-10 08:25:19+00:00,18.0,0,,2025-04-01,0
+kentcdodds/kentcdodds.com,ai,TypeScript,2500,2020-12-10T21:24:32Z,196,654,,2025-07-04 00:21:42+00:00,142.0,0,,2025-07-01,0
+kingstinct/react-native-healthkit,ai,TypeScript,721,2020-06-26T22:40:28Z,49,540,,2025-07-17 14:51:26+00:00,25.0,1,0.0,2025-04-01,0
+konvajs/konva,ai,TypeScript,15014,2015-01-09T10:14:35Z,193,545,,2025-06-05 21:18:06+00:00,5.0,0,,2025-04-01,0
+kubeovn/kube-ovn,ai,Go,2424,2019-03-22T04:02:14Z,173,1977,,2025-08-26 03:17:49+00:00,110.0,21,0.0,2025-07-01,1
+kuberhealthy/kuberhealthy,ai,Go,2279,2018-06-19T17:15:28Z,96,686,,2025-08-22 04:35:39+00:00,152.0,1,0.0,2025-07-01,0
+mRemoteNG/mRemoteNG,ai,C#,11236,2010-01-06T15:53:17Z,123,2152,,2025-09-23 15:25:10+00:00,65.0,2,0.0,2025-07-01,0
+malloydata/malloy,ai,TypeScript,2627,2021-08-13T17:11:08Z,59,1070,,2025-07-07 14:56:26+00:00,26.0,17,1.0,2025-07-01,1
+mandarons/icloud-docker,ai,Python,1908,2021-02-16T22:49:24Z,24,452,,2025-09-26 16:22:02+00:00,8.0,0,,2025-07-01,0
+manusa/electronim,ai,JavaScript,254,2019-12-20T16:12:28Z,24,414,,2025-08-30 04:23:34+00:00,89.0,0,,2025-07-01,0
+maxmind/GeoIP2-java,ai,Java,865,2013-04-01T21:40:11Z,39,719,,2025-08-25 18:38:11+00:00,7.0,0,,2025-07-01,0
+medplum/medplum,ai,TypeScript,2816,2021-04-21T16:36:22Z,198,3536,,2025-05-15 18:42:23+00:00,15.0,17,0.0,2023-07-01,1
+meziantou/Meziantou.Framework,ai,C#,877,2017-09-10T17:57:35Z,36,7970,,2025-07-16 20:08:05+00:00,68.0,0,,2025-07-01,0
+microsoft/ApplicationInsights-Java,ai,Java,327,2014-12-03T00:13:22Z,76,577,,2025-07-07 15:13:39+00:00,19.0,10,0.0,2025-07-01,1
+microsoft/AzureTRE,ai,Python,236,2021-03-04T14:58:07Z,74,336,,2025-05-25 14:28:18+00:00,32.0,9,0.0,2025-01-01,1
+microsoft/FluidFramework,ai,TypeScript,4954,2019-08-22T17:37:57Z,257,3881,,2025-08-25 21:56:55+00:00,84.0,22,0.0,2024-10-01,1
+microsoft/OpenAPI.NET,ai,C#,1615,2017-07-14T00:24:14Z,112,1872,,2025-06-04 21:12:15+00:00,15.0,13,0.0,2025-04-01,1
+microsoft/Qcodes,ai,Python,470,2015-06-09T14:42:14Z,157,5214,,2025-06-02 13:56:54+00:00,7.0,21,1.0,2025-04-01,1
+microsoft/WinUI-Gallery,ai,C#,3742,2018-11-01T18:24:11Z,122,326,,2025-07-30 10:33:50+00:00,22.0,8,0.0,2025-01-01,1
+microsoft/fluentui,ai,TypeScript,20429,2016-06-06T15:03:44Z,383,2208,,2025-05-26 09:51:30+00:00,59.0,22,0.0,2025-04-01,1
+microsoft/kiota,ai,C#,3850,2020-12-22T15:35:49Z,148,2986,,2025-06-17 20:07:52+00:00,12.0,18,1.0,2025-04-01,1
+microsoft/rushstack,ai,TypeScript,6512,2016-09-30T00:28:20Z,308,1061,,2025-09-16 23:44:23+00:00,38.0,22,0.0,2022-04-01,1
+microsoft/vs-threading,ai,C#,1041,2016-10-05T14:27:26Z,76,1198,,2025-06-11 15:14:48+00:00,6.0,0,,2025-04-01,0
+microsoft/vscode-azuretools,ai,TypeScript,145,2017-10-13T00:27:20Z,46,458,,2025-07-09 16:20:22+00:00,12.0,6,0.0,2025-07-01,1
+mlflow/mlflow,ai,Python,28952,2018-06-05T16:05:58Z,448,7702,,2025-05-23 05:30:00+00:00,1240.0,22,0.0,2025-04-01,1
+mono/SkiaSharp,ai,C#,5640,2016-02-22T17:54:43Z,110,866,,2025-06-20 20:05:57+00:00,11.0,0,,2025-04-01,0
+n-air-app/n-air-app,ai,TypeScript,152,2018-08-06T04:03:09Z,39,2058,,2025-09-04 07:21:49+00:00,127.0,9,0.0,2025-07-01,1
+n8n-io/n8n,ai,TypeScript,211961,2019-06-22T09:24:21Z,435,15264,,2025-05-23 11:15:09+00:00,115.0,22,0.0,2025-04-01,1
+nanvix/nanvix,ai,Rust,322,2013-07-04T17:27:49Z,29,11417,,2025-07-25 04:21:12+00:00,85.0,4,1.0,2025-07-01,1
+napi-rs/napi-rs,ai,Rust,8048,2018-04-28T08:26:28Z,187,1095,,2025-08-07 09:58:03+00:00,8.0,3,0.0,2025-01-01,0
+netket/netket,ai,Python,709,2018-04-23T18:48:08Z,73,453,,2025-05-27 08:38:50+00:00,7.0,3,0.0,2025-04-01,0
+niivue/niivue,ai,TypeScript,506,2021-03-24T22:17:32Z,33,1155,,2025-08-01 11:03:03+00:00,9.0,17,0.0,2025-07-01,1
+nkdAgility/azure-devops-migration-tools,ai,C#,606,2016-04-15T12:39:08Z,120,1190,,2025-06-16 09:03:18+00:00,15.0,1,1.0,2025-04-01,0
+novuhq/novu,ai,TypeScript,40422,2021-08-26T15:22:44Z,376,4313,,2025-05-14 15:29:33+00:00,389.0,19,0.0,2025-04-01,1
+nrwl/nx-console,ai,TypeScript,1416,2018-06-18T22:02:01Z,87,762,,2025-05-30 17:58:44+00:00,25.0,6,0.0,2025-04-01,1
+nyx-space/anise,ai,Rust,296,2021-12-01T05:02:12Z,27,1221,,2025-06-27 04:43:16+00:00,15.0,6,0.0,2025-04-01,1
+ohcnetwork/care_fe,ai,TypeScript,694,2020-03-21T17:32:30Z,345,4559,,2025-08-26 10:46:28+00:00,58.0,21,0.0,2024-10-01,1
+onnx/onnx,ai,Python,21750,2017-09-07T04:53:45Z,407,1327,,2025-07-01 18:09:20+00:00,21.0,18,0.0,2025-04-01,1
+open-cluster-management-io/ocm,ai,Go,1141,2021-09-30T15:11:52Z,107,618,,2025-09-05 02:01:37+00:00,25.0,19,1.0,2025-07-01,1
+open-telemetry/opentelemetry-rust,ai,Rust,2777,2019-11-11T19:53:32Z,318,753,,2025-07-02 16:53:05+00:00,9.0,12,0.0,2025-07-01,1
+openrewrite/rewrite-migrate-java,ai,Java,168,2021-03-21T20:14:16Z,112,895,,2025-07-17 21:35:35+00:00,9.0,16,0.0,2025-07-01,1
+openshift/origin,ai,Go,8694,2014-07-30T20:04:05Z,361,3559,,2025-08-06 14:52:14+00:00,12.0,21,1.0,2025-07-01,1
+optiland/optiland,ai,Python,1090,2017-08-15T23:13:24Z,67,1321,,2025-09-10 17:18:29+00:00,7.0,4,0.0,2025-04-01,1
+owid/etl,ai,Python,166,2021-09-17T12:41:57Z,34,6759,,2025-05-21 09:24:26+00:00,60.0,19,1.0,2025-04-01,1
+owid/owid-grapher,ai,TypeScript,1574,2015-05-04T11:06:48Z,53,6440,,2025-05-29 09:59:46+00:00,42.0,22,0.0,2025-04-01,1
+owncast/owncast,ai,Go,11696,2020-05-24T00:58:13Z,191,2204,,2025-07-04 21:19:17+00:00,20.0,11,1.0,2025-04-01,1
+parse-community/parse-dashboard,ai,JavaScript,3809,2016-01-29T00:00:00Z,146,858,,2025-07-07 10:36:02+00:00,35.0,2,0.0,2025-07-01,0
+pdfme/pdfme,ai,TypeScript,5086,2021-08-22T08:45:56Z,56,950,,2025-02-15 10:12:41+00:00,42.0,1,0.0,2025-01-01,0
+peass-ng/PEASS-ng,ai,C#,20880,2019-01-13T19:58:24Z,122,636,,2025-06-24 23:57:11+00:00,7.0,0,,2025-04-01,0
+pixijs/pixijs,ai,TypeScript,48886,2013-01-21T22:40:50Z,385,509,,2025-05-22 19:18:38+00:00,8.0,16,0.0,2024-10-01,1
+plasma-umass/scalene,ai,Python,13564,2019-12-17T20:56:28Z,61,403,,2025-08-19 20:43:53+00:00,34.0,8,0.0,2025-04-01,1
+pwa-builder/PWABuilder,ai,TypeScript,3847,2015-03-30T19:05:58Z,103,757,,2025-07-01 21:57:50+00:00,19.0,12,0.0,2025-07-01,1
+pydata/xarray,ai,Python,4240,2013-09-30T17:21:10Z,421,967,,2025-07-17 20:10:22+00:00,25.0,21,0.0,2025-07-01,1
+pytorch/test-infra,ai,TypeScript,117,2021-03-30T21:17:15Z,171,2172,,2025-03-19 19:58:12+00:00,12.0,20,0.0,2025-01-01,1
+quiltdata/quilt,ai,TypeScript,1373,2017-02-10T02:46:03Z,35,755,,2025-06-06 11:44:48+00:00,21.0,19,0.0,2024-10-01,1
+radius-project/radius,ai,Go,1674,2021-02-20T00:25:52Z,74,1487,,2025-07-10 01:57:16+00:00,22.0,22,0.0,2025-04-01,1
+reactiveui/ReactiveUI,ai,C#,8559,2010-06-11T05:24:29Z,182,452,,2025-09-04 01:24:17+00:00,14.0,0,,2025-07-01,0
+replicate/cog,ai,Go,9497,2021-02-26T23:43:09Z,88,667,,2025-08-15 21:08:23+00:00,7.0,16,0.0,2025-04-01,1
+runatlantis/atlantis,ai,Go,9369,2018-02-06T20:28:06Z,409,1079,,2025-09-11 22:26:19+00:00,15.0,11,0.0,2024-10-01,1
+sillsdev/FieldWorks,ai,C#,110,2011-10-13T12:48:23Z,48,948,,2025-09-16 21:28:15+00:00,16.0,13,0.0,2025-07-01,1
+specklesystems/speckle-server,ai,TypeScript,864,2020-04-14T17:11:45Z,45,3628,,2025-09-23 07:21:36+00:00,6.0,20,0.0,2025-07-01,1
+srl-labs/containerlab,ai,Go,2968,2020-08-28T05:38:34Z,213,853,,2025-09-25 11:18:48+00:00,11.0,13,0.0,2025-07-01,1
+stackrox/kube-linter,ai,Go,3529,2020-08-13T17:05:00Z,92,317,,2025-08-29 08:52:18+00:00,6.0,0,,2025-07-01,0
+stackrox/stackrox,ai,Go,1315,2021-12-01T23:24:26Z,138,6267,,2025-08-28 10:58:23+00:00,39.0,22,0.0,2025-07-01,1
+strawberry-graphql/strawberry,ai,Python,4732,2018-12-21T08:56:55Z,319,960,,2025-06-19 16:54:48+00:00,16.0,10,0.0,2025-04-01,1
+streamich/memfs,ai,TypeScript,2110,2015-06-15T20:50:40Z,70,615,,2025-07-25 17:13:57+00:00,44.0,0,,2025-07-01,0
+stx-labs/explorer,ai,TypeScript,161,2020-03-09T15:29:47Z,53,523,,2025-05-19 19:33:12+00:00,5.0,5,0.0,2025-04-01,1
+tektoncd/pipelines-as-code,ai,Go,223,2021-04-06T13:26:01Z,67,996,,2025-07-24 19:34:37+00:00,234.0,17,1.0,2025-04-01,1
+thrasher-corp/gocryptotrader,ai,Go,3470,2014-10-28T12:32:15Z,128,526,,2025-07-21 00:18:48+00:00,14.0,10,0.0,2025-04-01,1
+torchgeo/torchgeo,ai,Python,4248,2021-05-21T05:58:56Z,137,1318,,2025-07-15 18:29:28+00:00,6.0,10,0.0,2025-07-01,1
+truenas/webui,ai,TypeScript,548,2017-05-02T14:42:01Z,193,2557,,2025-06-06 08:42:52+00:00,6.0,22,0.0,2025-04-01,1
+unraid/api,ai,TypeScript,123,2019-06-10T15:28:51Z,22,1221,,2025-07-31 01:37:28+00:00,74.0,10,0.0,2025-04-01,1
+velero-io/velero,ai,Go,10385,2017-08-02T17:22:11Z,334,1922,,2025-08-05 05:13:25+00:00,6.0,21,1.0,2024-10-01,1
+vendurehq/vendure,ai,TypeScript,8614,2018-06-11T14:29:20Z,312,3254,,2025-07-23 07:04:26+00:00,8.0,14,1.0,2025-01-01,1
+vercel/vercel,ai,TypeScript,16658,2016-09-09T01:12:08Z,414,2629,,2025-07-25 18:53:08+00:00,85.0,22,0.0,2025-04-01,1
+vespa-engine/pyvespa,ai,Python,177,2020-06-10T10:48:27Z,61,1562,,2025-07-30 06:20:23+00:00,21.0,8,1.0,2025-04-01,1
+vitejs/vite,ai,TypeScript,84068,2020-04-21T05:03:57Z,431,2546,,2025-07-25 12:56:04+00:00,37.0,22,0.0,2025-07-01,1
+vitest-dev/vitest,ai,TypeScript,17437,2021-12-03T19:19:49Z,458,2190,,2025-08-09 20:44:27+00:00,17.0,19,0.0,2025-07-01,1
+wailsapp/wails,ai,Go,37188,2018-12-15T23:14:06Z,413,2756,,2025-07-01 11:22:15+00:00,51.0,14,0.0,2025-04-01,1
+woogles-io/liwords,ai,Go,118,2020-05-07T03:08:08Z,20,2839,,2025-08-25 16:08:49+00:00,35.0,13,0.0,2025-07-01,1
+zapier/zapier-platform,ai,JavaScript,572,2019-06-06T01:44:04Z,78,888,,2025-07-25 08:20:03+00:00,13.0,7,1.0,2025-04-01,1
+zeromicro/go-zero,ai,Go,33441,2020-08-07T15:37:57Z,330,503,,2025-09-20 05:40:43+00:00,6.0,11,0.0,2025-01-01,1
+zfit/zfit,ai,Python,206,2018-03-22T09:31:20Z,27,505,,2025-07-01 14:26:10+00:00,10.0,2,1.0,2025-04-01,0
+0xAX/linux-insides,control,Python,33782,2015-01-03T18:44:57Z,292,368,gradio-app/gradio,,,0,,,0
+3liz/lizmap-web-client,control,JavaScript,338,2013-02-06T09:27:39Z,48,2549,zapier/zapier-platform,,,22,0.0,2026-01-01,1
+ACEmulator/ACE,control,C#,348,2017-01-16T03:18:11Z,80,356,nkdAgility/azure-devops-migration-tools,,,4,1.0,,1
+ASC-Community/AngouriMath,control,C#,832,2019-11-27T17:38:45Z,24,1547,grandnode/grandnode2,,,1,1.0,2026-01-01,0
+AccountGo/accountgo,control,C#,450,2015-01-25T07:33:43Z,61,1010,Valour-Software/Valour,,,3,0.0,2026-04-01,0
+AngleSharp/AngleSharp,control,C#,5551,2013-06-05T12:05:34Z,94,458,mono/SkiaSharp,,,2,1.0,,0
+ArthurHub/HTML-Renderer,control,C#,1407,2013-09-16T08:39:04Z,29,356,meziantou/Meziantou.Framework,,,0,,,0
+Ascend/pytorch,control,Python,609,2021-08-31T02:27:19Z,145,4308,DataDog/integrations-core,,,18,1.0,,1
+BillRun/system,control,JavaScript,132,2013-04-11T16:14:53Z,25,3086,manusa/electronim,,,21,0.0,2026-04-01,1
+Bitcoin-ABC/bitcoin-abc,control,TypeScript,1302,2017-05-01T09:58:15Z,333,3831,nrwl/nx-console,,,22,0.0,2025-07-01,1
+Borewit/music-metadata,control,TypeScript,1338,2016-11-04T07:54:02Z,63,653,clerk/javascript,,,0,,2025-04-01,0
+BuilderIO/builder,control,TypeScript,8890,2019-01-30T23:06:02Z,104,605,firebase/firebase-tools,,,16,0.0,2026-04-01,1
+Cap-go/capgo.app,control,TypeScript,214,2021-12-28T01:55:37Z,39,9231,pytorch/test-infra,,,10,0.0,2025-01-01,1
+Catel/Catel,control,C#,908,2013-04-17T16:07:56Z,50,836,microsoft/vs-threading,,,0,,2026-04-01,0
+CircuitVerse/CircuitVerse,control,JavaScript,1297,2018-10-17T11:05:34Z,282,419,MultiQC/MultiQC,,,5,0.0,2026-04-01,1
+City-of-Helsinki/helsinki-design-system,control,TypeScript,199,2019-08-12T14:29:21Z,51,647,gofiber/docs,,,18,0.0,,1
+ClusterLabs/pcs,control,Python,267,2011-10-31T20:18:21Z,36,804,microsoft/Qcodes,,,18,1.0,2026-01-01,1
+CodeMazeBlog/CodeMazeGuides,control,C#,992,2021-09-16T11:17:55Z,155,320,Azure/azure-functions-core-tools,,,12,0.0,,1
+CombatExtended-Continued/CombatExtended,control,C#,561,2020-04-15T17:41:40Z,249,3605,AzureAD/microsoft-identity-web,,,20,0.0,,1
+CommunityToolkit/Maui,control,C#,2708,2021-06-02T19:02:20Z,112,460,Azure/data-api-builder,,,11,0.0,2025-01-01,1
+DIRACGrid/DIRAC,control,Python,125,2011-04-06T11:47:53Z,95,1641,owid/etl,,,21,1.0,2025-07-01,1
+DSharpPlus/DSharpPlus,control,C#,1342,2016-09-02T17:51:34Z,159,347,microsoft/OpenAPI.NET,,,15,0.0,,1
+DataDog/dd-sdk-reactnative,control,TypeScript,146,2019-12-18T13:25:42Z,58,1609,microsoft/vscode-azuretools,,,9,1.0,,1
+Docile-Alligator/Infinity-For-Reddit,control,Java,5545,2018-07-26T15:02:51Z,64,667,OpenFeign/feign,,,4,0.0,,1
+DomCR/ACadSharp,control,C#,943,2021-02-04T20:44:16Z,38,2609,collinbarrett/FilterLists,,,5,0.0,2026-04-01,1
+Eugeny/tabby,control,TypeScript,75563,2016-12-23T09:06:10Z,225,362,novuhq/novu,,,3,0.0,2025-10-01,0
+Evolveum/midpoint,control,Java,556,2013-12-30T13:46:45Z,79,7118,1c-syntax/bsl-language-server,,,22,1.0,,1
+FAIRmat-NFDI/nomad,control,Python,124,2021-02-18T09:04:02Z,49,1801,microsoft/AzureTRE,,,22,0.0,2026-04-01,1
+FinancePy-Org/FinancePy,control,Python,3239,2019-10-27T15:04:56Z,52,636,Azure/azure-sdk-for-python,,,3,0.0,,0
+FoxxMD/multi-scrobbler,control,TypeScript,1380,2020-11-10T14:45:38Z,38,2675,kingstinct/react-native-healthkit,,,1,0.0,,0
+GetStream/stream-chat-react-native,control,TypeScript,1184,2019-03-28T08:50:26Z,78,1028,cross-seed/cross-seed,,,14,0.0,2025-10-01,1
+GitGuardian/ggshield,control,Python,2025,2020-04-20T15:36:24Z,84,1304,DataDog/integrations-core,,,13,1.0,2026-01-01,1
+GoogleCloudPlatform/terraform-google-conversion,control,Go,133,2019-02-21T02:07:14Z,32,3692,aztfmod/terraform-provider-azurecaf,,,0,,,0
+IrosTheBeggar/mStream,control,JavaScript,2435,2015-12-05T22:26:26Z,25,2201,MultiQC/MultiQC,,,0,,2026-01-01,0
+Jackett/Jackett,control,C#,16410,2015-10-29T16:23:19Z,417,4211,dotnet/runtime,,,17,0.0,2026-04-01,1
+JetBrains/kotlin-web-site,control,TypeScript,1625,2013-11-14T14:26:54Z,394,2018,medplum/medplum,,,12,0.0,2026-01-01,1
+JustArchiNET/ArchiSteamFarm,control,C#,13832,2015-10-25T05:12:33Z,54,1685,dotnet/runtime,,,4,1.0,,1
+Koenkk/zigbee2mqtt,control,TypeScript,15845,2018-04-08T12:01:34Z,461,1133,browserless/browserless,,,2,0.0,2025-07-01,0
+LFDT-Panurus/panurus,control,Go,125,2021-05-28T14:40:18Z,55,1293,elastic/fleet-server,,,10,1.0,2026-01-01,1
+LimeSurvey/LimeSurvey,control,JavaScript,3806,2012-01-30T14:14:53Z,243,2841,codeceptjs/CodeceptJS,,,22,1.0,,1
+MacWarrior/clipbucket-v5,control,JavaScript,184,2018-04-08T14:51:47Z,26,577,NASA-AMMOS/MMGIS,,,0,,,0
+Mailu/Mailu,control,Python,7638,2016-01-10T21:35:55Z,210,533,ethereum/EIPs,,,3,0.0,2026-01-01,0
+Milkdown/milkdown,control,TypeScript,12082,2021-03-09T07:40:18Z,80,661,beekeeper-studio/beekeeper-studio,,,4,0.0,2025-10-01,1
+NLnetLabs/domain,control,Rust,475,2018-08-21T16:37:32Z,50,319,nyx-space/anise,,,6,1.0,,1
+NLog/NLog,control,C#,6547,2012-09-12T13:49:29Z,199,520,MudBlazor/MudBlazor,,,2,0.0,,0
+NVIDIA-NeMo/Speech,control,Python,18784,2019-08-05T20:16:42Z,402,1995,mlflow/mlflow,,,22,0.0,2025-01-01,1
+NVIDIA/gpu-operator,control,Go,2994,2019-02-26T22:56:06Z,114,2009,thrasher-corp/gocryptotrader,,,8,1.0,2026-04-01,1
+NYRDS/remixed-dungeon,control,Java,296,2014-12-21T21:43:24Z,22,5089,openrewrite/rewrite-migrate-java,,,4,0.0,2026-01-01,1
+NativeScript/NativeScript,control,TypeScript,25708,2015-03-01T09:47:08Z,257,709,Effect-TS/effect,,,10,0.0,2026-04-01,1
+NomicFoundation/edr,control,TypeScript,112,2021-08-05T20:27:41Z,320,893,stx-labs/explorer,,,22,0.0,2025-07-01,1
+NomicFoundation/hardhat,control,TypeScript,8522,2018-04-14T22:20:59Z,399,6700,altair-graphql/altair,,,22,0.0,2025-04-01,1
+NosCoreIO/NosCore,control,C#,164,2018-01-21T08:28:57Z,35,1514,Azure/azure-sdk-tools,,,0,,2026-01-01,0
+OCA/helpdesk,control,Python,264,2019-05-28T14:57:32Z,144,1416,vespa-engine/pyvespa,,,0,,,0
+Ocelot-Social-Community/Ocelot-Social,control,TypeScript,115,2020-10-04T14:37:59Z,81,1964,stx-labs/explorer,,,10,0.0,2026-04-01,1
+OctoPrint/OctoPrint,control,Python,9218,2012-12-31T12:20:57Z,264,1263,plasma-umass/scalene,,,4,1.0,2026-01-01,1
+OpenMined/PySyft,control,Python,10064,2017-07-18T20:41:16Z,301,2601,data-privacy-stack/presidio,,,21,0.0,2025-07-01,1
+OpenNMS/opennms,control,Java,1183,2013-04-11T18:22:33Z,145,3310,maxmind/GeoIP2-java,,,20,0.0,2026-01-01,1
+OpenVidu/openvidu,control,TypeScript,2150,2016-10-10T13:31:27Z,33,1370,dotnet/vscode-csharp,,,14,0.0,,1
+PixiEditor/PixiEditor,control,C#,8159,2018-10-09T19:11:51Z,43,2725,dotnet/efcore,,,11,0.0,,1
+Project-MONAI/MONAI,control,Python,8861,2019-10-11T16:41:38Z,322,406,datahub-project/datahub,,,14,0.0,2026-01-01,1
+Qiskit/qiskit,control,Python,7992,2017-03-03T17:02:42Z,458,1697,torchgeo/torchgeo,,,22,0.0,2026-04-01,1
+RRQM/TouchSocket,control,C#,1290,2021-04-06T05:46:46Z,40,326,getsentry/sentry-dotnet,,,2,0.0,,0
+RaspberryPiFoundation/blockly,control,TypeScript,13620,2013-10-25T21:13:33Z,275,1247,vercel/vercel,,,18,1.0,2026-04-01,1
+ReactVision/viro,control,TypeScript,1841,2020-11-27T00:40:37Z,23,765,imbhargav5/rooks,,,0,,,0
+Revolutionary-Games/Thrive,control,C#,3895,2012-08-30T15:31:36Z,331,2846,dotnetcore/BootstrapBlazor,,,21,0.0,,1
+Ruben2776/PicView,control,C#,3811,2017-01-23T08:52:18Z,43,3832,mono/SkiaSharp,,,4,0.0,2026-04-01,1
+SAP/open-ux-tools,control,TypeScript,161,2021-05-28T07:40:30Z,92,3070,ioBroker/ioBroker.admin,,,20,0.0,2025-01-01,1
+SabreTools/MPF,control,C#,770,2018-05-12T23:48:38Z,25,810,github/gh-gei,,,0,,2026-04-01,0
+Samsung/TizenFX,control,C#,216,2017-12-22T04:30:55Z,254,865,dotnet/docker-tools,,,21,1.0,,1
+SeleniumHQ/docker-selenium,control,Go,8662,2014-11-17T17:39:22Z,202,701,owncast/owncast,,,2,0.0,,0
+SimonCropp/GraphQL.EntityFramework,control,C#,398,2018-07-12T00:47:31Z,26,716,AzureAD/microsoft-identity-web,,,0,,2026-01-01,0
+SixLabors/ImageSharp,control,C#,8056,2016-10-28T04:46:36Z,177,2140,Live-Charts/LiveCharts2,,,19,0.0,2025-07-01,1
+Sketchware-Pro/Sketchware-Pro,control,Java,1877,2021-03-30T14:40:50Z,60,971,dotCMS/core,,,15,0.0,2025-04-01,1
+Sofie-Automation/sofie-core,control,TypeScript,349,2018-04-10T19:13:28Z,36,1676,azukiazusa1/sapper-blog-app,,,22,0.0,2026-04-01,1
+SonarSource/sonarlint-visualstudio,control,C#,503,2016-01-27T13:44:12Z,53,887,github/gh-gei,,,17,0.0,2026-04-01,1
+TechnitiumSoftware/DnsServer,control,C#,10442,2017-10-29T10:56:47Z,38,1083,peass-ng/PEASS-ng,,,1,1.0,,0
+TerriaJS/terriajs,control,TypeScript,1387,2014-02-25T06:30:13Z,132,1718,malloydata/malloy,,,22,0.0,2026-04-01,1
+Tribler/tribler,control,Python,5356,2013-02-25T14:51:58Z,88,647,Azure/azure-sdk-for-python,,,14,0.0,,1
+Unity-Technologies/InputSystem,control,C#,1527,2017-10-03T04:50:54Z,106,327,Azure/azure-functions-core-tools,,,13,0.0,2025-04-01,1
+Unity-Technologies/com.unity.netcode.gameobjects,control,C#,2333,2018-01-05T12:56:55Z,93,432,Azure/data-api-builder,,,15,1.0,,1
+Vinzent03/obsidian-git,control,TypeScript,12320,2020-10-27T16:08:16Z,78,333,konvajs/konva,,,0,,2026-01-01,0
+WalletWasabi/WalletWasabi,control,C#,2636,2016-04-03T10:38:02Z,108,802,microsoft/WinUI-Gallery,,,19,0.0,,1
+YAFNET/YAFNET,control,C#,551,2013-08-15T01:52:32Z,24,1420,Azure/azure-cosmos-dotnet-v3,,,0,,2025-07-01,0
+YSGStudyHards/DotNetGuide,control,C#,11160,2020-10-08T14:54:22Z,22,486,peass-ng/PEASS-ng,,,0,,,0
+YarnSpinnerTool/YarnSpinner-Unity,control,C#,854,2020-06-03T13:19:12Z,36,609,getsentry/sentry-dotnet,,,3,1.0,,0
+YouROK/TorrServer,control,Go,3253,2018-08-29T09:21:00Z,82,623,filecoin-project/lotus,,,8,0.0,,1
+Zettlr/Zettlr,control,TypeScript,13959,2017-12-26T18:34:19Z,177,1294,konvajs/konva,,,11,1.0,,1
+actix/actix-extras,control,Rust,893,2020-01-29T10:11:59Z,301,412,getsentry/sentry-cli,,,1,0.0,2026-04-01,0
+adoptium/jdk,control,Java,252,2021-04-27T10:15:30Z,195,9330,EduMIPS64/edumips64,,,22,1.0,,1
+adorsys/keycloak-config-cli,control,Java,1224,2017-11-09T11:24:12Z,81,712,apache/solr,,,3,1.0,,0
+aedenthorn/StardewValleyMods,control,C#,133,2019-12-13T15:07:30Z,37,587,sillsdev/FieldWorks,,,1,0.0,,0
+aers/FFXIVClientStructs,control,C#,348,2020-10-17T12:45:10Z,122,4143,dotnet/docker-tools,,,22,0.0,,1
+agalwood/Motrix,control,TypeScript,58774,2018-12-18T11:45:05Z,78,406,pixijs/pixijs,,,0,,,0
+akkadotnet/akka.net,control,C#,5097,2013-12-29T14:17:38Z,274,941,Humanizr/Humanizer,,,10,0.0,2025-07-01,1
+aleo-labs-protocol/leo,control,Rust,4826,2020-03-10T03:54:41Z,86,1015,aleo-labs-protocol/snarkOS,,,16,0.0,2025-10-01,1
+anacrolix/torrent,control,Go,6136,2015-01-08T21:10:42Z,125,699,grafana/pyroscope,,,0,,2024-10-01,0
+angular/angular-cli,control,TypeScript,27023,2015-06-04T19:49:37Z,410,3308,FaridSafi/react-native-gifted-chat,,,22,0.0,2026-04-01,1
+ansible/ansible,control,Python,71572,2012-03-06T14:58:02Z,373,903,home-assistant/core,,,21,0.0,2021-01-01,1
+apache/seatunnel,control,Java,9830,2017-08-05T09:14:47Z,420,2205,apache/doris,,,19,0.0,2025-04-01,1
+apache/wicket,control,Java,801,2009-05-21T01:51:51Z,139,778,dadoonet/fscrawler,,,2,1.0,,0
+apache/zeppelin,control,Java,6671,2015-03-25T07:00:06Z,339,485,Graylog2/graylog2-server,,,7,0.0,2026-04-01,1
+api-bricks/api-bricks-sdk,control,C#,533,2017-05-22T16:05:55Z,27,5310,meziantou/Meziantou.Framework,,,2,0.0,,0
+appium/appium,control,TypeScript,22252,2013-01-09T22:49:50Z,369,1745,microsoft/fluentui,,,13,1.0,2026-04-01,1
+arangodb/kube-arangodb,control,Go,236,2018-02-05T15:50:22Z,29,497,tektoncd/pipelines-as-code,,,8,0.0,,1
+arktypeio/arktype,control,TypeScript,7892,2019-06-21T20:28:05Z,84,4745,NangoHQ/nango,,,3,1.0,2026-01-01,0
+asbplayer/asbplayer,control,TypeScript,1537,2020-11-21T04:24:02Z,69,920,Brooooooklyn/canvas,,,4,0.0,2026-04-01,1
+audreyt/ethercalc,control,TypeScript,3068,2011-08-20T06:10:56Z,51,604,homebridge/homebridge-config-ui-x,,,0,,2026-01-01,0
+autofac/Autofac,control,C#,4658,2014-01-22T12:53:28Z,70,304,OrchardCMS/OrchardCore,,,0,,,0
+aws-powertools/powertools-lambda-dotnet,control,C#,180,2020-07-29T19:17:50Z,30,1193,sillsdev/FieldWorks,,,6,0.0,2026-01-01,1
+aws-powertools/powertools-lambda-java,control,Java,322,2020-07-13T20:49:09Z,58,647,jdereg/json-io,,,1,0.0,2025-07-01,0
+aws-powertools/powertools-lambda-typescript,control,TypeScript,1794,2020-10-19T20:09:37Z,125,1741,clerk/javascript,,,12,0.0,2025-07-01,1
+aya-rs/aya,control,Rust,4928,2021-01-20T07:31:17Z,121,848,Byron/dua-cli,,,13,0.0,2025-10-01,1
+baserow/baserow,control,Python,6385,2020-07-20T09:32:04Z,54,2852,pydata/xarray,,,20,1.0,2025-10-01,1
+betterscientificsoftware/bssw.io,control,Python,147,2016-12-10T02:34:29Z,99,1293,PyPSA/linopy,,,1,0.0,,0
+binwiederhier/ntfy,control,Go,35728,2021-10-23T19:25:32Z,389,1970,wailsapp/wails,,,5,0.0,2026-04-01,1
+blakeblackshear/frigate,control,Python,37903,2019-01-26T13:52:38Z,429,3108,mlflow/mlflow,,,18,0.0,2025-10-01,1
+borgbackup/borg,control,Python,13949,2015-05-12T23:10:47Z,327,2756,datahub-project/datahub,,,6,1.0,2026-04-01,1
+c9s/bbgo,control,Go,1682,2020-10-05T08:45:21Z,90,3244,kuberhealthy/kuberhealthy,,,19,0.0,2025-04-01,1
+cables-gl/cables,control,JavaScript,576,2015-06-05T09:58:22Z,33,3146,AltimateAI/vscode-dbt-power-user,,,21,1.0,,1
+carbon-design-system/carbon-components-svelte,control,TypeScript,2924,2019-12-15T18:16:39Z,106,6875,kentcdodds/kentcdodds.com,,,0,,,0
+ccfos/nightingale,control,Go,13520,2020-03-03T17:08:26Z,170,959,velero-io/velero,,,13,0.0,2025-04-01,1
+cdk8s-team/cdk8s-plus,control,TypeScript,164,2021-09-14T17:08:16Z,36,1140,azukiazusa1/sapper-blog-app,,,2,0.0,,0
+cerberustesting/cerberus-core,control,Java,369,2013-08-29T20:46:33Z,48,823,1c-syntax/bsl-language-server,,,15,1.0,,1
+cgrates/cgrates,control,Go,532,2012-01-24T10:01:33Z,44,1172,kanisterio/kanister,,,15,0.0,,1
+cgwire/zou,control,Python,203,2017-03-25T23:39:04Z,43,2414,PyPSA/linopy,,,8,1.0,2026-01-01,1
+changesets/changesets,control,TypeScript,12592,2019-03-21T22:33:37Z,202,392,eggjs/egg,,,2,0.0,2026-01-01,0
+chartist-js/chartist,control,TypeScript,13467,2014-03-09T22:40:07Z,68,644,Effect-TS/effect,,,0,,,0
+cheeriojs/cheerio,control,TypeScript,30552,2011-10-09T04:23:20Z,161,1098,vercel/vercel,,,0,,2026-01-01,0
+chirpstack/chirpstack,control,Rust,1147,2021-07-09T14:45:34Z,65,431,getsentry/sentry-cli,,,0,,,0
+ckeditor/ckeditor5,control,JavaScript,10517,2015-01-08T12:13:59Z,166,6133,JuliaPluto/Pluto.jl,,,22,1.0,,1
+cloud-hypervisor/cloud-hypervisor,control,Rust,6573,2019-04-30T22:49:03Z,223,4428,napi-rs/napi-rs,,,22,0.0,2026-04-01,1
+compodoc/compodoc,control,TypeScript,4115,2016-10-17T07:09:28Z,72,497,amannn/next-intl,,,1,0.0,,0
+cooklang/cookcli,control,Rust,1452,2021-01-18T20:15:52Z,50,1091,aleo-labs-protocol/snarkVM,,,0,,2025-07-01,0
+coredns/coredns,control,Go,14448,2016-03-18T20:56:45Z,433,1219,runatlantis/atlantis,,,3,0.0,2026-01-01,0
+cortex-js/compute-engine,control,TypeScript,488,2019-10-31T04:35:01Z,20,5449,artsy/metaphysics,,,0,,2025-07-01,0
+coveragepy/coveragepy,control,Python,3433,2018-06-23T17:44:53Z,211,1076,strawberry-graphql/strawberry,,,0,,2026-04-01,0
+creusot-rs/creusot,control,Rust,1983,2021-01-25T15:49:30Z,55,2458,freenet/freenet-core,,,16,0.0,2021-10-01,1
+crowdsecurity/crowdsec,control,Go,15780,2020-05-15T09:38:05Z,89,879,TykTechnologies/tyk,,,20,0.0,2026-04-01,1
+cssnano/cssnano,control,JavaScript,4980,2015-04-14T16:23:09Z,117,824,codeceptjs/CodeceptJS,,,0,,,0
+cyanfish/naps2,control,C#,4820,2015-07-19T20:54:38Z,20,801,dotnetcore/BootstrapBlazor,,,0,,,0
+d2phap/ImageGlass,control,C#,15054,2012-12-30T16:13:14Z,54,1925,reactiveui/ReactiveUI,,,0,,,0
+dataform-co/dataform,control,TypeScript,1000,2018-09-03T14:36:28Z,77,426,ohcnetwork/care_fe,,,2,0.0,,0
+datamodel-code-generator/datamodel-code-generator,control,Python,4064,2019-05-29T08:01:32Z,218,3354,cartography-cncf/cartography,,,0,,2025-10-01,0
+dbeaver/cloudbeaver,control,TypeScript,5246,2020-04-09T16:39:57Z,68,1435,vendurehq/vendure,,,22,0.0,2025-07-01,1
+diegomura/react-pdf,control,TypeScript,16863,2016-10-18T21:33:58Z,172,309,vitest-dev/vitest,,,0,,2026-04-01,0
+digitalocean/godo,control,Go,1546,2014-09-03T14:07:36Z,230,370,kayac/ecspresso,,,2,1.0,2026-01-01,0
+diplodoc-platform/cli,control,TypeScript,123,2020-04-29T13:20:06Z,49,1441,unraid/api,,,12,1.0,2025-10-01,1
+dosco/deeporg,control,Go,3239,2019-03-24T13:43:05Z,59,1185,go-vikunja/vikunja,,,3,0.0,2025-04-01,0
+duckdb/duckdb-wasm,control,TypeScript,2173,2021-05-17T16:46:10Z,52,422,bikeshaving/crank,,,3,0.0,,0
+e2nIEE/pandapower,control,Python,1333,2017-01-12T13:27:53Z,150,1257,datalad/datalad,,,21,1.0,2026-04-01,1
+earthaccess-dev/earthaccess,control,Python,653,2021-08-25T15:25:00Z,54,1111,altmenorg/HAsmartirrigation,,,3,0.0,2025-07-01,0
+earthians/marley,control,Python,563,2021-08-24T12:26:35Z,92,838,optiland/optiland,,,4,0.0,,1
+eclipse-edc/Connector,control,Java,429,2021-07-26T18:12:57Z,90,958,frostwire/frostwire,,,21,0.0,2026-04-01,1
+eclipse-ee4j/mojarra,control,Java,186,2018-04-12T13:53:46Z,70,1300,openrewrite/rewrite-migrate-java,,,4,0.0,2026-04-01,1
+eclipse-jnosql/jnosql,control,Java,267,2016-07-14T21:58:40Z,37,3580,microsoft/ApplicationInsights-Java,,,3,0.0,2025-10-01,0
+edrlab/thorium-reader,control,TypeScript,2960,2017-03-20T10:57:56Z,42,1639,kentcdodds/kentcdodds.com,,,11,0.0,2026-04-01,1
+egametang/ET,control,C#,9964,2010-06-27T15:50:52Z,75,594,dotnet/efcore,,,2,0.0,2025-04-01,0
+emqx/MQTTX,control,TypeScript,5111,2019-05-24T09:16:00Z,46,718,microsoft/rushstack,,,6,0.0,2026-04-01,1
+ether/etherpad,control,TypeScript,18634,2011-03-26T13:09:02Z,312,1500,Automattic/wp-calypso,,,3,1.0,2025-07-01,0
+ether/ueberDB,control,TypeScript,273,2011-05-08T15:06:29Z,40,398,ioBroker/ioBroker.admin,,,0,,2026-04-01,0
+ethersphere/bee,control,Go,1484,2020-01-17T11:00:03Z,92,377,open-cluster-management-io/ocm,,,15,0.0,2025-10-01,1
+ever-co/ever-traduora,control,JavaScript,2140,2019-03-05T07:46:09Z,33,357,KelvinTegelaar/CIPP,,,0,,2025-04-01,0
+evilmartians/lefthook,control,Go,9056,2019-02-05T14:00:56Z,160,412,evcc-io/evcc,,,0,,2025-07-01,0
+extension-js/extension.js,control,TypeScript,5222,2020-10-22T23:48:23Z,24,3197,microsoft/FluidFramework,,,0,,,0
+f-droid/fdroiddata,control,Python,364,2014-07-23T17:44:37Z,327,37452,netket/netket,,,0,,2026-04-01,0
+fecgov/openFEC,control,Python,537,2014-08-19T15:51:14Z,51,556,conda-forge/staged-recipes,,,7,1.0,,1
+fi3ework/vite-plugin-checker,control,TypeScript,1254,2021-03-27T09:56:32Z,72,441,quiltdata/quilt,,,0,,,0
+forcedotcom/salesforcedx-vscode,control,TypeScript,1042,2017-06-21T15:53:45Z,131,2572,owid/owid-grapher,,,19,0.0,2025-04-01,1
+freezy/VisualPinball.Engine,control,C#,519,2019-12-20T22:52:57Z,27,1498,Valour-Software/Valour,,,5,0.0,2025-07-01,1
+fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat,control,C#,1888,2021-04-23T07:08:35Z,29,446,grandnode/grandnode2,,,0,,,0
+gardener/gardener,control,Go,3490,2018-01-13T20:57:47Z,274,3554,OffchainLabs/prysm,,,22,0.0,2025-10-01,1
+geekcomputers/Python,control,Python,35514,2011-11-30T09:04:08Z,403,1091,airbytehq/airbyte,,,6,0.0,,1
+golang/pkgsite,control,Go,1330,2020-05-19T15:06:18Z,106,517,radius-project/radius,,,7,1.0,,1
+google-parfait/tensorflow-federated,control,Python,2453,2018-12-12T23:15:35Z,116,340,strawberry-graphql/strawberry,,,16,1.0,,1
+google/brotli,control,TypeScript,15145,2014-10-09T14:35:14Z,130,350,vendurehq/vendure,,,0,,,0
+google/error-prone,control,Java,7279,2014-08-21T23:26:50Z,239,1179,Graylog2/graylog2-server,,,22,1.0,,1
+google/syzkaller,control,Go,6424,2015-10-12T06:05:05Z,298,3308,MontFerret/ferret,,,22,1.0,2026-01-01,1
+grafana/grafana-plugin-sdk-go,control,Go,253,2019-09-23T15:04:12Z,92,518,elastic/terraform-provider-elasticstack,,,4,0.0,2026-01-01,1
+grandinetech/grandine,control,Rust,286,2021-06-29T11:50:59Z,22,935,nanvix/nanvix,,,10,1.0,,1
+graphql/graphql-js,control,TypeScript,20341,2015-06-30T12:16:50Z,219,712,Automattic/wp-calypso,,,2,0.0,2026-04-01,0
+graphql/graphql.github.io,control,TypeScript,890,2015-09-03T22:40:02Z,432,561,cross-seed/cross-seed,,,8,0.0,2025-10-01,1
+gravitl/netmaker,control,Go,11883,2021-03-25T15:33:08Z,91,1360,TykTechnologies/tyk,,,20,0.0,,1
+graycoreio/daffodil,control,TypeScript,465,2018-04-09T20:36:05Z,34,1307,specklesystems/speckle-server,,,15,0.0,,1
+guardian/dotcom-rendering,control,TypeScript,277,2017-10-16T10:13:32Z,172,5828,Agoric/agoric-sdk,,,22,0.0,2026-04-01,1
+gvisor/gvisor,control,Go,20100,2018-04-26T21:28:49Z,394,4242,wailsapp/wails,,,22,1.0,2026-01-01,1
+haproxytech/client-native,control,Go,156,2019-05-14T16:08:13Z,43,351,depot/cli,,,17,1.0,,1
+hashicorp/terraform-provider-vault,control,Go,514,2017-06-05T20:54:13Z,356,363,kanisterio/kanister,,,8,0.0,2026-01-01,1
+haxtheweb/webcomponents,control,JavaScript,280,2018-09-25T14:05:04Z,44,3882,OpenSprinkler/OpenSprinkler-App,,,8,0.0,2025-07-01,1
+hibernate/hibernate-orm,control,Java,6490,2010-10-04T16:15:52Z,361,6120,OpenFeign/feign,,,22,1.0,2026-04-01,1
+hotosm/openaerialmap,control,Python,309,2014-06-26T13:58:44Z,27,555,zfit/zfit,,,1,1.0,,0
+ipodtouch0218/NSMB-MarioVsLuigi,control,C#,1112,2021-10-05T21:00:45Z,32,848,microsoft/OpenAPI.NET,,,5,0.0,,1
+iptv-org/iptv,control,TypeScript,144633,2018-11-14T22:00:57Z,370,4257,n8n-io/n8n,,,9,0.0,2022-01-01,1
+island-is/island.is,control,TypeScript,445,2020-05-04T08:03:38Z,161,5449,ioBroker/ioBroker.js-controller,,,22,0.0,2025-04-01,1
+itwanger/toBeBetterJavaer,control,Java,17858,2018-11-08T00:35:56Z,33,311,binarywang/WxJava,,,0,,2026-01-01,0
+jacebrowning/memegen,control,Python,1763,2015-06-13T19:37:46Z,20,514,mandarons/icloud-docker,,,0,,2026-04-01,0
+jax-ml/jax,control,Python,36679,2018-10-25T21:25:02Z,397,15191,onnx/onnx,,,22,1.0,2025-10-01,1
+jellyfin/jellyfin-ios,control,JavaScript,628,2019-08-19T06:46:13Z,371,787,KelvinTegelaar/CIPP,,,1,0.0,,0
+jenkinsci/jenkins,control,Java,26807,2010-11-22T21:21:23Z,295,3149,apache/doris,,,22,0.0,2025-04-01,1
+joist-orm/joist-orm,control,TypeScript,386,2020-02-02T23:24:07Z,34,903,dxos/dxos,,,2,0.0,2025-07-01,0
+jolokia/jolokia,control,Java,851,2010-07-15T20:08:44Z,72,574,dadoonet/fscrawler,,,1,0.0,,0
+jupyterlite/jupyterlite,control,TypeScript,4920,2021-03-27T19:36:52Z,82,370,pwa-builder/PWABuilder,,,3,0.0,2025-04-01,0
+justcoding121/titanium-web-proxy,control,C#,2016,2015-01-05T16:58:51Z,46,3046,microsoft/kiota,,,0,,,0
+k0sproject/k0s,control,Go,6619,2020-06-10T10:44:09Z,165,4464,openshift/origin,,,22,1.0,2026-04-01,1
+kaapana/kaapana,control,Python,280,2020-08-06T09:28:22Z,23,1676,zfit/zfit,,,20,1.0,,1
+kiali/kiali,control,Go,3650,2018-02-04T12:11:57Z,141,1141,thrasher-corp/gocryptotrader,,,22,0.0,2025-07-01,1
+kiwitcms/kiwitcms,control,Python,1304,2017-05-25T08:18:13Z,84,784,datalad/datalad,,,0,,,0
+knative-extensions/eventing-kafka-broker,control,Go,201,2020-06-18T18:49:39Z,81,361,gofiber/storage,,,15,1.0,,1
+knative/func,control,Go,365,2020-02-21T12:44:24Z,100,992,aztfmod/terraform-provider-azurecaf,,,17,0.0,2025-10-01,1
+knative/serving,control,Go,6135,2018-01-24T22:07:44Z,299,742,grafana/mimir,,,8,1.0,2026-04-01,1
+koderover/zadig,control,Go,3285,2021-05-12T15:31:02Z,42,1867,dkron-io/dkron,,,14,1.0,,1
+kubearmor/KubeArmor,control,Go,2644,2020-11-26T01:59:16Z,137,764,kubeovn/kube-ovn,,,21,0.0,2026-04-01,1
+kubereboot/kured,control,Go,2595,2017-04-18T09:41:25Z,63,514,kuberhealthy/kuberhealthy,,,0,,,0
+kubernetes/kube-state-metrics,control,Go,6241,2016-05-06T06:10:13Z,398,844,grafana/mimir,,,5,0.0,2026-01-01,1
+kubevela/kubevela,control,Go,7928,2020-07-03T06:13:20Z,278,375,benbjohnson/litestream,,,12,0.0,2026-01-01,1
+leo-editor/leo-editor,control,Python,1615,2014-02-11T11:14:41Z,48,4889,gijzelaerr/python-snap7,,,12,0.0,,1
+leon-ai/leon,control,TypeScript,17713,2019-02-10T12:25:12Z,24,2194,honojs/hono,,,1,0.0,,0
+lightninglabs/loop,control,Go,593,2019-02-16T01:57:56Z,61,1029,kayac/ecspresso,,,10,0.0,2025-07-01,1
+lostindark/DriverStoreExplorer,control,C#,12219,2016-06-15T04:03:33Z,46,333,mRemoteNG/mRemoteNG,,,1,0.0,2026-01-01,0
+lucide-icons/lucide,control,TypeScript,25974,2020-06-08T15:36:21Z,448,1307,directus/directus,,,8,0.0,2025-07-01,1
+lukevella/rallly,control,TypeScript,5368,2015-01-27T17:01:38Z,35,2495,pdfme/pdfme,,,0,,2025-04-01,0
+marcelscruz/dev-resources,control,TypeScript,1369,2021-01-25T19:34:25Z,88,1372,malloydata/malloy,,,0,,2025-01-01,0
+matrix-org/matrix.org,control,JavaScript,636,2014-09-01T15:46:24Z,177,1432,zapier/zapier-platform,,,0,,,0
+mautrix/whatsapp,control,Go,1939,2018-08-12T19:26:15Z,49,540,stackrox/kube-linter,,,1,1.0,2025-07-01,0
+meeb/tubesync,control,Python,2816,2020-11-22T06:33:42Z,54,3521,home-assistant/supervisor,,,0,,,0
+meriyah/meriyah,control,TypeScript,1225,2019-05-07T05:32:23Z,38,333,streamich/memfs,,,0,,,0
+meta-pytorch/torchrec,control,Python,2630,2021-07-12T23:15:48Z,297,1977,pydata/xarray,,,19,1.0,,1
+meta/lexical,control,TypeScript,24041,2020-12-03T22:53:26Z,450,1539,NangoHQ/nango,,,17,0.0,2025-10-01,1
+meta/sapling,control,Rust,7269,2016-05-05T16:53:47Z,262,16589,apache/datafusion,,,22,1.0,,1
+metal3-io/cluster-api-provider-metal3,control,Go,295,2020-03-05T06:38:48Z,88,1760,gofiber/storage,,,7,1.0,2025-10-01,1
+metrico/gigapipe,control,Go,1725,2018-12-26T13:52:21Z,36,475,srl-labs/containerlab,,,8,0.0,2025-04-01,1
+michaelfaith/eslint-plugin-package-json,control,TypeScript,264,2018-09-28T09:09:55Z,40,1558,gofiber/docs,,,0,,2026-04-01,0
+mickael-kerjean/filestash,control,Go,14927,2017-06-13T05:34:14Z,72,893,velero-io/velero,,,0,,,0
+microsoft/azure-pipelines-extensions,control,TypeScript,313,2016-04-01T10:56:59Z,120,408,equinor/design-system,,,2,1.0,2026-04-01,0
+microsoft/kiota-samples,control,Go,117,2021-04-16T14:58:32Z,24,3586,woogles-io/liwords,,,3,1.0,2026-04-01,0
+microsoft/vscode-react-native,control,TypeScript,2734,2016-01-20T21:10:07Z,78,1116,OHIF/Viewers,,,1,0.0,2026-01-01,0
+minio/madmin-go,control,Go,123,2021-05-05T21:12:26Z,52,383,woogles-io/liwords,,,2,0.0,2025-10-01,0
+miroslavpejic85/mirotalk,control,JavaScript,4852,2021-01-01T21:31:15Z,29,1130,IsmaelMartinez/teams-for-linux,,,0,,,0
+mockoon/mockoon,control,TypeScript,8493,2017-07-17T13:19:16Z,63,579,browserless/browserless,,,0,,2025-10-01,0
+mongodb/mongodb-atlas-kubernetes,control,Go,201,2020-11-03T15:46:02Z,41,1303,tektoncd/pipelines-as-code,,,18,1.0,2026-01-01,1
+mozilla/addons-linter,control,JavaScript,369,2015-09-14T08:34:44Z,179,587,manusa/electronim,,,0,,,0
+mozilla/fxa,control,TypeScript,697,2015-06-03T21:16:46Z,204,6121,dxos/dxos,,,22,1.0,2025-10-01,1
+mozilla/pontoon,control,Python,1679,2011-02-19T11:25:51Z,139,632,conda-forge/staged-recipes,,,13,0.0,,1
+mozilla/web-ext,control,JavaScript,3152,2016-02-01T18:08:32Z,98,411,JuliaPluto/Pluto.jl,,,0,,,0
+mx-space/core,control,TypeScript,569,2021-07-14T14:47:50Z,27,2224,Agoric/agoric-sdk,,,0,,2025-07-01,0
+nats-io/nats-architecture-and-design,control,Go,441,2021-06-29T19:44:04Z,21,333,DataDog/terraform-provider-datadog,,,0,,,0
+neomjs/neo,control,JavaScript,3304,2019-11-10T23:56:02Z,154,14213,IsmaelMartinez/teams-for-linux,,,8,0.0,2025-07-01,1
+neovide/neovide,control,Rust,15302,2019-12-06T20:51:39Z,227,306,apache/datafusion,,,4,0.0,,1
+newrelic/node-newrelic,control,JavaScript,1000,2013-01-03T22:19:32Z,139,1025,AltimateAI/vscode-dbt-power-user,,,20,1.0,2026-04-01,1
+nginx/kubernetes-ingress,control,Go,5109,2016-03-10T03:45:12Z,168,1833,replicate/cog,,,17,0.0,2025-10-01,1
+nginx/nginx-gateway-fabric,control,Go,1200,2021-10-22T17:59:15Z,90,1898,open-cluster-management-io/ocm,,,16,0.0,,1
+nhost/nhost,control,Go,9399,2021-02-09T13:33:34Z,156,1765,benbjohnson/litestream,,,20,0.0,2025-10-01,1
+nilbuild/developer-roadmap,control,TypeScript,372680,2017-03-15T13:45:52Z,470,2051,n8n-io/n8n,,,10,0.0,2025-04-01,1
+nonebot/nonebot2,control,Python,7785,2020-08-23T03:02:15Z,371,842,data-privacy-stack/presidio,,,7,0.0,,1
+nordic-institute/X-Road,control,Java,879,2018-05-20T11:06:37Z,74,3799,maxmind/GeoIP2-java,,,22,1.0,2025-10-01,1
+nunit/nunit-console,control,C#,236,2016-08-15T13:24:01Z,97,407,Azure/azure-sdk-tools,,,1,0.0,,0
+nuxt-content/docus,control,TypeScript,3136,2020-11-12T15:30:07Z,83,713,pwa-builder/PWABuilder,,,8,0.0,,1
+nuxt-modules/i18n,control,TypeScript,2092,2017-11-12T20:42:35Z,127,647,medplum/medplum,,,2,0.0,2026-04-01,0
+nuxt/test-utils,control,TypeScript,445,2019-07-31T10:29:26Z,81,784,specklesystems/speckle-server,,,0,,,0
+nuxt/ui,control,TypeScript,7103,2021-11-15T15:59:30Z,405,2708,microsoft/FluidFramework,,,9,0.0,2025-10-01,1
+nymtech/nym,control,Rust,1996,2020-01-07T11:42:53Z,75,2674,bluealloy/revm,,,21,0.0,2025-07-01,1
+oasisprotocol/oasis-core,control,Go,368,2018-03-31T01:42:22Z,56,1165,depot/cli,,,15,0.0,,1
+odoo/owl,control,TypeScript,1602,2019-03-29T08:29:59Z,61,332,bikeshaving/crank,,,4,1.0,2026-04-01,1
+offa/android-foss,control,Python,11766,2017-03-20T15:06:16Z,131,319,onnx/onnx,,,0,,,0
+open-chat-labs/open-chat,control,TypeScript,208,2020-12-18T14:10:36Z,28,3049,ioBroker/ioBroker.js-controller,,,21,0.0,2026-04-01,1
+open-telemetry/opentelemetry-dotnet-contrib,control,C#,681,2020-05-05T20:14:43Z,195,2501,dotnet/dotnet-monitor,,,18,0.0,2025-07-01,1
+open-telemetry/opentelemetry-go-contrib,control,Go,1688,2020-02-21T18:12:36Z,335,2832,radius-project/radius,,,11,0.0,2025-07-01,1
+opencontainers/runc,control,Go,13577,2015-06-05T23:30:45Z,347,1222,grafana/pyroscope,,,8,0.0,,1
+opendatateam/udata,control,Python,274,2014-04-25T09:57:34Z,50,875,microsoft/Qcodes,,,7,0.0,2026-01-01,1
+openinframap/openinframap,control,TypeScript,706,2016-10-16T16:13:15Z,49,381,bootstrap-vue-next/bootstrap-vue-next,,,1,1.0,,0
+openjdk/jdk,control,Java,23570,2018-09-17T12:29:20Z,195,9330,binarywang/WxJava,,,22,1.0,,1
+openmrs/openmrs-esm-core,control,TypeScript,100,2020-08-22T21:35:31Z,100,583,unraid/api,,,18,0.0,2026-04-01,1
+openstack/neutron,control,Python,1475,2011-09-16T16:04:08Z,274,2414,home-assistant/supervisor,,,21,1.0,2026-01-01,1
+openstack/openstack,control,Python,6081,2013-10-24T17:38:08Z,337,28282,cartography-cncf/cartography,,,0,,2021-01-01,0
+optuna/optuna-dashboard,control,TypeScript,818,2020-10-24T09:19:45Z,46,907,truenas/webui,,,12,0.0,,1
+otter-sec/anchor,control,Rust,5178,2021-01-01T00:03:10Z,388,609,graphprotocol/graph-node,,,9,0.0,2026-04-01,1
+oxidecomputer/console,control,TypeScript,231,2020-03-23T23:59:58Z,23,516,equinor/design-system,,,21,0.0,2025-10-01,1
+pact-foundation/pact-js,control,TypeScript,1828,2016-06-03T12:02:17Z,102,650,streamich/memfs,,,4,0.0,2026-04-01,1
+pagopa/io-app,control,TypeScript,706,2017-04-11T09:34:46Z,101,2541,niivue/niivue,,,22,0.0,2025-10-01,1
+panva/jose,control,TypeScript,7895,2018-11-06T08:46:01Z,35,464,dubzzz/fast-check,,,0,,,0
+pass-culture/pass-culture-main,control,Python,194,2018-01-08T14:12:34Z,170,10629,vespa-engine/pyvespa,,,22,0.0,2026-04-01,1
+payara/Payara,control,Java,922,2014-09-11T18:32:40Z,111,3850,apache/solr,,,21,0.0,2026-04-01,1
+plasmicapp/plasmic,control,TypeScript,7179,2021-02-02T19:37:59Z,43,2546,altair-graphql/altair,,,22,1.0,2023-10-01,1
+podman-container-tools/buildah,control,Go,9199,2017-01-26T16:59:13Z,248,1701,openshift/origin,,,15,1.0,2026-01-01,1
+podman-container-tools/podman,control,Go,33380,2017-11-01T15:01:27Z,421,4785,zeromicro/go-zero,,,22,1.0,2025-04-01,1
+podman-container-tools/skopeo,control,Go,11431,2016-03-07T20:23:29Z,154,755,runatlantis/atlantis,,,0,,2026-01-01,0
+portainer/portainer,control,TypeScript,38898,2016-05-19T20:15:28Z,229,1208,microsoft/fluentui,,,22,0.0,2025-07-01,1
+powsybl/powsybl-core,control,Java,197,2017-09-29T14:51:18Z,126,608,EduMIPS64/edumips64,,,21,0.0,,1
+ppy/osu-framework,control,C#,2038,2016-08-26T03:45:35Z,176,752,microsoft/WinUI-Gallery,,,20,0.0,,1
+pretix/pretix,control,Python,2580,2014-09-08T13:10:38Z,356,2846,deepmodeling/deepmd-kit,,,22,1.0,,1
+prettier-solidity/prettier-plugin-solidity,control,TypeScript,751,2018-05-15T15:12:02Z,22,633,ohcnetwork/care_fe,,,0,,,0
+prisma/orm,control,TypeScript,47713,2019-06-20T13:33:47Z,47,8716,vitejs/vite,,,3,1.0,2025-10-01,0
+prometheus/alertmanager,control,Go,8706,2013-07-16T15:06:31Z,391,996,dkron-io/dkron,,,4,0.0,2025-10-01,1
+publiccodeyml/publiccode.yml,control,Python,199,2018-07-04T13:58:43Z,32,358,LMFDB/lmfdb,,,0,,,0
+py-pdf/pypdf,control,Python,10310,2012-01-06T17:13:38Z,359,1014,ethereum/EIPs,,,10,0.0,2026-01-01,1
+python-pillow/Pillow,control,Python,14012,2012-07-24T21:38:39Z,395,2867,cupy/cupy,,,17,0.0,2026-04-01,1
+python/mypy,control,Python,20734,2012-12-07T13:30:23Z,412,1806,airbytehq/airbyte,,,22,0.0,2026-01-01,1
+redis/RedisInsight,control,TypeScript,8939,2021-07-30T09:20:35Z,59,2059,home-assistant/frontend,,,19,1.0,2024-10-01,1
+reduxjs/redux-toolkit,control,TypeScript,11247,2018-03-03T21:21:53Z,416,391,eggjs/egg,,,14,0.0,2026-01-01,1
+rejetto/hfs,control,TypeScript,4019,2021-12-19T09:34:54Z,22,1656,OHIF/Viewers,,,0,,2025-10-01,0
+release-drafter/release-drafter,control,TypeScript,3954,2018-06-28T13:31:05Z,92,422,dockview/dockview,,,2,0.0,2026-01-01,0
+requarks/wiki,control,TypeScript,29374,2016-08-16T19:35:26Z,160,446,pixijs/pixijs,,,0,,,0
+rook/rook,control,Go,13716,2016-07-08T22:45:05Z,377,3033,replicate/cog,,,21,1.0,2026-01-01,1
+rsksmart/rskj,control,Java,690,2017-05-16T14:47:56Z,71,2216,jdereg/json-io,,,21,1.0,2025-10-01,1
+rusq/slackdump,control,Go,2877,2021-10-31T06:51:23Z,33,1010,stackrox/kube-linter,,,0,,2025-07-01,0
+rust-lang/miri,control,Rust,6765,2015-11-12T21:51:25Z,376,10291,napi-rs/napi-rs,,,20,0.0,2026-01-01,1
+rust-windowing/winit,control,Rust,6293,2016-02-23T11:17:06Z,421,333,aleo-labs-protocol/snarkOS,,,8,0.0,,1
+rustsec/rustsec,control,Rust,1996,2017-02-07T09:53:17Z,126,545,open-telemetry/opentelemetry-rust,,,3,0.0,,0
+saas-js/saas-ui,control,TypeScript,1658,2021-10-19T18:28:24Z,39,622,dotnet/vscode-csharp,,,0,,2026-01-01,0
+safe-global/safe-deployments,control,TypeScript,182,2021-04-14T08:34:39Z,232,642,pytorch/test-infra,,,1,0.0,2026-01-01,0
+safe-global/safe-eth-py,control,Python,195,2018-08-30T08:35:15Z,75,740,LMFDB/lmfdb,,,6,0.0,,1
+scaleway/scaleway-sdk-go,control,Go,129,2019-04-24T14:35:32Z,39,973,elastic/terraform-provider-elasticstack,,,2,1.0,2026-01-01,0
+schemathesis/schemathesis,control,Python,3813,2019-08-19T11:13:01Z,73,4012,deepmodeling/deepmd-kit,,,0,,,0
+seredis/StackExchange.Redis,control,C#,6207,2014-03-14T14:09:26Z,229,323,microsoft/kiota,,,1,0.0,,0
+serenity-is/Serenity,control,C#,2690,2014-01-31T09:35:59Z,38,1939,collinbarrett/FilterLists,,,1,0.0,2025-07-01,0
+shimat/opencvsharp,control,C#,6124,2013-12-21T00:27:48Z,84,1310,OrchardCMS/OrchardCore,,,3,0.0,2026-01-01,0
+shinyoshiaki/werift-webrtc,control,TypeScript,650,2020-02-16T07:37:24Z,20,2989,bootstrap-vue-next/bootstrap-vue-next,,,0,,2025-04-01,0
+signal18/replication-manager,control,Go,747,2015-10-14T13:23:39Z,24,6207,stackrox/stackrox,,,11,1.0,2025-10-01,1
+sigstore/fulcio,control,Go,900,2021-02-23T15:19:44Z,98,461,stackrox/stackrox,,,3,0.0,,0
+silx-kit/silx,control,Python,168,2015-09-28T09:23:13Z,53,1657,microsoft/AzureTRE,,,12,1.0,2025-07-01,1
+simonihmig/responsive-image,control,TypeScript,211,2016-11-02T18:11:32Z,27,2644,artsy/metaphysics,,,0,,,0
+sitespeedio/sitespeed.io,control,JavaScript,5054,2012-07-04T19:17:10Z,122,983,parse-community/parse-dashboard,,,0,,2026-04-01,0
+siyuan-note/siyuan,control,TypeScript,47363,2020-08-30T09:21:35Z,139,15610,vitejs/vite,,,15,0.0,2026-01-01,1
+software-mansion/react-native-reanimated,control,TypeScript,11094,2018-04-25T06:35:29Z,443,2752,home-assistant/frontend,,,20,0.0,2026-01-01,1
+solana-foundation/explorer,control,TypeScript,869,2020-03-13T08:25:25Z,112,745,truenas/webui,,,5,0.0,2025-10-01,1
+solidjs-community/solid-primitives,control,TypeScript,1577,2021-05-22T18:53:57Z,110,1791,homebridge/homebridge-config-ui-x,,,14,0.0,2026-01-01,1
+solidjs/solid,control,TypeScript,36943,2018-04-24T16:36:27Z,234,3033,novuhq/novu,,,3,0.0,2026-01-01,0
+sonos/tract,control,Rust,3134,2017-08-07T09:31:26Z,115,4483,graphprotocol/graph-node,,,19,1.0,2026-01-01,1
+soulfiremc-com/SoulFire,control,TypeScript,632,2021-07-18T08:51:24Z,23,3044,kingstinct/react-native-healthkit,,,0,,2025-10-01,0
+sourcegit-org/sourcegit,control,C#,6579,2021-11-08T12:55:18Z,148,3174,Live-Charts/LiveCharts2,,,9,1.0,2026-04-01,1
+sozu-proxy/sozu,control,Rust,3763,2017-01-18T10:44:25Z,58,1359,open-telemetry/opentelemetry-rust,,,6,0.0,2026-04-01,1
+space-wizards/RobustToolbox,control,C#,711,2015-01-17T01:48:02Z,290,1377,nkdAgility/azure-devops-migration-tools,,,22,0.0,,1
+spacetelescope/jwst,control,Python,669,2016-06-06T18:34:23Z,71,2591,optiland/optiland,,,22,1.0,,1
+spesmilo/electrum,control,Python,8669,2012-08-02T16:24:30Z,354,3190,cupy/cupy,,,21,0.0,,1
+spiculedata/saiku,control,Java,1339,2011-10-05T20:15:06Z,54,3194,dotCMS/core,,,0,,2026-04-01,0
+spiffe/spire,control,Go,2634,2017-08-11T18:46:51Z,263,1187,srl-labs/containerlab,,,18,0.0,2026-04-01,1
+spring-cloud/spring-cloud-commons,control,Java,751,2014-12-01T21:52:43Z,141,593,domaframework/doma,,,3,0.0,2026-04-01,0
+spring-cloud/spring-cloud-function,control,Java,1072,2016-09-22T02:34:34Z,128,493,frostwire/frostwire,,,4,1.0,,1
+spring-cloud/spring-cloud-vault,control,Java,292,2016-02-11T00:24:55Z,40,464,domaframework/doma,,,0,,,0
+sqlmapproject/sqlmap,control,Python,39026,2012-06-26T09:52:15Z,145,999,gradio-app/gradio,,,0,,,0
+stackabletech/operator-rs,control,Rust,170,2020-11-26T07:50:15Z,25,343,nyx-space/anise,,,13,0.0,2026-04-01,1
+stakater/Reloader,control,Go,10594,2018-07-04T13:42:50Z,158,548,MontFerret/ferret,,,1,0.0,2026-04-01,0
+starknet-io/starknet.js,control,TypeScript,1255,2021-10-18T14:48:18Z,115,944,growilabs/growi,,,14,0.0,2026-04-01,1
+statsmodels/statsmodels,control,Python,11764,2011-06-12T17:04:50Z,392,4118,plasma-umass/scalene,,,12,0.0,2026-01-01,1
+status-im/status-web,control,TypeScript,104,2021-09-03T07:33:05Z,28,551,microsoft/vscode-azuretools,,,7,0.0,2025-07-01,1
+stenciljs/core,control,TypeScript,13153,2017-02-15T18:57:07Z,260,466,FaridSafi/react-native-gifted-chat,,,8,0.0,2025-10-01,1
+storybookjs/react-native,control,TypeScript,1329,2020-01-22T15:17:28Z,341,454,growilabs/growi,,,1,0.0,2025-04-01,0
+strictdoc-project/strictdoc,control,Python,463,2020-05-14T18:03:48Z,51,2893,netket/netket,,,9,0.0,2026-04-01,1
+stx-labs/clarinet,control,Rust,351,2020-06-11T03:22:16Z,75,669,nanvix/nanvix,,,12,1.0,2026-01-01,1
+submariner-io/submariner,control,Go,2714,2019-03-11T22:47:26Z,51,479,filecoin-project/lotus,,,15,1.0,2025-10-01,1
+submariner-io/submariner-operator,control,Go,127,2019-10-04T11:51:12Z,35,332,elastic/fleet-server,,,7,1.0,2025-10-01,1
+sumup-oss/circuit-ui,control,TypeScript,983,2017-06-26T09:57:50Z,91,1126,owid/owid-grapher,,,11,0.0,,1
+supabase/supabase-csharp,control,C#,711,2020-08-25T00:24:00Z,23,504,Azure/azure-cosmos-dotnet-v3,,,0,,,0
+surveyjs/survey-analytics,control,TypeScript,125,2019-05-13T13:53:50Z,34,953,n-air-app/n-air-app,,,6,0.0,2026-01-01,1
+surveyjs/survey-creator,control,TypeScript,1284,2015-12-22T07:21:28Z,87,2575,quiltdata/quilt,,,22,0.0,2025-01-01,1
+svix/svix-webhooks,control,Rust,3489,2021-02-25T13:49:38Z,95,1973,freenet/freenet-core,,,16,1.0,,1
+tModLoader/tModLoader,control,C#,5810,2015-07-21T05:30:07Z,279,1054,MudBlazor/MudBlazor,,,20,0.0,2026-04-01,1
+tclindner/npm-package-json-lint,control,TypeScript,257,2016-04-08T02:06:42Z,32,402,n-air-app/n-air-app,,,0,,2026-04-01,0
+techniq/layerchart,control,TypeScript,1381,2021-08-12T02:40:40Z,25,1064,nrwl/nx-console,,,0,,2026-01-01,0
+testcontainers/testcontainers-dotnet,control,C#,4378,2019-02-16T10:03:36Z,154,301,reactiveui/ReactiveUI,,,0,,,0
+the1812/Bilibili-Evolved,control,TypeScript,31208,2018-07-16T07:48:06Z,109,1505,directus/directus,,,11,0.0,,1
+theotherp/nzbhydra2,control,TypeScript,1753,2017-09-15T05:08:08Z,32,1017,imbhargav5/rooks,,,0,,2025-07-01,0
+tinygo-org/tinygo,control,Go,17934,2018-06-07T16:39:19Z,256,1441,zeromicro/go-zero,,,22,0.0,,1
+tixl3d/tixl,control,C#,5199,2017-06-17T22:37:11Z,47,4571,Humanizr/Humanizer,,,13,1.0,2026-01-01,1
+tsantalis/RefactoringMiner,control,Java,516,2015-09-29T13:13:11Z,26,3078,microsoft/ApplicationInsights-Java,,,3,0.0,2026-04-01,0
+tsedio/tsed,control,TypeScript,3092,2016-02-21T18:38:47Z,153,1016,firebase/firebase-tools,,,1,0.0,2025-10-01,0
+tui-cs/Terminal.Gui,control,C#,11318,2017-12-11T03:23:45Z,137,2111,mRemoteNG/mRemoteNG,,,16,0.0,2025-04-01,1
+tutao/tutanota,control,TypeScript,8200,2014-07-28T14:14:45Z,103,4120,pdfme/pdfme,,,22,1.0,,1
+twmb/franz-go,control,Go,3158,2019-03-25T20:30:30Z,143,1677,go-vikunja/vikunja,,,0,,2026-01-01,0
+unicode-org/icu4x,control,Rust,1881,2020-02-27T00:27:11Z,149,1708,bluealloy/revm,,,22,0.0,2026-01-01,1
+univention/univention-corporate-server,control,Python,317,2017-09-18T08:17:42Z,51,4197,owid/etl,,,19,1.0,,1
+urwid/urwid,control,Python,3027,2010-02-25T14:44:22Z,152,664,torchgeo/torchgeo,,,0,,2026-04-01,0
+vacanza/holidays,control,Python,1996,2014-08-24T15:17:18Z,367,1562,mandarons/icloud-docker,,,20,0.0,2025-04-01,1
+vantage-sh/ec2instances.info,control,TypeScript,5787,2011-11-07T04:17:15Z,127,928,microsoft/rushstack,,,2,1.0,2025-04-01,0
+vchelaru/FlatRedBall,control,C#,583,2016-01-14T00:49:02Z,26,968,dotnet/dotnet-monitor,,,7,0.0,2026-04-01,1
+vchelaru/Gum,control,C#,666,2015-03-11T15:43:37Z,49,5730,microsoft/vs-threading,,,7,0.0,2026-01-01,1
+videojs/video.js,control,TypeScript,40246,2010-05-14T18:45:10Z,368,2006,beekeeper-studio/beekeeper-studio,,,4,0.0,2025-07-01,1
+vrtmrz/obsidian-livesync,control,TypeScript,13049,2021-10-12T13:49:21Z,72,1882,vitest-dev/vitest,,,0,,2026-01-01,0
+vscode-icons/vscode-icons,control,TypeScript,5195,2016-05-30T23:24:37Z,374,582,amannn/next-intl,,,1,0.0,2026-01-01,0
+vuetifyjs/vuetify,control,TypeScript,41044,2016-09-12T00:39:35Z,432,2360,honojs/hono,,,22,0.0,,1
+wader/fq,control,Go,10638,2021-02-07T21:37:53Z,46,630,owncast/owncast,,,9,0.0,,1
+wavesplatform/gowaves,control,Go,248,2018-10-01T09:53:59Z,45,579,DataDog/terraform-provider-datadog,,,7,0.0,2025-04-01,1
+wazuh/wazuh-dashboard-plugins,control,TypeScript,535,2016-06-29T01:43:18Z,62,1469,dailydotdev/apps,,,22,0.0,2025-04-01,1
+wgsl-analyzer/wgsl-analyzer,control,Rust,730,2021-11-19T20:26:13Z,61,1055,aleo-labs-protocol/snarkVM,,,2,0.0,2025-10-01,0
+wpengine/faustjs,control,TypeScript,1607,2020-11-16T20:33:30Z,58,533,Brooooooklyn/canvas,,,12,0.0,2026-01-01,1
+wppconnect-team/wa-js,control,TypeScript,840,2021-08-19T21:48:37Z,52,978,niivue/niivue,,,0,,2025-10-01,0
+wppconnect-team/wppconnect,control,TypeScript,3543,2021-01-25T00:10:32Z,49,509,dockview/dockview,,,0,,2026-04-01,0
+wri/gfw,control,JavaScript,321,2012-05-17T11:16:15Z,71,657,NASA-AMMOS/MMGIS,,,11,0.0,,1
+xibosignage/xibo-cms,control,TypeScript,518,2015-01-08T13:10:34Z,45,1142,dailydotdev/apps,,,22,0.0,2026-04-01,1
+xtaci/kcp-go,control,Go,4554,2015-06-16T06:15:55Z,29,335,evcc-io/evcc,,,1,0.0,2025-10-01,0
+yaklang/yakit,control,TypeScript,7910,2021-10-12T02:15:42Z,29,4285,dubzzz/fast-check,,,19,0.0,2026-01-01,1
+youki-dev/youki,control,Rust,7710,2021-03-27T11:06:58Z,171,775,Byron/dua-cli,,,8,0.0,2025-04-01,1
+yunionio/cloudpods,control,Go,2975,2018-07-27T07:15:33Z,54,1282,kubeovn/kube-ovn,,,22,0.0,2026-04-01,1
+zalando/skipper,control,Go,3336,2015-07-09T09:54:40Z,197,763,OffchainLabs/prysm,,,11,1.0,2025-10-01,1
+zenodo/zenodo-rdm,control,Python,362,2020-03-17T14:02:25Z,26,517,altmenorg/HAsmartirrigation,,,9,1.0,,1
+zentralopensource/zentral,control,Python,893,2015-10-20T14:03:03Z,26,1143,gijzelaerr/python-snap7,,,2,1.0,2026-04-01,0
+zone-eu/wildduck,control,JavaScript,2113,2017-03-05T21:23:24Z,48,414,parse-community/parse-dashboard,,,2,1.0,2026-01-01,0
+zooniverse/front-end-monorepo,control,JavaScript,112,2018-04-16T08:34:38Z,28,561,OpenSprinkler/OpenSprinkler-App,,,17,0.0,2026-01-01,1
