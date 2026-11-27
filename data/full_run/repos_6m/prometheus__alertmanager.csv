@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+63.5,53.0,48.0,35.75,prometheus/alertmanager,2021H1,147,2.025
+34.0,27.0,24.0,17.0,prometheus/alertmanager,2021H2,68,1.593
+25.5,22.0,18.0,12.75,prometheus/alertmanager,2022H1,51,0.877
+34.0,27.999999999999996,26.823529411764707,19.5,prometheus/alertmanager,2022H2,78,0.82
+27.5,24.0,19.411764705882355,13.75,prometheus/alertmanager,2023H1,55,1.501
+29.0,26.5,23.64705882352941,17.75,prometheus/alertmanager,2023H2,71,2.397
+24.5,23.0,19.058823529411764,15.25,prometheus/alertmanager,2024H1,81,1.18
+27.0,25.0,19.058823529411768,13.5,prometheus/alertmanager,2024H2,54,2.182
+27.0,19.5,19.058823529411764,13.5,prometheus/alertmanager,2025H1,54,0.712
+52.5,45.5,40.588235294117645,29.0,prometheus/alertmanager,2025H2,116,3.892
+68.0,61.0,58.58823529411765,49.5,prometheus/alertmanager,2026H1,234,13.951

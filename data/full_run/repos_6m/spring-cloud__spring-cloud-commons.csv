@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+36.5,32.0,31.058823529411768,24.25,spring-cloud/spring-cloud-commons,2021H1,103,2.044
+28.0,26.0,23.294117647058822,19.5,spring-cloud/spring-cloud-commons,2021H2,78,1.309
+28.5,23.0,25.058823529411768,21.25,spring-cloud/spring-cloud-commons,2022H1,94,2.12
+34.5,28.0,27.88235294117647,23.0,spring-cloud/spring-cloud-commons,2022H2,97,1.55
+33.5,22.5,25.411764705882355,19.75,spring-cloud/spring-cloud-commons,2023H1,82,0.818
+25.0,20.5,20.11764705882353,16.0,spring-cloud/spring-cloud-commons,2023H2,65,0.548
+18.0,14.5,12.705882352941178,9.0,spring-cloud/spring-cloud-commons,2024H1,36,0.298
+24.0,19.0,20.470588235294116,17.75,spring-cloud/spring-cloud-commons,2024H2,94,1.27
+26.0,21.5,22.941176470588236,18.25,spring-cloud/spring-cloud-commons,2025H1,80,0.397
+27.0,23.5,20.823529411764707,16.5,spring-cloud/spring-cloud-commons,2025H2,77,4.165
+20.0,17.0,17.647058823529413,14.25,spring-cloud/spring-cloud-commons,2026H1,57,0.448

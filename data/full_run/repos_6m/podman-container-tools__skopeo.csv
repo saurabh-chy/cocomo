@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+36.0,30.0,27.176470588235293,20.0,podman-container-tools/skopeo,2021H1,80,0.734
+33.5,28.0,25.764705882352942,20.0,podman-container-tools/skopeo,2021H2,86,0.598
+28.5,24.0,22.588235294117645,17.75,podman-container-tools/skopeo,2022H1,94,0.352
+21.0,18.5,16.588235294117645,13.5,podman-container-tools/skopeo,2022H2,70,0.393
+23.5,21.5,18.352941176470587,14.749999999999998,podman-container-tools/skopeo,2023H1,91,0.442
+16.0,14.0,12.352941176470587,8.75,podman-container-tools/skopeo,2023H2,35,0.019
+20.0,18.0,15.529411764705884,11.0,podman-container-tools/skopeo,2024H1,44,0.265
+15.5,10.0,11.294117647058822,8.0,podman-container-tools/skopeo,2024H2,32,0.051
+28.0,23.0,21.529411764705884,17.0,podman-container-tools/skopeo,2025H1,68,0.322
+18.0,16.5,16.235294117647058,15.0,podman-container-tools/skopeo,2025H2,69,0.405
+18.0,15.499999999999998,14.470588235294116,11.0,podman-container-tools/skopeo,2026H1,44,0.079

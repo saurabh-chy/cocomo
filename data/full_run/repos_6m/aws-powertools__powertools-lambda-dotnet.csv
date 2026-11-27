@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+9.5,4.0,7.0588235294117645,5.0,aws-powertools/powertools-lambda-dotnet,2021H1,20,1.393
+20.5,11.5,16.235294117647058,13.25,aws-powertools/powertools-lambda-dotnet,2021H2,64,4.299
+27.0,17.0,26.11764705882353,22.5,aws-powertools/powertools-lambda-dotnet,2022H1,106,3.273
+26.5,17.5,22.941176470588236,19.75,aws-powertools/powertools-lambda-dotnet,2022H2,121,8.678
+41.5,30.5,36.0,30.25,aws-powertools/powertools-lambda-dotnet,2023H1,173,2.959
+19.0,15.0,16.941176470588236,15.5,aws-powertools/powertools-lambda-dotnet,2023H2,153,3.348
+12.0,9.0,10.235294117647058,9.0,aws-powertools/powertools-lambda-dotnet,2024H1,101,6.753
+9.0,8.5,8.117647058823529,7.5,aws-powertools/powertools-lambda-dotnet,2024H2,129,4.008
+19.5,11.0,15.529411764705884,12.75,aws-powertools/powertools-lambda-dotnet,2025H1,399,21.2
+12.5,10.5,10.588235294117647,9.25,aws-powertools/powertools-lambda-dotnet,2025H2,168,5.412
+8.0,6.5,7.411764705882353,6.0,aws-powertools/powertools-lambda-dotnet,2026H1,24,5.49

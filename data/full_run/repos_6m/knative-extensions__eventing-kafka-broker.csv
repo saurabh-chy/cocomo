@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+25.5,25.0,23.294117647058822,21.75,knative-extensions/eventing-kafka-broker,2021H1,283,7.404
+35.0,33.5,31.764705882352942,29.0,knative-extensions/eventing-kafka-broker,2021H2,300,8.074
+46.0,45.5,43.05882352941177,39.25,knative-extensions/eventing-kafka-broker,2022H1,320,10.462
+40.5,39.5,37.411764705882355,34.0,knative-extensions/eventing-kafka-broker,2022H2,233,5.322
+43.5,42.0,37.76470588235294,32.25,knative-extensions/eventing-kafka-broker,2023H1,167,3.194
+51.5,50.0,42.0,33.25,knative-extensions/eventing-kafka-broker,2023H2,184,4.168
+43.0,43.0,37.76470588235294,33.0,knative-extensions/eventing-kafka-broker,2024H1,189,6.098
+28.5,28.5,24.705882352941174,20.5,knative-extensions/eventing-kafka-broker,2024H2,100,6.762
+28.5,27.5,23.647058823529413,20.25,knative-extensions/eventing-kafka-broker,2025H1,104,1.504
+23.5,23.5,18.35294117647059,14.75,knative-extensions/eventing-kafka-broker,2025H2,72,2.703
+17.5,17.5,14.117647058823529,11.75,knative-extensions/eventing-kafka-broker,2026H1,74,0.62

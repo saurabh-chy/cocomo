@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+6.5,4.0,4.588235294117648,3.25,vantage-sh/ec2instances.info,2021H1,13,0.169
+16.0,8.5,13.058823529411764,11.0,vantage-sh/ec2instances.info,2021H2,50,0.322
+16.5,11.0,13.411764705882353,9.75,vantage-sh/ec2instances.info,2022H1,39,1.718
+16.5,13.5,15.176470588235293,12.75,vantage-sh/ec2instances.info,2022H2,220,7.71
+9.0,8.5,8.117647058823529,7.5,vantage-sh/ec2instances.info,2023H1,84,1.054
+7.0,7.0,6.705882352941177,6.5,vantage-sh/ec2instances.info,2023H2,39,0.553
+22.5,15.0,18.0,12.75,vantage-sh/ec2instances.info,2024H1,51,0.584
+13.5,9.5,9.882352941176471,6.999999999999999,vantage-sh/ec2instances.info,2024H2,28,0.178
+25.5,21.0,23.294117647058822,20.25,vantage-sh/ec2instances.info,2025H1,430,29.13
+10.0,9.0,8.823529411764707,8.0,vantage-sh/ec2instances.info,2025H2,200,9.146
+24.0,18.5,22.235294117647058,20.0,vantage-sh/ec2instances.info,2026H1,100,5.002

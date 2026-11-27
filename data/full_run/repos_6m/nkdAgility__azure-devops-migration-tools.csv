@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+12.0,11.5,8.470588235294118,6.0,nkdAgility/azure-devops-migration-tools,2021H1,24,1.824
+16.0,11.5,12.0,8.5,nkdAgility/azure-devops-migration-tools,2021H2,34,2.607
+17.0,15.5,12.0,8.5,nkdAgility/azure-devops-migration-tools,2022H1,34,1.557
+16.5,14.5,11.647058823529411,8.25,nkdAgility/azure-devops-migration-tools,2022H2,33,1.262
+16.0,15.0,13.058823529411764,11.0,nkdAgility/azure-devops-migration-tools,2023H1,62,2.079
+9.5,9.5,8.470588235294118,7.75,nkdAgility/azure-devops-migration-tools,2023H2,37,1.065
+9.5,9.0,8.470588235294118,7.75,nkdAgility/azure-devops-migration-tools,2024H1,138,3.992
+14.0,11.5,13.411764705882353,13.0,nkdAgility/azure-devops-migration-tools,2024H2,605,16.345
+21.5,15.0,16.941176470588236,13.75,nkdAgility/azure-devops-migration-tools,2025H1,133,3.147
+20.0,16.0,17.647058823529413,16.0,nkdAgility/azure-devops-migration-tools,2025H2,150,3.709
+5.5,3.0,3.882352941176471,2.75,nkdAgility/azure-devops-migration-tools,2026H1,11,0.107

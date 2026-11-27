@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+21.0,19.5,18.35294117647059,16.5,SeleniumHQ/docker-selenium,2021H1,86,0.019
+21.5,21.5,20.470588235294116,19.0,SeleniumHQ/docker-selenium,2021H2,91,0.002
+28.0,27.5,25.058823529411768,21.75,SeleniumHQ/docker-selenium,2022H1,89,0.0
+29.5,29.0,22.588235294117645,16.0,SeleniumHQ/docker-selenium,2022H2,64,0.0
+29.0,28.0,22.588235294117645,16.0,SeleniumHQ/docker-selenium,2023H1,64,0.0
+35.0,34.5,29.294117647058826,24.0,SeleniumHQ/docker-selenium,2023H2,119,0.0
+21.0,20.5,18.352941176470587,14.75,SeleniumHQ/docker-selenium,2024H1,171,0.275
+16.5,16.5,15.176470588235293,14.25,SeleniumHQ/docker-selenium,2024H2,191,0.529
+25.0,25.0,22.941176470588236,20.25,SeleniumHQ/docker-selenium,2025H1,211,0.591
+21.5,21.5,20.470588235294116,18.25,SeleniumHQ/docker-selenium,2025H2,141,0.529
+21.5,19.0,18.352941176470587,14.75,SeleniumHQ/docker-selenium,2026H1,76,2.463

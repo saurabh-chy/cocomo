@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+9.0,7.5,8.117647058823529,7.5,mandarons/icloud-docker,2021H1,30,0.46
+7.0,5.0,6.705882352941177,6.5,mandarons/icloud-docker,2021H2,54,1.287
+6.5,6.5,6.352941176470589,6.25,mandarons/icloud-docker,2022H1,44,0.826
+8.0,7.0,7.0588235294117645,5.0,mandarons/icloud-docker,2022H2,20,0.279
+8.0,7.5,7.411764705882353,7.0,mandarons/icloud-docker,2023H1,62,0.327
+13.0,9.0,10.941176470588236,9.5,mandarons/icloud-docker,2023H2,43,0.295
+7.5,7.5,7.0588235294117645,6.75,mandarons/icloud-docker,2024H1,27,0.282
+7.5,5.5,6.705882352941177,4.75,mandarons/icloud-docker,2024H2,19,0.123
+1.0,1.0,0.7058823529411764,0.5,mandarons/icloud-docker,2025H1,2,0.05
+6.0,6.0,6.0,6.0,mandarons/icloud-docker,2025H2,34,4.665
+8.0,5.0,5.647058823529411,4.0,mandarons/icloud-docker,2026H1,16,0.297

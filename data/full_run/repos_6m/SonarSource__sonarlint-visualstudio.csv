@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+24.5,24.5,22.588235294117645,21.25,SonarSource/sonarlint-visualstudio,2021H1,208,10.027
+18.5,18.0,16.588235294117645,15.25,SonarSource/sonarlint-visualstudio,2021H2,171,7.416
+25.5,25.0,23.294117647058822,21.75,SonarSource/sonarlint-visualstudio,2022H1,131,6.806
+31.0,29.0,28.941176470588232,25.0,SonarSource/sonarlint-visualstudio,2022H2,177,4.709
+36.5,35.5,34.588235294117645,33.25,SonarSource/sonarlint-visualstudio,2023H1,411,20.368
+30.5,28.5,28.588235294117645,27.25,SonarSource/sonarlint-visualstudio,2023H2,324,12.684
+22.5,20.5,21.176470588235293,18.5,SonarSource/sonarlint-visualstudio,2024H1,198,13.894
+36.0,33.0,31.058823529411768,27.25,SonarSource/sonarlint-visualstudio,2024H2,328,17.728
+26.0,25.0,23.647058823529413,22.0,SonarSource/sonarlint-visualstudio,2025H1,360,21.025
+33.5,29.0,30.705882352941174,27.5,SonarSource/sonarlint-visualstudio,2025H2,255,15.984
+36.0,29.5,28.941176470588232,22.75,SonarSource/sonarlint-visualstudio,2026H1,132,8.09

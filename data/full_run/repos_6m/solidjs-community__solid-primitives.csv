@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+8.5,5.0,7.764705882352942,5.5,solidjs-community/solid-primitives,2021H1,22,0.822
+36.0,31.5,32.470588235294116,30.0,solidjs-community/solid-primitives,2021H2,443,17.634
+84.5,54.5,69.17647058823529,56.0,solidjs-community/solid-primitives,2022H1,647,20.817
+68.5,51.5,58.94117647058824,50.75,solidjs-community/solid-primitives,2022H2,470,10.388
+95.0,68.0,81.52941176470588,67.5,solidjs-community/solid-primitives,2023H1,755,29.916
+37.0,27.5,28.588235294117645,22.0,solidjs-community/solid-primitives,2023H2,183,4.882
+49.5,37.5,42.0,33.75,solidjs-community/solid-primitives,2024H1,148,3.093
+45.5,35.5,40.588235294117645,33.25,solidjs-community/solid-primitives,2024H2,181,2.57
+40.5,29.5,30.352941176470587,23.25,solidjs-community/solid-primitives,2025H1,119,2.347
+8.5,6.0,6.0,4.25,solidjs-community/solid-primitives,2025H2,17,0.304
+25.0,17.5,22.941176470588236,21.5,solidjs-community/solid-primitives,2026H1,600,59.477

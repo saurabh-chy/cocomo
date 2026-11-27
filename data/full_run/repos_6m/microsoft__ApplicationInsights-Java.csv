@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+31.5,27.5,27.52941176470588,24.75,microsoft/ApplicationInsights-Java,2021H1,353,22.49
+21.0,21.0,20.11764705882353,17.0,microsoft/ApplicationInsights-Java,2021H2,161,7.892
+17.5,17.0,15.882352941176471,14.75,microsoft/ApplicationInsights-Java,2022H1,200,18.007
+23.0,22.5,21.529411764705884,20.0,microsoft/ApplicationInsights-Java,2022H2,227,20.274
+22.5,22.0,19.764705882352942,17.5,microsoft/ApplicationInsights-Java,2023H1,104,3.933
+15.0,15.0,14.117647058823529,13.5,microsoft/ApplicationInsights-Java,2023H2,64,1.321
+19.5,18.5,17.294117647058822,14.0,microsoft/ApplicationInsights-Java,2024H1,58,2.932
+16.5,15.5,14.823529411764707,12.25,microsoft/ApplicationInsights-Java,2024H2,53,1.402
+18.5,16.5,14.823529411764707,11.5,microsoft/ApplicationInsights-Java,2025H1,46,1.85
+10.0,10.0,8.823529411764707,8.0,microsoft/ApplicationInsights-Java,2025H2,57,0.854
+10.0,10.0,8.823529411764707,6.25,microsoft/ApplicationInsights-Java,2026H1,25,1.244

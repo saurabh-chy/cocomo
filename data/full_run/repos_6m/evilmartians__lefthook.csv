@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+18.5,14.5,14.823529411764707,12.25,evilmartians/lefthook,2021H1,52,0.546
+9.5,7.0,6.705882352941177,4.75,evilmartians/lefthook,2021H2,19,1.525
+14.5,11.5,12.0,10.25,evilmartians/lefthook,2022H1,69,3.077
+11.0,11.0,9.529411764705882,8.5,evilmartians/lefthook,2022H2,86,1.509
+10.0,9.5,8.823529411764707,8.0,evilmartians/lefthook,2023H1,69,1.387
+15.0,13.0,12.352941176470587,10.5,evilmartians/lefthook,2023H2,60,1.21
+16.0,15.0,13.058823529411764,11.0,evilmartians/lefthook,2024H1,92,2.285
+14.0,14.0,11.647058823529411,10.0,evilmartians/lefthook,2024H2,126,2.624
+16.0,16.0,13.058823529411764,11.0,evilmartians/lefthook,2025H1,104,1.361
+24.0,21.0,20.11764705882353,16.0,evilmartians/lefthook,2025H2,130,5.168
+19.0,18.0,15.176470588235293,12.5,evilmartians/lefthook,2026H1,92,3.501

@@ -1,0 +1,11 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+5.0,5.0,3.5294117647058822,2.5,nginx/nginx-gateway-fabric,2021H2,10,2.586
+10.5,9.5,7.411764705882353,5.25,nginx/nginx-gateway-fabric,2022H1,21,4.61
+20.5,20.5,19.411764705882355,16.5,nginx/nginx-gateway-fabric,2022H2,74,6.925
+30.0,28.0,27.176470588235293,22.5,nginx/nginx-gateway-fabric,2023H1,97,5.62
+42.0,41.0,38.470588235294116,33.5,nginx/nginx-gateway-fabric,2023H2,174,7.239
+49.5,49.0,44.11764705882353,36.0,nginx/nginx-gateway-fabric,2024H1,191,10.206
+46.0,45.0,39.529411764705884,31.5,nginx/nginx-gateway-fabric,2024H2,182,9.581
+28.5,26.5,21.88235294117647,17.25,nginx/nginx-gateway-fabric,2025H1,82,3.601
+44.0,42.5,38.82352941176471,33.5,nginx/nginx-gateway-fabric,2025H2,191,8.818
+54.0,48.0,46.94117647058823,40.5,nginx/nginx-gateway-fabric,2026H1,227,18.726

@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+37.5,35.5,28.235294117647058,21.75,dotnetcore/BootstrapBlazor,2021H1,759,31.624
+30.5,27.0,25.058823529411768,21.25,dotnetcore/BootstrapBlazor,2021H2,745,29.169
+38.0,36.5,33.88235294117647,29.0,dotnetcore/BootstrapBlazor,2022H1,673,28.073
+37.5,36.5,31.764705882352942,27.75,dotnetcore/BootstrapBlazor,2022H2,753,30.356
+39.5,38.5,34.94117647058823,31.75,dotnetcore/BootstrapBlazor,2023H1,639,25.958
+40.0,35.5,35.64705882352941,31.75,dotnetcore/BootstrapBlazor,2023H2,573,29.272
+32.5,32.0,26.47058823529412,21.25,dotnetcore/BootstrapBlazor,2024H1,438,22.889
+32.0,29.5,24.352941176470587,19.0,dotnetcore/BootstrapBlazor,2024H2,520,27.199
+21.5,21.5,16.941176470588236,13.75,dotnetcore/BootstrapBlazor,2025H1,587,22.926
+20.5,20.0,16.235294117647058,13.25,dotnetcore/BootstrapBlazor,2025H2,513,10.361
+17.5,16.5,15.882352941176471,13.5,dotnetcore/BootstrapBlazor,2026H1,332,12.824

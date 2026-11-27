@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+26.0,25.5,22.235294117647058,19.25,getsentry/sentry-dotnet,2021H1,201,6.644
+29.5,28.5,26.11764705882353,23.75,getsentry/sentry-dotnet,2021H2,171,4.521
+26.5,26.5,24.0,22.25,getsentry/sentry-dotnet,2022H1,207,6.759
+21.0,21.0,18.35294117647059,16.5,getsentry/sentry-dotnet,2022H2,217,9.517
+26.5,24.0,20.470588235294116,16.25,getsentry/sentry-dotnet,2023H1,142,6.787
+37.5,35.5,33.529411764705884,30.75,getsentry/sentry-dotnet,2023H2,272,11.117
+26.0,26.0,23.294117647058822,20.0,getsentry/sentry-dotnet,2024H1,136,8.041
+27.5,27.0,22.941176470588236,19.5,getsentry/sentry-dotnet,2024H2,118,2.689
+42.0,39.0,34.94117647058823,26.75,getsentry/sentry-dotnet,2025H1,149,5.89
+35.5,34.0,31.058823529411768,27.25,getsentry/sentry-dotnet,2025H2,194,9.139
+36.5,33.0,29.294117647058826,24.25,getsentry/sentry-dotnet,2026H1,139,4.383

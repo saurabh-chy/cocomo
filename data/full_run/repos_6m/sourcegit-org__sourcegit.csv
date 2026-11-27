@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+12.0,10.0,10.235294117647058,9.0,sourcegit-org/sourcegit,2021H1,256,4.007
+17.0,16.0,14.470588235294116,12.0,sourcegit-org/sourcegit,2021H2,195,3.832
+6.0,5.0,6.0,5.75,sourcegit-org/sourcegit,2022H1,23,2.324
+6.0,6.0,6.0,6.0,sourcegit-org/sourcegit,2022H2,44,0.911
+1.5,1.0,1.0588235294117645,0.75,sourcegit-org/sourcegit,2023H1,3,0.029
+6.0,6.0,6.0,6.0,sourcegit-org/sourcegit,2023H2,63,1.27
+30.5,23.0,26.823529411764707,24.25,sourcegit-org/sourcegit,2024H1,668,20.096
+85.5,74.5,69.52941176470588,56.0,sourcegit-org/sourcegit,2024H2,1146,26.8
+73.5,67.5,58.58823529411764,45.75,sourcegit-org/sourcegit,2025H1,805,19.687
+50.5,48.0,43.76470588235294,38.0,sourcegit-org/sourcegit,2025H2,658,24.602
+45.0,42.0,34.94117647058823,26.5,sourcegit-org/sourcegit,2026H1,690,20.577

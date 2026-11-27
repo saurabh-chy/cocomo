@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+44.5,43.5,34.23529411764706,26.0,strawberry-graphql/strawberry,2021H1,116,3.113
+58.0,53.0,44.470588235294116,34.5,strawberry-graphql/strawberry,2021H2,191,7.16
+47.0,45.0,34.94117647058823,26.5,strawberry-graphql/strawberry,2022H1,126,4.337
+45.0,42.5,33.529411764705884,25.5,strawberry-graphql/strawberry,2022H2,140,6.385
+62.5,58.5,47.294117647058826,35.25,strawberry-graphql/strawberry,2023H1,172,10.691
+41.0,38.0,30.705882352941174,23.5,strawberry-graphql/strawberry,2023H2,115,2.783
+29.0,28.5,22.235294117647058,17.5,strawberry-graphql/strawberry,2024H1,90,3.075
+26.0,26.0,21.88235294117647,19.0,strawberry-graphql/strawberry,2024H2,96,3.806
+36.0,35.0,28.941176470588232,22.25,strawberry-graphql/strawberry,2025H1,108,2.438
+28.0,24.5,19.764705882352942,14.0,strawberry-graphql/strawberry,2025H2,56,3.889
+34.0,32.5,28.941176470588232,24.0,strawberry-graphql/strawberry,2026H1,126,3.688

@@ -1,0 +1,11 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+20.5,15.5,18.0,16.25,starknet-io/starknet.js,2021H2,166,2.82
+58.5,43.5,48.0,38.25,starknet-io/starknet.js,2022H1,199,4.534
+61.5,53.5,55.76470588235294,48.25,starknet-io/starknet.js,2022H2,380,10.285
+65.5,55.5,60.35294117647059,51.5,starknet-io/starknet.js,2023H1,326,7.623
+47.0,42.5,38.82352941176471,32.75,starknet-io/starknet.js,2023H2,253,14.763
+52.0,47.5,40.94117647058823,31.75,starknet-io/starknet.js,2024H1,135,8.719
+26.5,23.0,21.176470588235293,16.75,starknet-io/starknet.js,2024H2,73,3.928
+29.0,28.0,24.705882352941174,19.25,starknet-io/starknet.js,2025H1,79,7.502
+24.5,24.5,22.588235294117645,20.5,starknet-io/starknet.js,2025H2,150,9.319
+21.0,19.0,18.352941176470587,16.5,starknet-io/starknet.js,2026H1,104,3.183

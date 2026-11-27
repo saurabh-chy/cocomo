@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+14.5,14.5,12.0,10.25,microsoft/vscode-react-native,2021H1,44,2.307
+19.5,19.0,15.529411764705884,12.75,microsoft/vscode-react-native,2021H2,53,6.451
+13.0,13.0,10.588235294117647,7.5,microsoft/vscode-react-native,2022H1,30,2.735
+17.0,15.5,15.529411764705884,13.25,microsoft/vscode-react-native,2022H2,57,1.17
+10.0,9.0,8.823529411764707,6.75,microsoft/vscode-react-native,2023H1,27,0.502
+11.5,11.5,9.882352941176471,8.75,microsoft/vscode-react-native,2023H2,42,1.341
+11.5,11.0,8.823529411764705,6.25,microsoft/vscode-react-native,2024H1,25,0.291
+12.0,12.0,12.0,10.5,microsoft/vscode-react-native,2024H2,42,0.695
+11.5,11.5,9.882352941176471,7.5,microsoft/vscode-react-native,2025H1,30,0.322
+20.5,17.0,18.0,16.25,microsoft/vscode-react-native,2025H2,92,1.083
+25.0,23.0,23.64705882352941,22.0,microsoft/vscode-react-native,2026H1,130,1.384

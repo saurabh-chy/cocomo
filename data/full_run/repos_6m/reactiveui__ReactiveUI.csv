@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+21.0,18.0,16.235294117647058,11.5,reactiveui/ReactiveUI,2021H1,46,3.306
+17.0,16.5,15.529411764705884,14.5,reactiveui/ReactiveUI,2021H2,77,6.152
+9.0,7.0,6.352941176470589,4.5,reactiveui/ReactiveUI,2022H1,18,0.694
+9.5,9.0,6.705882352941177,4.75,reactiveui/ReactiveUI,2022H2,19,0.347
+3.5,3.5,2.4705882352941178,1.75,reactiveui/ReactiveUI,2023H1,7,0.902
+10.0,9.0,8.823529411764707,7.5,reactiveui/ReactiveUI,2023H2,30,4.71
+10.0,8.5,7.0588235294117645,5.0,reactiveui/ReactiveUI,2024H1,20,2.142
+3.0,3.0,2.117647058823529,1.5,reactiveui/ReactiveUI,2024H2,6,1.534
+7.0,6.0,4.9411764705882355,3.5,reactiveui/ReactiveUI,2025H1,14,5.153
+15.0,15.0,14.117647058823529,13.25,reactiveui/ReactiveUI,2025H2,56,7.741
+16.0,15.0,13.76470588235294,11.5,reactiveui/ReactiveUI,2026H1,46,5.597

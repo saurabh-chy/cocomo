@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+28.5,25.0,23.647058823529413,20.25,DataDog/dd-sdk-reactnative,2021H1,122,2.646
+16.0,16.0,14.823529411764707,13.0,DataDog/dd-sdk-reactnative,2021H2,60,0.853
+34.0,23.5,26.11764705882353,20.25,DataDog/dd-sdk-reactnative,2022H1,188,3.953
+24.0,19.5,19.764705882352942,15.75,DataDog/dd-sdk-reactnative,2022H2,322,6.721
+25.0,22.0,21.88235294117647,18.0,DataDog/dd-sdk-reactnative,2023H1,303,5.56
+10.5,9.5,9.176470588235295,8.25,DataDog/dd-sdk-reactnative,2023H2,115,2.734
+26.0,21.5,22.235294117647058,19.25,DataDog/dd-sdk-reactnative,2024H1,164,5.964
+12.0,11.5,10.235294117647058,9.0,DataDog/dd-sdk-reactnative,2024H2,89,3.125
+25.5,22.5,25.058823529411768,23.0,DataDog/dd-sdk-reactnative,2025H1,167,6.466
+26.5,25.0,25.764705882352942,25.25,DataDog/dd-sdk-reactnative,2025H2,591,33.277
+30.0,26.5,27.52941176470588,24.75,DataDog/dd-sdk-reactnative,2026H1,165,6.865

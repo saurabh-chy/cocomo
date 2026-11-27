@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+41.0,39.0,36.705882352941174,33.0,pact-foundation/pact-js,2021H1,318,5.75
+27.5,23.5,22.941176470588232,18.0,pact-foundation/pact-js,2021H2,122,0.354
+22.5,18.0,19.411764705882355,15.5,pact-foundation/pact-js,2022H1,92,0.45
+31.5,26.0,29.294117647058826,27.75,pact-foundation/pact-js,2022H2,207,3.17
+12.0,9.0,10.235294117647058,7.25,pact-foundation/pact-js,2023H1,29,0.168
+17.5,12.5,15.882352941176471,12.5,pact-foundation/pact-js,2023H2,50,0.184
+19.0,15.0,16.941176470588236,15.5,pact-foundation/pact-js,2024H1,62,0.088
+19.0,13.5,13.411764705882353,9.5,pact-foundation/pact-js,2024H2,38,1.682
+10.5,6.5,7.411764705882353,5.25,pact-foundation/pact-js,2025H1,21,0.007
+16.0,11.0,12.352941176470587,8.75,pact-foundation/pact-js,2025H2,35,0.541
+17.5,12.5,14.470588235294116,10.75,pact-foundation/pact-js,2026H1,43,2.981

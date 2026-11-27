@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+22.0,21.0,20.823529411764707,20.0,mongodb/mongodb-atlas-kubernetes,2021H1,145,4.392
+14.5,14.0,12.0,9.25,mongodb/mongodb-atlas-kubernetes,2021H2,37,0.599
+27.5,27.0,26.47058823529412,23.5,mongodb/mongodb-atlas-kubernetes,2022H1,111,4.986
+31.0,28.0,26.11764705882353,22.0,mongodb/mongodb-atlas-kubernetes,2022H2,116,7.45
+20.5,19.5,18.0,16.0,mongodb/mongodb-atlas-kubernetes,2023H1,64,3.913
+26.0,25.0,23.647058823529413,20.25,mongodb/mongodb-atlas-kubernetes,2023H2,123,9.425
+29.5,29.5,26.823529411764707,24.25,mongodb/mongodb-atlas-kubernetes,2024H1,172,12.857
+32.5,32.0,29.29411764705882,24.0,mongodb/mongodb-atlas-kubernetes,2024H2,134,14.62
+33.5,32.5,30.70588235294118,28.75,mongodb/mongodb-atlas-kubernetes,2025H1,174,9.089
+39.5,38.5,36.70588235294118,34.75,mongodb/mongodb-atlas-kubernetes,2025H2,266,13.953
+31.5,30.5,28.588235294117645,25.25,mongodb/mongodb-atlas-kubernetes,2026H1,157,6.269

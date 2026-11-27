@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+22.5,19.5,21.176470588235293,19.0,nunit/nunit-console,2021H1,142,4.178
+12.5,9.5,10.588235294117647,9.25,nunit/nunit-console,2021H2,42,0.13
+12.5,10.5,10.588235294117647,9.25,nunit/nunit-console,2022H1,147,2.9
+7.5,5.5,5.647058823529411,4.0,nunit/nunit-console,2022H2,16,0.109
+8.5,6.0,7.411764705882353,5.25,nunit/nunit-console,2023H1,21,0.721
+1.0,1.0,0.7058823529411764,0.5,nunit/nunit-console,2023H2,2,0.041
+3.0,2.5,2.1176470588235294,1.5,nunit/nunit-console,2024H1,6,0.102
+6.5,6.5,6.352941176470589,6.0,nunit/nunit-console,2024H2,24,1.222
+12.0,11.5,12.0,12.0,nunit/nunit-console,2025H1,142,11.187
+7.5,7.0,7.0588235294117645,6.75,nunit/nunit-console,2025H2,50,2.285
+5.0,4.0,3.5294117647058822,2.5,nunit/nunit-console,2026H1,10,0.162

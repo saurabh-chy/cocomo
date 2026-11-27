@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+13.0,9.0,10.941176470588236,9.5,AltimateAI/vscode-dbt-power-user,2021H1,39,3.918
+4.0,2.5,2.8235294117647056,2.0,AltimateAI/vscode-dbt-power-user,2021H2,8,0.124
+7.5,6.5,6.705882352941177,4.75,AltimateAI/vscode-dbt-power-user,2022H1,19,0.161
+7.5,7.5,7.0588235294117645,6.75,AltimateAI/vscode-dbt-power-user,2022H2,115,4.266
+17.5,16.5,14.117647058823529,11.75,AltimateAI/vscode-dbt-power-user,2023H1,51,1.291
+42.5,40.0,37.05882352941177,32.5,AltimateAI/vscode-dbt-power-user,2023H2,197,10.763
+45.5,45.0,42.35294117647059,37.75,AltimateAI/vscode-dbt-power-user,2024H1,289,22.375
+34.0,33.5,31.058823529411768,29.0,AltimateAI/vscode-dbt-power-user,2024H2,158,8.947
+24.5,22.0,20.823529411764707,17.0,AltimateAI/vscode-dbt-power-user,2025H1,117,11.005
+11.0,11.0,9.529411764705882,8.5,AltimateAI/vscode-dbt-power-user,2025H2,40,0.77
+32.0,26.5,26.11764705882353,22.0,AltimateAI/vscode-dbt-power-user,2026H1,148,8.476

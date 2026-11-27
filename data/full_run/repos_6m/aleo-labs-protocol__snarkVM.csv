@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+48.5,41.5,44.82352941176471,42.25,aleo-labs-protocol/snarkVM,2021H1,783,55.655
+66.0,50.0,58.94117647058824,52.0,aleo-labs-protocol/snarkVM,2021H2,1484,112.917
+56.5,46.5,52.58823529411765,49.5,aleo-labs-protocol/snarkVM,2022H1,1278,167.264
+67.5,55.5,60.705882352941174,53.75,aleo-labs-protocol/snarkVM,2022H2,1341,108.866
+65.5,57.5,59.294117647058826,52.5,aleo-labs-protocol/snarkVM,2023H1,1119,65.079
+71.0,59.5,64.23529411764706,57.75,aleo-labs-protocol/snarkVM,2023H2,1687,68.242
+92.5,77.0,81.17647058823529,70.75,aleo-labs-protocol/snarkVM,2024H1,746,26.672
+39.5,31.5,33.88235294117647,28.25,aleo-labs-protocol/snarkVM,2024H2,159,5.68
+76.5,67.0,69.52941176470588,63.25,aleo-labs-protocol/snarkVM,2025H1,579,32.174
+73.0,60.5,65.64705882352942,60.0,aleo-labs-protocol/snarkVM,2025H2,813,50.477
+78.5,66.5,73.05882352941177,69.0,aleo-labs-protocol/snarkVM,2026H1,870,44.315

@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+62.0,45.0,50.117647058823536,39.75,kuberhealthy/kuberhealthy,2021H1,244,1.727
+20.0,14.5,15.176470588235293,10.75,kuberhealthy/kuberhealthy,2021H2,43,1.29
+26.5,17.0,19.764705882352942,14.0,kuberhealthy/kuberhealthy,2022H1,56,0.411
+15.0,6.0,10.588235294117647,7.5,kuberhealthy/kuberhealthy,2022H2,30,0.254
+8.0,5.5,5.647058823529411,4.0,kuberhealthy/kuberhealthy,2023H1,16,0.009
+18.5,8.5,14.470588235294116,10.25,kuberhealthy/kuberhealthy,2023H2,41,0.275
+15.5,11.5,12.705882352941178,10.75,kuberhealthy/kuberhealthy,2024H1,56,3.445
+6.0,2.0,6.0,4.25,kuberhealthy/kuberhealthy,2024H2,17,0.51
+6.0,6.0,6.0,6.0,kuberhealthy/kuberhealthy,2025H1,76,3.179
+12.5,12.5,12.352941176470587,12.25,kuberhealthy/kuberhealthy,2025H2,257,6.993
+13.0,9.5,12.705882352941178,12.5,kuberhealthy/kuberhealthy,2026H1,79,1.423

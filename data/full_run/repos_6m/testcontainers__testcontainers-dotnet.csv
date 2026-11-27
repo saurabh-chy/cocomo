@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+12.0,11.0,10.235294117647058,7.749999999999999,testcontainers/testcontainers-dotnet,2021H1,31,1.988
+8.0,7.0,6.0,4.25,testcontainers/testcontainers-dotnet,2021H2,17,2.957
+12.0,12.0,10.235294117647058,9.0,testcontainers/testcontainers-dotnet,2022H1,61,2.512
+20.5,19.5,16.235294117647058,13.25,testcontainers/testcontainers-dotnet,2022H2,131,5.353
+16.5,16.5,13.411764705882353,11.25,testcontainers/testcontainers-dotnet,2023H1,130,10.767
+26.0,25.0,20.11764705882353,16.0,testcontainers/testcontainers-dotnet,2023H2,65,3.56
+18.0,17.5,14.470588235294116,12.0,testcontainers/testcontainers-dotnet,2024H1,62,3.198
+16.5,16.0,13.411764705882353,11.25,testcontainers/testcontainers-dotnet,2024H2,49,1.876
+26.499999999999996,25.5,20.470588235294116,16.25,testcontainers/testcontainers-dotnet,2025H1,76,3.681
+17.5,17.5,14.117647058823529,11.75,testcontainers/testcontainers-dotnet,2025H2,76,3.741
+15.0,14.5,12.352941176470587,10.5,testcontainers/testcontainers-dotnet,2026H1,69,2.992

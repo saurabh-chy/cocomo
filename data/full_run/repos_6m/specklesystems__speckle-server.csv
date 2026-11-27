@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+49.5,43.0,45.529411764705884,41.0,specklesystems/speckle-server,2021H1,488,25.221
+48.0,41.5,45.17647058823529,40.75,specklesystems/speckle-server,2021H2,375,22.063
+58.5,48.0,51.882352941176464,46.75,specklesystems/speckle-server,2022H1,693,43.605
+45.0,43.5,42.35294117647059,40.5,specklesystems/speckle-server,2022H2,481,39.202
+41.0,40.0,39.529411764705884,38.5,specklesystems/speckle-server,2023H1,259,18.496
+52.0,51.0,50.117647058823536,46.5,specklesystems/speckle-server,2023H2,334,23.369
+71.0,59.5,65.64705882352942,59.0,specklesystems/speckle-server,2024H1,521,31.255
+81.0,76.0,78.0,73.0,specklesystems/speckle-server,2024H2,1365,107.345
+106.5,95.5,97.41176470588235,89.25,specklesystems/speckle-server,2025H1,1684,106.006
+100.5,83.5,93.52941176470588,82.5,specklesystems/speckle-server,2025H2,1151,82.098
+12.0,9.5,9.882352941176471,6.999999999999999,specklesystems/speckle-server,2026H1,28,0.158

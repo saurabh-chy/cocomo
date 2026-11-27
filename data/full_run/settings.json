@@ -1,0 +1,54 @@
+{
+ "START": "2021-01-01",
+ "END": "2026-07-01",
+ "WINDOW_MONTHS": 3,
+ "THETA_6M": 12,
+ "THETA_ROBUST": [
+  17,
+  24
+ ],
+ "CORE_DEV_COMMITS": 5,
+ "MIN_CORE_DEVS": 3,
+ "MIN_KSLOC": 1.0,
+ "BULK_COMMIT_LINES": 2000,
+ "MIN_STARS": 100,
+ "LANGS": [
+  "Python",
+  "JavaScript",
+  "TypeScript",
+  "Java",
+  "Go",
+  "C#",
+  "Rust"
+ ],
+ "CREATED_BEFORE": "2022-01-01",
+ "ACTIVE_AFTER": "2026-05-01",
+ "MAX_REPO_MB": 1500,
+ "ACTIVE_SINCE": "2025-01-01",
+ "MIN_RECENT_COMMITS": 300,
+ "MIN_CONTRIBUTORS": 20,
+ "N_AI": 200,
+ "CONTROLS_PER_AI": 2,
+ "MIN_AGENT_PRS": 5,
+ "ADOPTED_BY": "2025-09-30",
+ "MAX_CANDIDATES_CHECKED": 3000,
+ "SEED": 42,
+ "FULL_SCORE_AT": {
+  "n_ci_workflows": 5,
+  "ci_runs_per_week": 20,
+  "releases_per_month": 2,
+  "agent_pr_share": 0.3,
+  "ai_commit_share": 0.3,
+  "n_services": 50,
+  "iac_change_share": 0.1,
+  "tenure_months": 72
+ },
+ "LEVEL_CUTS": [
+  0.1,
+  0.3,
+  0.5,
+  0.7,
+  0.9
+ ],
+ "AIDEV_VERSION": "v5"
+}

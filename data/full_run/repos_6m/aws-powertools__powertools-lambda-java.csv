@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+11.0,10.5,9.529411764705884,8.0,aws-powertools/powertools-lambda-java,2021H1,32,0.5
+13.0,11.5,10.941176470588236,9.5,aws-powertools/powertools-lambda-java,2021H2,42,2.152
+12.0,12.0,10.235294117647058,9.0,aws-powertools/powertools-lambda-java,2022H1,44,0.46
+5.0,5.0,3.5294117647058822,2.5,aws-powertools/powertools-lambda-java,2022H2,10,0.185
+26.5,21.0,19.058823529411764,13.5,aws-powertools/powertools-lambda-java,2023H1,54,1.424
+28.5,26.5,23.64705882352941,20.25,aws-powertools/powertools-lambda-java,2023H2,94,8.074
+11.0,8.5,7.764705882352942,5.5,aws-powertools/powertools-lambda-java,2024H1,22,1.56
+2.0,1.5,1.4117647058823528,1.0,aws-powertools/powertools-lambda-java,2024H2,4,0.399
+11.0,10.0,9.529411764705884,8.0,aws-powertools/powertools-lambda-java,2025H1,32,2.575
+13.999999999999998,13.5,11.647058823529411,10.0,aws-powertools/powertools-lambda-java,2025H2,68,4.093
+4.5,4.5,3.1764705882352944,2.25,aws-powertools/powertools-lambda-java,2026H1,9,0.566

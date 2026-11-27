@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+14.5,12.0,10.941176470588236,7.75,parse-community/parse-dashboard,2021H1,31,0.333
+30.5,27.0,25.058823529411768,21.25,parse-community/parse-dashboard,2021H2,133,3.915
+24.5,21.0,19.411764705882355,15.5,parse-community/parse-dashboard,2022H1,67,0.105
+28.5,20.0,20.823529411764707,14.75,parse-community/parse-dashboard,2022H2,59,1.069
+23.0,20.0,16.588235294117645,11.75,parse-community/parse-dashboard,2023H1,47,1.806
+6.0,5.0,4.235294117647059,3.0,parse-community/parse-dashboard,2023H2,12,0.308
+11.0,8.5,7.764705882352942,5.5,parse-community/parse-dashboard,2024H1,22,0.493
+7.5,6.5,5.294117647058823,3.75,parse-community/parse-dashboard,2024H2,15,1.14
+14.5,14.5,13.76470588235294,12.25,parse-community/parse-dashboard,2025H1,56,1.539
+9.0,9.0,8.117647058823529,7.5,parse-community/parse-dashboard,2025H2,109,12.449
+6.5,6.5,6.352941176470589,6.25,parse-community/parse-dashboard,2026H1,121,14.424

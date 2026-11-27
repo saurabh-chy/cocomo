@@ -1,0 +1,8 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+0.5,0.5,0.3529411764705882,0.25,michaelfaith/eslint-plugin-package-json,2021H1,1,0.0
+12.5,6.0,10.588235294117647,9.0,michaelfaith/eslint-plugin-package-json,2023H2,36,0.83
+18.5,12.0,16.588235294117645,12.25,michaelfaith/eslint-plugin-package-json,2024H1,49,0.776
+13.0,10.0,9.176470588235295,6.5,michaelfaith/eslint-plugin-package-json,2024H2,26,0.241
+21.5,20.5,16.941176470588236,13.75,michaelfaith/eslint-plugin-package-json,2025H1,79,1.526
+16.5,16.0,13.411764705882353,11.25,michaelfaith/eslint-plugin-package-json,2025H2,144,2.047
+17.5,14.5,14.117647058823529,11.75,michaelfaith/eslint-plugin-package-json,2026H1,164,2.164

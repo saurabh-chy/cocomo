@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+17.0,17.0,15.529411764705884,14.25,AzureAD/microsoft-identity-web,2021H1,204,5.577
+13.0,13.0,10.941176470588236,9.5,AzureAD/microsoft-identity-web,2021H2,108,2.039
+12.5,12.5,10.588235294117647,9.25,AzureAD/microsoft-identity-web,2022H1,88,2.377
+14.0,14.0,13.411764705882353,13.0,AzureAD/microsoft-identity-web,2022H2,132,7.689
+20.5,20.5,19.764705882352942,17.5,AzureAD/microsoft-identity-web,2023H1,121,2.86
+37.0,33.5,30.352941176470587,25.0,AzureAD/microsoft-identity-web,2023H2,101,1.185
+37.0,36.0,28.588235294117645,22.0,AzureAD/microsoft-identity-web,2024H1,103,2.164
+45.5,44.5,35.64705882352941,27.0,AzureAD/microsoft-identity-web,2024H2,115,2.591
+37.5,33.5,28.588235294117645,22.0,AzureAD/microsoft-identity-web,2025H1,103,1.514
+25.5,23.5,19.764705882352942,15.75,AzureAD/microsoft-identity-web,2025H2,65,2.144
+46.5,39.0,33.17647058823529,23.5,AzureAD/microsoft-identity-web,2026H1,94,4.675

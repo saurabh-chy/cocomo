@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+41.5,35.0,31.058823529411768,23.75,homebridge/homebridge-config-ui-x,2021H1,182,3.019
+16.0,9.5,13.058823529411764,10.75,homebridge/homebridge-config-ui-x,2021H2,43,0.175
+16.0,15.0,13.058823529411764,11.0,homebridge/homebridge-config-ui-x,2022H1,117,2.704
+11.5,11.5,9.882352941176471,8.75,homebridge/homebridge-config-ui-x,2022H2,59,0.657
+1.5,1.5,1.0588235294117647,0.75,homebridge/homebridge-config-ui-x,2023H1,3,0.082
+24.5,21.0,19.764705882352942,15.75,homebridge/homebridge-config-ui-x,2023H2,85,3.491
+20.5,18.5,16.235294117647058,13.25,homebridge/homebridge-config-ui-x,2024H1,64,0.379
+22.5,22.0,17.647058823529413,14.25,homebridge/homebridge-config-ui-x,2024H2,196,5.247
+16.5,16.5,13.411764705882353,11.25,homebridge/homebridge-config-ui-x,2025H1,108,6.454
+19.5,19.0,15.529411764705884,12.75,homebridge/homebridge-config-ui-x,2025H2,282,10.719
+18.0,13.5,16.235294117647058,15.0,homebridge/homebridge-config-ui-x,2026H1,354,16.814

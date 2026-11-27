@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+36.5,34.0,29.294117647058826,24.25,open-telemetry/opentelemetry-rust,2021H1,120,14.518
+22.0,21.5,16.588235294117645,11.75,open-telemetry/opentelemetry-rust,2021H2,47,2.375
+31.5,29.0,25.764705882352942,20.75,open-telemetry/opentelemetry-rust,2022H1,85,11.183
+22.5,21.5,16.588235294117645,11.75,open-telemetry/opentelemetry-rust,2022H2,47,3.388
+48.0,43.0,35.294117647058826,25.0,open-telemetry/opentelemetry-rust,2023H1,100,9.449
+66.0,62.5,51.882352941176464,41.0,open-telemetry/opentelemetry-rust,2023H2,186,13.319
+61.0,58.5,51.882352941176464,45.0,open-telemetry/opentelemetry-rust,2024H1,252,15.077
+61.5,61.0,52.94117647058824,44.5,open-telemetry/opentelemetry-rust,2024H2,336,25.488
+66.0,62.0,54.0,43.5,open-telemetry/opentelemetry-rust,2025H1,323,20.299
+31.5,30.5,23.64705882352941,16.75,open-telemetry/opentelemetry-rust,2025H2,67,7.056
+38.0,36.5,28.941176470588232,22.25,open-telemetry/opentelemetry-rust,2026H1,121,9.388

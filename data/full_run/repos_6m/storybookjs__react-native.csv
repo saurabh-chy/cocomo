@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+11.5,7.5,9.882352941176471,8.75,storybookjs/react-native,2021H1,37,2.543
+17.0,16.0,15.529411764705884,12.75,storybookjs/react-native,2021H2,65,1.381
+11.5,8.5,8.470588235294116,5.999999999999999,storybookjs/react-native,2022H1,24,0.332
+14.0,10.0,9.882352941176471,7.0,storybookjs/react-native,2022H2,28,2.172
+17.0,15.5,13.76470588235294,11.5,storybookjs/react-native,2023H1,85,3.426
+6.0,3.0,6.0,4.5,storybookjs/react-native,2023H2,18,0.992
+9.0,9.0,8.117647058823529,7.5,storybookjs/react-native,2024H1,42,1.897
+14.0,13.5,11.647058823529411,10.0,storybookjs/react-native,2024H2,67,1.2
+13.5,13.0,11.294117647058822,9.75,storybookjs/react-native,2025H1,137,5.41
+7.5,7.5,7.0588235294117645,6.75,storybookjs/react-native,2025H2,74,1.518
+16.5,14.5,13.411764705882353,11.25,storybookjs/react-native,2026H1,121,5.053

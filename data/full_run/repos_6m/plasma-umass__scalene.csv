@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+27.0,25.5,26.11764705882353,25.5,plasma-umass/scalene,2021H1,650,16.808
+20.5,20.0,19.764705882352942,18.5,plasma-umass/scalene,2021H2,471,5.946
+29.0,24.5,27.52941176470588,23.75,plasma-umass/scalene,2022H1,292,4.184
+27.5,22.0,26.47058823529412,25.75,plasma-umass/scalene,2022H2,322,3.63
+14.5,13.0,12.0,10.25,plasma-umass/scalene,2023H1,119,1.545
+18.0,14.5,14.470588235294116,12.0,plasma-umass/scalene,2023H2,118,1.611
+21.5,15.5,18.705882352941178,15.0,plasma-umass/scalene,2024H1,99,2.663
+13.0,11.5,10.941176470588236,9.5,plasma-umass/scalene,2024H2,96,3.973
+8.5,8.0,7.764705882352942,5.5,plasma-umass/scalene,2025H1,22,0.971
+14.0,13.0,11.647058823529411,10.0,plasma-umass/scalene,2025H2,108,6.493
+12.0,12.0,12.0,12.0,plasma-umass/scalene,2026H1,159,14.17

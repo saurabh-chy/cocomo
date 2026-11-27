@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+12.5,11.5,12.352941176470587,12.25,strictdoc-project/strictdoc,2021H1,161,4.197
+16.0,15.0,14.823529411764707,14.0,strictdoc-project/strictdoc,2021H2,189,7.512
+23.0,20.0,19.764705882352942,17.5,strictdoc-project/strictdoc,2022H1,186,3.559
+18.0,15.0,15.882352941176471,13.0,strictdoc-project/strictdoc,2022H2,119,5.179
+15.0,14.5,14.117647058823529,13.5,strictdoc-project/strictdoc,2023H1,620,13.401
+13.5,13.5,13.058823529411764,12.75,strictdoc-project/strictdoc,2023H2,561,13.68
+20.5,20.0,18.0,16.25,strictdoc-project/strictdoc,2024H1,378,17.045
+16.0,14.5,14.823529411764707,12.5,strictdoc-project/strictdoc,2024H2,126,5.776
+26.5,24.0,24.0,22.25,strictdoc-project/strictdoc,2025H1,416,13.124
+28.0,24.0,25.058823529411768,21.75,strictdoc-project/strictdoc,2025H2,381,13.351
+28.5,27.0,25.411764705882355,23.25,strictdoc-project/strictdoc,2026H1,572,21.024

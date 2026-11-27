@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+46.0,44.0,38.82352941176471,31.0,openmrs/openmrs-esm-core,2021H1,200,12.131
+44.0,39.5,35.294117647058826,28.5,openmrs/openmrs-esm-core,2021H2,152,5.386
+51.5,48.0,41.64705882352941,34.0,openmrs/openmrs-esm-core,2022H1,203,8.532
+30.0,28.5,25.411764705882355,21.5,openmrs/openmrs-esm-core,2022H2,98,2.559
+36.0,31.0,30.0,24.75,openmrs/openmrs-esm-core,2023H1,140,4.01
+48.0,44.0,39.88235294117647,31.75,openmrs/openmrs-esm-core,2023H2,149,4.783
+45.5,45.0,37.411764705882355,31.75,openmrs/openmrs-esm-core,2024H1,178,7.913
+60.5,53.0,46.94117647058823,36.75,openmrs/openmrs-esm-core,2024H2,186,8.261
+42.0,42.0,35.294117647058826,30.0,openmrs/openmrs-esm-core,2025H1,134,6.173
+39.5,39.0,33.88235294117647,28.25,openmrs/openmrs-esm-core,2025H2,116,6.063
+46.0,45.5,39.17647058823529,31.5,openmrs/openmrs-esm-core,2026H1,166,7.298

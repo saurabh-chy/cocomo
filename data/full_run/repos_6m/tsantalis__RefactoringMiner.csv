@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+7.5,7.0,7.0588235294117645,6.75,tsantalis/RefactoringMiner,2021H1,159,7.225
+6.5,6.5,6.352941176470589,6.25,tsantalis/RefactoringMiner,2021H2,149,5.559
+6.0,6.0,6.0,6.0,tsantalis/RefactoringMiner,2022H1,134,6.926
+9.0,7.5,8.117647058823529,7.5,tsantalis/RefactoringMiner,2022H2,254,15.615
+18.5,18.5,18.352941176470587,18.25,tsantalis/RefactoringMiner,2023H1,720,18.418
+13.5,13.5,13.058823529411764,12.75,tsantalis/RefactoringMiner,2023H2,503,7.561
+14.5,13.5,13.76470588235294,13.25,tsantalis/RefactoringMiner,2024H1,495,13.039
+13.0,13.0,12.705882352941178,12.5,tsantalis/RefactoringMiner,2024H2,622,11.264
+14.5,14.0,13.76470588235294,13.25,tsantalis/RefactoringMiner,2025H1,638,11.743
+18.0,16.0,18.0,16.25,tsantalis/RefactoringMiner,2025H2,618,15.071
+30.0,22.5,24.705882352941174,20.5,tsantalis/RefactoringMiner,2026H1,768,31.298

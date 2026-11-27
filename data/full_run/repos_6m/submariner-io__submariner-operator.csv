@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+71.0,64.0,64.23529411764706,58.25,submariner-io/submariner-operator,2021H1,293,11.287
+47.5,46.5,42.0,34.25,submariner-io/submariner-operator,2021H2,174,6.841
+46.5,41.5,40.23529411764706,34.5,submariner-io/submariner-operator,2022H1,267,11.943
+35.0,33.0,29.294117647058826,24.25,submariner-io/submariner-operator,2022H2,109,1.697
+25.0,24.5,22.235294117647058,18.0,submariner-io/submariner-operator,2023H1,79,0.887
+25.5,23.0,19.764705882352942,15.75,submariner-io/submariner-operator,2023H2,66,0.662
+17.5,17.5,15.882352941176471,13.0,submariner-io/submariner-operator,2024H1,72,0.418
+16.5,16.0,13.411764705882353,11.25,submariner-io/submariner-operator,2024H2,58,1.531
+20.0,17.5,14.117647058823529,10.0,submariner-io/submariner-operator,2025H1,40,0.348
+20.5,19.5,18.0,15.75,submariner-io/submariner-operator,2025H2,66,0.767
+15.0,12.0,12.35294117647059,9.0,submariner-io/submariner-operator,2026H1,36,0.014

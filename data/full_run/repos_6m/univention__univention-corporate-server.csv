@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+93.5,83.0,87.17647058823529,81.0,univention/univention-corporate-server,2021H1,2377,30.95
+134.0,112.5,123.52941176470588,112.5,univention/univention-corporate-server,2021H2,1373,7.73
+166.0,148.0,155.29411764705884,141.25,univention/univention-corporate-server,2022H1,1706,11.043
+136.5,121.0,122.47058823529412,107.0,univention/univention-corporate-server,2022H2,1416,8.323
+144.0,129.0,130.58823529411765,116.25,univention/univention-corporate-server,2023H1,1862,13.203
+135.0,113.5,124.23529411764707,112.0,univention/univention-corporate-server,2023H2,1279,8.749
+123.0,101.5,109.41176470588235,96.75,univention/univention-corporate-server,2024H1,882,8.344
+61.5,57.0,53.64705882352941,45.25,univention/univention-corporate-server,2024H2,416,1.2
+91.0,84.0,81.17647058823529,73.0,univention/univention-corporate-server,2025H1,893,5.837
+108.5,100.5,101.29411764705883,90.5,univention/univention-corporate-server,2025H2,1016,16.966
+94.0,85.0,86.82352941176471,80.25,univention/univention-corporate-server,2026H1,1331,4.186

@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+26.0,21.5,21.88235294117647,19.0,adorsys/keycloak-config-cli,2021H1,177,2.482
+20.0,17.0,17.647058823529413,16.0,adorsys/keycloak-config-cli,2021H2,96,0.74
+25.5,16.0,19.764705882352942,15.75,adorsys/keycloak-config-cli,2022H1,104,2.373
+9.5,6.0,8.470588235294118,6.0,adorsys/keycloak-config-cli,2022H2,24,0.311
+13.5,6.5,9.529411764705884,6.75,adorsys/keycloak-config-cli,2023H1,27,0.175
+17.5,7.5,12.705882352941178,9.0,adorsys/keycloak-config-cli,2023H2,36,0.631
+27.5,18.0,22.941176470588236,19.25,adorsys/keycloak-config-cli,2024H1,90,0.289
+45.5,26.5,37.05882352941177,29.75,adorsys/keycloak-config-cli,2024H2,129,0.534
+15.0,9.5,11.294117647058822,8.0,adorsys/keycloak-config-cli,2025H1,32,0.187
+20.5,9.5,18.0,16.25,adorsys/keycloak-config-cli,2025H2,88,1.675
+47.0,33.5,40.23529411764706,35.5,adorsys/keycloak-config-cli,2026H1,217,3.642

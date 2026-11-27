@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+13.5,5.5,9.882352941176471,6.999999999999999,aztfmod/terraform-provider-azurecaf,2021H1,28,2.864
+15.0,6.999999999999999,10.588235294117647,7.5,aztfmod/terraform-provider-azurecaf,2021H2,30,0.561
+10.5,7.5,7.411764705882353,5.25,aztfmod/terraform-provider-azurecaf,2022H1,21,0.099
+23.5,11.5,18.35294117647059,13.75,aztfmod/terraform-provider-azurecaf,2022H2,55,2.006
+6.5,5.0,4.588235294117647,3.25,aztfmod/terraform-provider-azurecaf,2023H1,13,0.035
+0.5,0.5,0.3529411764705882,0.25,aztfmod/terraform-provider-azurecaf,2023H2,1,0.003
+4.0,4.0,2.8235294117647056,2.0,aztfmod/terraform-provider-azurecaf,2024H1,8,0.014
+1.5,1.5,1.0588235294117645,0.75,aztfmod/terraform-provider-azurecaf,2024H2,3,0.385
+6.0,2.5,6.0,4.75,aztfmod/terraform-provider-azurecaf,2025H1,19,0.912
+11.0,2.5,9.176470588235293,6.5,aztfmod/terraform-provider-azurecaf,2025H2,26,2.417
+7.5,6.0,7.0588235294117645,6.75,aztfmod/terraform-provider-azurecaf,2026H1,48,3.268

@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+15.5,15.0,12.705882352941178,10.75,stackabletech/operator-rs,2021H1,63,6.051
+30.5,26.5,26.823529411764707,24.25,stackabletech/operator-rs,2021H2,112,9.683
+39.5,29.5,32.82352941176471,25.75,stackabletech/operator-rs,2022H1,129,3.891
+20.5,16.5,16.588235294117645,12.25,stackabletech/operator-rs,2022H2,49,4.573
+28.0,22.5,20.823529411764707,14.75,stackabletech/operator-rs,2023H1,59,4.453
+19.0,16.5,15.176470588235293,12.5,stackabletech/operator-rs,2023H2,72,5.491
+26.5,23.0,21.88235294117647,17.25,stackabletech/operator-rs,2024H1,82,7.664
+32.0,29.0,26.11764705882353,22.0,stackabletech/operator-rs,2024H2,98,7.679
+31.5,29.5,27.52941176470588,21.25,stackabletech/operator-rs,2025H1,115,10.298
+16.5,16.5,15.176470588235293,14.0,stackabletech/operator-rs,2025H2,62,5.56
+23.5,21.5,20.11764705882353,17.75,stackabletech/operator-rs,2026H1,84,7.337

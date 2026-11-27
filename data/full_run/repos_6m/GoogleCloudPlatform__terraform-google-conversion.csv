@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+10.5,9.0,9.176470588235295,8.25,GoogleCloudPlatform/terraform-google-conversion,2021H1,132,10.231
+7.5,7.5,7.0588235294117645,6.75,GoogleCloudPlatform/terraform-google-conversion,2021H2,62,6.067
+1.5,1.5,1.0588235294117645,0.75,GoogleCloudPlatform/terraform-google-conversion,2022H1,3,0.127
+2.0,2.0,1.4117647058823528,1.0,GoogleCloudPlatform/terraform-google-conversion,2022H2,4,0.795
+15.5,13.5,12.705882352941178,10.75,GoogleCloudPlatform/terraform-google-conversion,2023H1,306,19.057
+15.0,14.5,12.35294117647059,10.5,GoogleCloudPlatform/terraform-google-conversion,2023H2,632,30.748
+10.5,10.0,9.176470588235293,8.25,GoogleCloudPlatform/terraform-google-conversion,2024H1,630,34.994
+9.0,9.0,8.117647058823529,7.5,GoogleCloudPlatform/terraform-google-conversion,2024H2,711,29.081
+12.5,12.5,11.647058823529411,10.0,GoogleCloudPlatform/terraform-google-conversion,2025H1,818,51.204
+7.5,7.0,7.0588235294117645,6.75,GoogleCloudPlatform/terraform-google-conversion,2025H2,767,95.798
+8.5,8.5,7.764705882352942,7.25,GoogleCloudPlatform/terraform-google-conversion,2026H1,913,87.289

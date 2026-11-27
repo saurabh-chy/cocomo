@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+12.0,12.0,12.0,12.0,signal18/replication-manager,2021H1,135,6.945
+16.5,11.5,13.76470588235294,11.5,signal18/replication-manager,2021H2,100,6.082
+11.5,11.0,9.882352941176471,8.75,signal18/replication-manager,2022H1,70,5.301
+8.0,7.0,7.0588235294117645,5.0,signal18/replication-manager,2022H2,20,0.998
+21.0,19.5,20.11764705882353,19.5,signal18/replication-manager,2023H1,196,10.124
+25.0,18.5,20.11764705882353,16.0,signal18/replication-manager,2023H2,71,2.706
+33.0,26.5,28.588235294117645,25.5,signal18/replication-manager,2024H1,265,13.088
+31.0,27.0,27.176470588235293,24.5,signal18/replication-manager,2024H2,1124,118.959
+30.5,26.0,26.823529411764707,24.25,signal18/replication-manager,2025H1,902,61.115
+20.5,18.0,18.0,16.25,signal18/replication-manager,2025H2,550,30.891
+27.0,23.5,24.352941176470587,22.5,signal18/replication-manager,2026H1,1366,101.642

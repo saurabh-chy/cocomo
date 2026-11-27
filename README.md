@@ -50,7 +50,7 @@ To change the measurement code, edit the files in `pipeline/` and run `python pi
 - [x] Detection fixes for services and IaC files
 - [x] Full-run notebook (Robles threshold, continuous scores, 2 comparisons per AI repository, contributor screen, resumable batches)
 - [ ] OSF pre-registration
-- [ ] Full data collection (about 600 repositories)
+- [x] Full data collection: 597 repositories, 12,583 repository-quarters (see docs/full_run_checks.md)
 - [ ] Bayesian model, difference-in-differences, baselines, simulation
 
 See `docs/pilot_log.md` for details. Pilot results are for checking the pipeline only and must not be reported as findings.

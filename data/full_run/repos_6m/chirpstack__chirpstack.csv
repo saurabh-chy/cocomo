@@ -1,0 +1,10 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+8.5,8.0,7.764705882352942,7.25,chirpstack/chirpstack,2022H1,74,2.05
+9.0,9.0,8.117647058823529,7.5,chirpstack/chirpstack,2022H2,162,8.755
+10.0,10.0,8.823529411764707,8.0,chirpstack/chirpstack,2023H1,127,6.01
+9.0,9.0,8.117647058823529,7.5,chirpstack/chirpstack,2023H2,146,10.414
+10.5,9.5,9.176470588235293,8.25,chirpstack/chirpstack,2024H1,91,7.607
+12.5,12.5,10.588235294117647,9.25,chirpstack/chirpstack,2024H2,89,3.315
+9.0,9.0,8.117647058823529,7.5,chirpstack/chirpstack,2025H1,113,17.05
+9.0,9.0,8.117647058823529,7.5,chirpstack/chirpstack,2025H2,75,4.147
+14.0,13.5,11.647058823529411,10.0,chirpstack/chirpstack,2026H1,119,8.09

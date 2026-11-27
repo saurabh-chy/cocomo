@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+66.0,57.0,62.470588235294116,59.75,data-privacy-stack/presidio,2021H1,471,8.134
+12.0,11.0,8.823529411764705,6.249999999999999,data-privacy-stack/presidio,2021H2,25,1.138
+14.0,14.0,11.647058823529411,9.75,data-privacy-stack/presidio,2022H1,39,1.632
+20.5,17.0,16.235294117647058,11.75,data-privacy-stack/presidio,2022H2,47,2.935
+17.0,13.5,12.0,8.5,data-privacy-stack/presidio,2023H1,34,3.115
+24.5,22.0,20.11764705882353,14.5,data-privacy-stack/presidio,2023H2,58,2.596
+25.5,24.0,19.764705882352942,15.75,data-privacy-stack/presidio,2024H1,63,4.088
+19.5,19.5,14.470588235294116,10.25,data-privacy-stack/presidio,2024H2,41,0.575
+23.5,23.0,19.411764705882355,14.25,data-privacy-stack/presidio,2025H1,57,1.951
+33.0,30.5,25.058823529411768,17.75,data-privacy-stack/presidio,2025H2,71,3.96
+49.5,40.0,37.05882352941177,26.25,data-privacy-stack/presidio,2026H1,105,7.174

@@ -1,0 +1,11 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+7.5,6.0,5.294117647058823,3.75,release-drafter/release-drafter,2021H1,15,0.201
+7.5,7.5,5.294117647058823,3.75,release-drafter/release-drafter,2021H2,15,0.121
+17.5,11.5,14.117647058823529,11.75,release-drafter/release-drafter,2022H1,72,0.714
+5.0,4.5,3.5294117647058822,2.5,release-drafter/release-drafter,2022H2,10,0.007
+4.0,4.0,2.8235294117647056,2.0,release-drafter/release-drafter,2023H1,8,0.041
+1.5,1.5,1.0588235294117645,0.75,release-drafter/release-drafter,2023H2,3,0.19
+1.5,1.5,1.0588235294117645,0.75,release-drafter/release-drafter,2024H1,3,0.0
+1.5,1.5,1.0588235294117645,0.75,release-drafter/release-drafter,2024H2,3,0.0
+5.0,4.5,3.5294117647058822,2.5,release-drafter/release-drafter,2025H1,10,0.044
+25.5,25.0,23.294117647058822,21.5,release-drafter/release-drafter,2026H1,113,3.533

@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+9.5,9.5,8.470588235294118,7.75,schemathesis/schemathesis,2021H1,241,3.124
+16.0,16.0,14.823529411764707,14.0,schemathesis/schemathesis,2021H2,144,0.658
+14.0,11.5,11.647058823529411,10.0,schemathesis/schemathesis,2022H1,186,2.518
+16.5,13.0,13.411764705882353,11.25,schemathesis/schemathesis,2022H2,104,0.804
+14.5,10.0,12.352941176470587,10.5,schemathesis/schemathesis,2023H1,90,1.833
+16.0,12.5,14.823529411764707,13.75,schemathesis/schemathesis,2023H2,193,5.999
+14.0,14.0,13.411764705882353,12.5,schemathesis/schemathesis,2024H1,308,5.576
+13.5,13.5,13.058823529411764,12.75,schemathesis/schemathesis,2024H2,345,18.428
+15.0,14.0,14.117647058823529,13.5,schemathesis/schemathesis,2025H1,322,10.032
+20.0,19.0,17.647058823529413,15.75,schemathesis/schemathesis,2025H2,511,8.249
+20.5,19.5,18.0,15.75,schemathesis/schemathesis,2026H1,864,30.747

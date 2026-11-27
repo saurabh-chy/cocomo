@@ -1,0 +1,10 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+3.0,3.0,2.117647058823529,1.5,publiccodeyml/publiccode.yml,2021H1,6,0.005
+5.5,3.0,3.882352941176471,2.75,publiccodeyml/publiccode.yml,2021H2,11,0.022
+6.999999999999999,4.0,4.9411764705882355,3.4999999999999996,publiccodeyml/publiccode.yml,2022H1,14,0.001
+1.0,1.0,0.7058823529411764,0.5,publiccodeyml/publiccode.yml,2023H1,2,0.0
+3.0,3.0,2.1176470588235294,1.5,publiccodeyml/publiccode.yml,2023H2,6,0.0
+5.0,3.4999999999999996,3.5294117647058822,2.5,publiccodeyml/publiccode.yml,2024H1,10,0.001
+4.0,2.0,2.8235294117647056,2.0,publiccodeyml/publiccode.yml,2024H2,8,0.002
+9.5,5.5,8.470588235294118,7.0,publiccodeyml/publiccode.yml,2025H2,28,0.006
+11.0,9.5,9.529411764705882,7.5,publiccodeyml/publiccode.yml,2026H1,30,0.001

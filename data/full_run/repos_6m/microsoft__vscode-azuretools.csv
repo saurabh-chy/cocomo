@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+23.0,20.5,18.0,14.5,microsoft/vscode-azuretools,2021H1,97,3.849
+25.0,20.0,19.764705882352942,15.75,microsoft/vscode-azuretools,2021H2,71,4.544
+23.0,20.5,19.764705882352942,17.5,microsoft/vscode-azuretools,2022H1,103,2.356
+17.5,15.0,14.117647058823529,11.75,microsoft/vscode-azuretools,2022H2,65,2.553
+23.5,22.0,21.88235294117647,19.0,microsoft/vscode-azuretools,2023H1,133,4.373
+32.5,31.0,27.882352941176467,22.5,microsoft/vscode-azuretools,2023H2,107,2.48
+27.5,21.5,21.176470588235293,15.0,microsoft/vscode-azuretools,2024H1,60,1.874
+26.5,22.5,20.470588235294116,16.25,microsoft/vscode-azuretools,2024H2,72,0.783
+34.0,32.0,32.82352941176471,27.75,microsoft/vscode-azuretools,2025H1,127,2.905
+23.5,20.5,19.411764705882355,15.5,microsoft/vscode-azuretools,2025H2,96,5.911
+25.5,22.0,21.529411764705884,18.75,microsoft/vscode-azuretools,2026H1,94,2.166

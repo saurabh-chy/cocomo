@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+9.5,9.0,8.470588235294118,7.75,SimonCropp/GraphQL.EntityFramework,2021H1,109,0.721
+9.5,9.5,8.470588235294116,7.75,SimonCropp/GraphQL.EntityFramework,2021H2,62,1.921
+9.0,9.0,8.117647058823529,7.5,SimonCropp/GraphQL.EntityFramework,2022H1,71,0.504
+11.5,10.0,9.882352941176471,8.75,SimonCropp/GraphQL.EntityFramework,2022H2,123,0.746
+7.0,7.0,6.705882352941177,6.5,SimonCropp/GraphQL.EntityFramework,2023H1,50,0.375
+9.0,8.5,8.117647058823529,7.5,SimonCropp/GraphQL.EntityFramework,2023H2,68,0.307
+9.5,9.0,8.470588235294116,7.75,SimonCropp/GraphQL.EntityFramework,2024H1,107,0.291
+6.0,6.0,6.0,6.0,SimonCropp/GraphQL.EntityFramework,2024H2,86,0.318
+7.5,7.0,7.0588235294117645,6.75,SimonCropp/GraphQL.EntityFramework,2025H1,113,0.722
+7.5,7.5,7.0588235294117645,6.75,SimonCropp/GraphQL.EntityFramework,2025H2,118,0.249
+10.5,10.5,9.176470588235293,8.25,SimonCropp/GraphQL.EntityFramework,2026H1,205,8.641

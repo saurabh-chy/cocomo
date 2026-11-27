@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+10.0,10.0,8.823529411764707,8.0,zentralopensource/zentral,2021H1,252,14.866
+7.0,7.0,6.705882352941177,6.5,zentralopensource/zentral,2021H2,150,9.335
+7.0,7.0,6.705882352941177,6.5,zentralopensource/zentral,2022H1,244,10.515
+7.0,7.0,6.705882352941177,6.5,zentralopensource/zentral,2022H2,149,7.66
+18.0,16.5,16.235294117647058,13.5,zentralopensource/zentral,2023H1,263,8.566
+12.5,12.5,12.352941176470587,12.25,zentralopensource/zentral,2023H2,188,6.718
+8.5,8.5,7.764705882352942,7.25,zentralopensource/zentral,2024H1,131,6.898
+17.5,17.0,15.882352941176471,14.75,zentralopensource/zentral,2024H2,114,3.901
+8.5,7.0,7.764705882352942,7.25,zentralopensource/zentral,2025H1,123,5.395
+20.0,19.0,17.294117647058822,14.0,zentralopensource/zentral,2025H2,190,8.639
+20.0,17.5,18.705882352941178,16.75,zentralopensource/zentral,2026H1,277,9.295

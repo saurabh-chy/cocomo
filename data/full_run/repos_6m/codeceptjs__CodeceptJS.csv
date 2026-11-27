@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+38.5,29.0,27.176470588235293,19.25,codeceptjs/CodeceptJS,2021H1,77,0.568
+50.5,45.0,36.0,25.5,codeceptjs/CodeceptJS,2021H2,102,1.274
+35.0,27.5,25.058823529411768,17.75,codeceptjs/CodeceptJS,2022H1,71,1.123
+36.5,29.0,27.52941176470588,21.25,codeceptjs/CodeceptJS,2022H2,95,1.594
+25.5,20.5,19.764705882352942,15.75,codeceptjs/CodeceptJS,2023H1,70,0.973
+35.0,32.5,30.0,26.25,codeceptjs/CodeceptJS,2023H2,194,3.953
+24.0,21.0,20.11764705882353,16.0,codeceptjs/CodeceptJS,2024H1,116,3.161
+27.0,22.5,22.588235294117645,19.5,codeceptjs/CodeceptJS,2024H2,95,1.83
+33.5,30.0,28.941176470588232,25.25,codeceptjs/CodeceptJS,2025H1,140,8.271
+19.5,16.5,17.294117647058822,15.75,codeceptjs/CodeceptJS,2025H2,144,7.998
+38.5,35.5,32.82352941176471,26.75,codeceptjs/CodeceptJS,2026H1,142,10.621

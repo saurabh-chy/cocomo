@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+38.0,31.5,26.823529411764707,19.0,Azure/azure-functions-core-tools,2021H1,76,2.145
+29.0,28.0,21.529411764705884,15.25,Azure/azure-functions-core-tools,2021H2,61,0.351
+21.0,20.5,16.588235294117645,12.0,Azure/azure-functions-core-tools,2022H1,48,0.326
+13.5,13.5,9.529411764705884,6.75,Azure/azure-functions-core-tools,2022H2,27,0.459
+14.0,14.0,11.294117647058822,8.0,Azure/azure-functions-core-tools,2023H1,32,2.108
+14.5,14.5,12.0,9.75,Azure/azure-functions-core-tools,2023H2,39,0.738
+20.0,18.5,15.882352941176471,11.25,Azure/azure-functions-core-tools,2024H1,45,1.326
+32.0,29.0,22.588235294117645,16.0,Azure/azure-functions-core-tools,2024H2,64,1.799
+25.0,24.5,21.176470588235293,18.25,Azure/azure-functions-core-tools,2025H1,75,2.471
+24.5,23.5,19.058823529411764,15.25,Azure/azure-functions-core-tools,2025H2,104,2.833
+21.0,20.5,16.588235294117645,13.5,Azure/azure-functions-core-tools,2026H1,73,3.471

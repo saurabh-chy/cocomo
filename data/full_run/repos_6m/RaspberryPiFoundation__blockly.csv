@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+65.5,58.0,58.58823529411765,50.75,RaspberryPiFoundation/blockly,2021H1,251,11.583
+72.0,67.0,68.47058823529412,64.5,RaspberryPiFoundation/blockly,2021H2,1052,51.28
+47.5,44.5,40.588235294117645,34.75,RaspberryPiFoundation/blockly,2022H1,158,13.908
+43.0,41.5,39.88235294117647,34.75,RaspberryPiFoundation/blockly,2022H2,207,14.279
+45.5,42.5,39.88235294117647,33.25,RaspberryPiFoundation/blockly,2023H1,231,19.571
+57.0,54.0,47.294117647058826,38.75,RaspberryPiFoundation/blockly,2023H2,212,8.999
+38.0,36.5,32.470588235294116,26.5,RaspberryPiFoundation/blockly,2024H1,208,7.689
+45.5,43.5,34.94117647058823,26.5,RaspberryPiFoundation/blockly,2024H2,142,5.609
+45.5,39.0,39.88235294117647,34.0,RaspberryPiFoundation/blockly,2025H1,211,9.884
+31.5,27.5,25.058823529411768,19.5,RaspberryPiFoundation/blockly,2025H2,104,1.954
+55.5,49.0,48.35294117647059,43.0,RaspberryPiFoundation/blockly,2026H1,333,17.708

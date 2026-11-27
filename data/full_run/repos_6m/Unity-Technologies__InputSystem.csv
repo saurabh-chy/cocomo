@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+23.0,22.5,19.764705882352942,17.5,Unity-Technologies/InputSystem,2021H1,76,4.182
+35.5,33.0,31.411764705882355,24.75,Unity-Technologies/InputSystem,2021H2,127,8.993
+27.5,24.0,21.52941176470588,15.25,Unity-Technologies/InputSystem,2022H1,61,8.199
+24.5,22.0,17.294117647058822,12.25,Unity-Technologies/InputSystem,2022H2,49,3.862
+24.5,22.0,17.294117647058822,12.25,Unity-Technologies/InputSystem,2023H1,49,3.966
+42.0,41.5,32.11764705882353,24.25,Unity-Technologies/InputSystem,2023H2,97,3.679
+50.0,47.0,42.0,32.0,Unity-Technologies/InputSystem,2024H1,128,7.262
+59.0,54.5,45.17647058823529,32.0,Unity-Technologies/InputSystem,2024H2,128,8.373
+46.0,43.0,34.23529411764706,24.5,Unity-Technologies/InputSystem,2025H1,98,2.704
+46.5,43.0,33.529411764705884,23.75,Unity-Technologies/InputSystem,2025H2,95,2.857
+32.0,30.0,24.352941176470587,19.0,Unity-Technologies/InputSystem,2026H1,85,4.761

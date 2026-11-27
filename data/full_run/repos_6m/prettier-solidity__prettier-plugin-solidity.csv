@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+17.5,17.5,15.176470588235293,12.5,prettier-solidity/prettier-plugin-solidity,2021H1,54,1.896
+8.5,8.5,7.764705882352942,5.75,prettier-solidity/prettier-plugin-solidity,2021H2,23,0.418
+2.0,2.0,1.4117647058823528,1.0,prettier-solidity/prettier-plugin-solidity,2022H1,4,0.038
+11.0,10.0,9.529411764705882,8.5,prettier-solidity/prettier-plugin-solidity,2022H2,44,0.473
+7.0,5.0,4.9411764705882355,3.5,prettier-solidity/prettier-plugin-solidity,2023H1,14,0.293
+6.5,6.5,6.352941176470589,6.0,prettier-solidity/prettier-plugin-solidity,2023H2,24,0.885
+7.0,7.0,6.705882352941177,6.5,prettier-solidity/prettier-plugin-solidity,2024H1,42,3.635
+7.5,7.0,7.0588235294117645,6.75,prettier-solidity/prettier-plugin-solidity,2024H2,170,19.796
+9.5,8.0,8.470588235294118,7.75,prettier-solidity/prettier-plugin-solidity,2025H1,32,0.938
+7.5,7.5,7.0588235294117645,6.75,prettier-solidity/prettier-plugin-solidity,2025H2,38,4.707
+6.0,6.0,6.0,6.0,prettier-solidity/prettier-plugin-solidity,2026H1,47,4.913

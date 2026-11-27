@@ -1,0 +1,12 @@
+effort_pm,effort_pm_days,effort_pm_t17,effort_pm_t24,repo,half,commits_human,ksloc
+30.5,27.5,24.0,18.5,hashicorp/terraform-provider-vault,2021H1,74,1.423
+45.0,40.0,33.529411764705884,25.5,hashicorp/terraform-provider-vault,2021H2,127,2.755
+33.0,33.0,26.823529411764707,21.75,hashicorp/terraform-provider-vault,2022H1,152,9.26
+33.5,28.5,26.823529411764707,20.75,hashicorp/terraform-provider-vault,2022H2,102,7.961
+29.5,28.0,23.294117647058822,18.25,hashicorp/terraform-provider-vault,2023H1,75,5.022
+33.5,31.0,26.47058823529412,20.5,hashicorp/terraform-provider-vault,2023H2,93,2.97
+27.0,25.5,22.235294117647058,17.5,hashicorp/terraform-provider-vault,2024H1,80,5.832
+17.0,15.5,12.352941176470587,8.75,hashicorp/terraform-provider-vault,2024H2,35,1.472
+25.0,21.5,17.647058823529413,12.5,hashicorp/terraform-provider-vault,2025H1,50,4.574
+42.0,34.0,29.647058823529413,21.0,hashicorp/terraform-provider-vault,2025H2,84,7.251
+53.0,49.5,38.11764705882353,27.0,hashicorp/terraform-provider-vault,2026H1,108,20.328
