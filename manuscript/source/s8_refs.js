@@ -1,6 +1,7 @@
 const { h1, ref } = require("./lib");
 const R = [
   "Abril-Pla, O., Andreani, V., Carroll, C., Dong, L., Fonnesbeck, C. J., Kochurov, M., Kumar, R., Lao, J., Luhmann, C. C., Martin, O. A., Osthege, M., Vieira, R., Wiecki, T., & Zinkov, R. (2023). PyMC: A modern, and comprehensive probabilistic programming framework in Python. *PeerJ Computer Science, 9*, e1516. https://doi.org/10.7717/peerj-cs.1516",
+  "Agarwal, S., He, H., & Vasilescu, B. (2026). AI IDEs or autonomous agents? Measuring the impact of coding agents on software development. In *Proceedings of the 23rd International Conference on Mining Software Repositories (MSR '26)*. ACM. https://doi.org/10.1145/3793302.3793589",
   "Albrecht, A. J. (1979). Measuring application development productivity. In *Proceedings of the Joint SHARE/GUIDE/IBM Application Development Symposium* (pp. 83–92). IBM.",
   "Bass, L., Weber, I., & Zhu, L. (2015). *DevOps: A software architect's perspective*. Addison-Wesley.",
   "Becker, J., Rush, N., Barnes, E., & Rein, D. (2025). *Measuring the impact of early-2025 AI on experienced open-source developer productivity* (arXiv:2507.09089). arXiv. https://doi.org/10.48550/arXiv.2507.09089",
@@ -19,6 +20,7 @@ const R = [
   "Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate: The science of lean software and DevOps*. IT Revolution Press.",
   "Golzadeh, M., Decan, A., Legay, D., & Mens, T. (2021). A ground-truth dataset and classification model for detecting bots in GitHub issue and PR comments. *Journal of Systems and Software, 175*, 110911. https://doi.org/10.1016/j.jss.2021.110911",
   "Grimstad, S., & Jørgensen, M. (2007). Inconsistency of expert judgment-based estimates of software development effort. *Journal of Systems and Software, 80*(11), 1770–1777. https://doi.org/10.1016/j.jss.2007.03.001",
+  "He, H., Miller, C., Agarwal, S., Kästner, C., & Vasilescu, B. (2026). Speed at the cost of quality: How Cursor AI increases short-term velocity and long-term complexity in open-source projects. In *Proceedings of the 23rd International Conference on Mining Software Repositories (MSR '26)*. ACM. https://doi.org/10.1145/3793302.3793349",
   "Herman, J., & Usher, W. (2017). SALib: An open-source Python library for sensitivity analysis. *Journal of Open Source Software, 2*(9), 97. https://doi.org/10.21105/joss.00097",
   "Humble, J., & Farley, D. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley.",
   "Jørgensen, M. (2004). A review of studies on expert estimation of software development effort. *Journal of Systems and Software, 70*(1–2), 37–60. https://doi.org/10.1016/S0164-1212(02)00156-5",
@@ -39,6 +41,7 @@ const R = [
   "Sarro, F., Petrozziello, A., & Harman, M. (2016). Multi-objective software effort estimation. In *Proceedings of the 38th International Conference on Software Engineering* (pp. 619–630). ACM. https://doi.org/10.1145/2884781.2884830",
   "Shepperd, M., & MacDonell, S. (2012). Evaluating prediction systems in software project estimation. *Information and Software Technology, 54*(8), 820–827. https://doi.org/10.1016/j.infsof.2011.12.008",
   "Sobol, I. M. (2001). Global sensitivity indices for nonlinear mathematical models and their Monte Carlo estimates. *Mathematics and Computers in Simulation, 55*(1–3), 271–280. https://doi.org/10.1016/S0378-4754(00)00270-6",
+  "Song, F., Agarwal, A., & Wen, W. (2025). The impact of generative AI on collaborative open-source software development: Evidence from GitHub Copilot. *Information Systems Research*. Advance online publication. https://doi.org/10.1287/isre.2024.1361",
   "Tawosi, V., Al-Subaihin, A., Moussa, R., & Sarro, F. (2022). A versatile dataset of agile open source software projects. In *Proceedings of the 19th International Conference on Mining Software Repositories* (pp. 707–711). ACM. https://doi.org/10.1145/3524842.3528029",
   "Trendowicz, A., & Jeffery, R. (2014). *Software project effort estimation: Foundations and best practice guidelines for success*. Springer.",
   "Usman, M., Mendes, E., Weidt, F., & Britto, R. (2014). Effort estimation in agile software development: A systematic literature review. In *Proceedings of the 10th International Conference on Predictive Models in Software Engineering* (pp. 82–91). ACM.",

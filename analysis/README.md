@@ -13,3 +13,8 @@ Run in order from the repository root (Python 3 with pymc, arviz, statsmodels, s
 | `figures.py` | Figures 1-4 of the manuscript | `analysis/figures/*.png` |
 
 Seeds are fixed (20261127). The posterior draw files (`*.npz`) are large and not committed; rerun `rq1_bayes.py` to recreate them.
+
+## Effort-measure checks (revision, 2026-11-27)
+
+- `effort_construct.py` splits ln(PM) into ln(active developers) + ln(PM per developer) and relates each part to size, pooled and within repositories. Output: `out/effort_construct.csv` (Supporting Information Table S14).
+- `rq2_components.py` reruns the RQ2 difference-in-differences on active developers, core developers, PM per developer, human commits, commits per developer and KSLOC per developer. Output: `out/rq2_components.csv` (Table S15).

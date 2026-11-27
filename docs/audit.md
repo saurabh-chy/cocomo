@@ -22,3 +22,9 @@ Every number in the manuscript was checked against `analysis/out/`. Extra checks
 | New robustness results not reported | Decomposition rows added to Table 6; unfiltered AI rows added to Table 7; churn check added to text |
 | Figure 1 colour-bar label | Now "Repository-quarters (count)" |
 | A table header could be stranded at a page end | Tables kept on one page |
+
+## Revision after the publishability review (2026-11-27)
+
+1. **Related work.** Added Agarwal, He & Vasilescu (MSR 2026), He et al. (MSR 2026) and Song, Agarwal & Wen (ISR). RQ2 is repositioned: those studies measure output, velocity and quality; this paper measures effort in person-months and separates staffing from delivered code.
+2. **Effort measure is close to a head count.** ln(active developers) explains 89% of the variance in ln(PM) (78% within repositories). The paper no longer reports "effort follows the team" as a finding. The size result is reframed as: within a repository, active developers rise with KSLOC by an exponent of 0.17 and PM per developer by 0.03, so staffing is stable while delivered code varies. Hours are not observed (new limitation in Section 6.1).
+3. **AI decomposition.** After adoption: active developers +2.3% (−4.0, +8.7), PM per developer −1.5% (−4.0, +1.6), human commits per developer +4.7% (−3.3, +14.3), KSLOC per developer +26.7% (+12.8, +43.6). Same people, same commit rhythm, larger contributions.

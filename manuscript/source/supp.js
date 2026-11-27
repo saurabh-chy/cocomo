@@ -9,7 +9,7 @@ const C = [
   pc("Saurabh Choudhary and Sachin Malhotra"),
   pc("Krishna Institute of Engineering & Technology (KIET), Ghaziabad, India"),
   new d.Paragraph({ children: [], spacing: { after: 200 } }),
-  p("This file adds detail to the main paper. Section S1 gives the exact measurement rules. Section S2 reports the pilot studies and the hand check. Section S3 gives the full model results, and Section S4 the additional robustness checks. Section S5 documents the simulator. Section S6 describes the list of repositories, which comes as a separate file (Supplementary Data S1). All code and outputs are at https://github.com/saurabh-chy/cocomo; file paths below refer to that repository."),
+  p("This file adds detail to the main paper. Section S1 gives the exact measurement rules. Section S2 reports the pilot studies and the hand check. Section S3 gives the full model results, and Section S4 the additional robustness checks. Section S5 documents the simulator. Section S6 shows what the effort measure counts, and Section S7 describes the list of repositories, which comes as a separate file (Supplementary Data S1). All code and outputs are at https://github.com/saurabh-chy/cocomo; file paths below refer to that repository."),
 
   // ---------------- S1 ----------------
   h1("S1 Measurement Rules"),
@@ -215,7 +215,34 @@ const C = [
     "100% means no change. Values for cloud automation, microservice complexity and security practice move in both directions because their effects are small relative to sampling noise; only the first three rows show a clear pattern."),
 
   // ---------------- S6 ----------------
-  h1("S6 Repository List (Supplementary Data S1)"),
+  h1("S6 What the Effort Measure Counts"),
+  p("The effort measure adds up, for each developer and month, the smaller of 1 and the commit count divided by the threshold (Robles et al., 2022). Each developer can therefore add at most one person-month per month. The measure is close to a weighted count of active developers. Table S14 shows how close. We split log effort into log active developers and log effort per active developer, and related each part to size. The script is analysis/effort_construct.py."),
+  ...table("S14", "Effort, Active Developers and Size in 5,932 Repository-Quarters (Least-Squares Slopes, 95% CI)",
+    ["Model", "Pooled: slope (95% CI)", "Pooled R^2^", "Within repository: slope (95% CI)", "Within R^2^"],
+    [
+      ["ln effort on ln active developers", "0.82 (0.79, 0.85)", "0.89", "0.77 (0.74, 0.79)", "0.78"],
+      ["ln effort on ln KSLOC", "0.38 (0.31, 0.46)", "0.30", "0.20 (0.18, 0.22)", "0.16"],
+      ["ln active developers on ln KSLOC", "0.34 (0.26, 0.42)", "0.18", "0.17 (0.15, 0.20)", "0.09"],
+      ["ln effort per developer on ln KSLOC", "0.04 (0.03, 0.06)", "0.03", "0.03 (0.02, 0.04)", "0.01"],
+    ], [2.2, 1.4, 0.8, 1.6, 0.8],
+    "Within-repository models use deviations from each repository's mean. Confidence intervals are clustered by repository. The median effort per active developer was 1.72 PM per quarter, against a ceiling of 3."),
+  p("Almost all of the link between size and effort runs through the number of active developers. Effort per developer barely moved with size (slope 0.03 within repositories). The weak size exponent in the main paper is therefore a statement about staffing: quarters with much more code did not have many more people working on them. The measure cannot show whether those people worked longer hours."),
+  p("Table S15 applies the same split to the effect of AI adoption. We reran the difference-in-differences estimator of the main paper on each part of effort and on commit volume. Commits by bots and AI agents are excluded from all rows. The script is analysis/rq2_components.py."),
+  ...table("S15", "Effect of AI Adoption on the Parts of Effort and on Commit Volume",
+    ["Outcome", "Effect after adoption (95% CI)", "Gap before adoption (95% CI)"],
+    [
+      ["Active developers", "+2.3% (−4.0%, +8.7%)", "−0.9% (−5.7%, +3.3%)"],
+      ["Core developers", "−0.8% (−7.0%, +7.2%)", "+0.1% (−5.2%, +5.8%)"],
+      ["Effort per active developer", "−1.5% (−4.0%, +1.6%)", "+0.3% (−2.4%, +3.1%)"],
+      ["Human commits", "+7.2% (−1.4%, +18.8%)", "−3.5% (−9.6%, +2.8%)"],
+      ["Human commits per active developer", "+4.7% (−3.3%, +14.3%)", "−2.6% (−8.4%, +3.5%)"],
+      ["Code per active developer (KSLOC)", "+26.7% (+12.8%, +43.6%)", "+1.8% (−7.4%, +10.4%)"],
+    ], [2.4, 1.9, 1.9],
+    "382 adopting and 99 never-adopting repositories. Estimator, controls and bootstrap as in Table 7 of the main paper."),
+  p("After adoption, the same number of people stayed active, and they committed at the same rate. Each developer's commits, however, carried about 27% more code. AI adoption changed the size of contributions, not the number of contributors or their commit rhythm."),
+
+  // ---------------- S7 ----------------
+  h1("S7 Repository List (Supplementary Data S1)"),
   p("The file Supplementary_Data_S1_repositories.csv lists all 597 repositories. It has one row per repository and the following columns:"),
   ...bullets([
     "**repo, group:** repository name (owner/name) and sample group (ai or control);",
