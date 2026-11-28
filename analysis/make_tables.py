@@ -169,15 +169,15 @@ acc = rd(OUT, "rq3_accuracy.csv")
 te = rd(OUT, "rq3_tests.csv").set_index("baseline")
 rows = []
 for _, x in acc.iterrows():
-    a12 = "–"
+    dm = "–"
     if x["model"] in te.index:
         t = te.loc[x["model"]]
-        a12 = num(t["A12"]) + ("†" if t["p_holm"] < 0.001 else "")
+        dm = f"{num(t['mae_diff'])} ({num(t['diff_ci_low'])}, {num(t['diff_ci_high'])})"
     rows.append([x["model"], num(x["MAE"]), num(x["MdAE"]), num(x["SA_pct"], 1), num(x["glass_delta"], 1),
-                 num(x["pred25"], 1), "–" if pd.isna(x["pi90_coverage"]) else num(x["pi90_coverage"], 1), a12])
+                 num(x["pred25"], 1), "–" if pd.isna(x["pi90_coverage"]) else num(x["pi90_coverage"], 1), dm])
 save("8", "Accuracy of Six Models in Grouped 10-Fold Cross-Validation", pd.DataFrame(rows, columns=[
-    "Model", "MAE (PM)", "MdAE (PM)", "SA (%)", "Glass's Δ", "Pred (25) (%)", "90% PI cover (%)", "A12 vs Extended"]),
-    "† Holm-adjusted p < 0.001 (Wilcoxon signed-rank test).")
+    "Model", "MAE (PM)", "MdAE (PM)", "SA (%)", "Glass's Δ", "Pred (25) (%)", "90% PI cover (%)", "MAE minus Extended, PM (95% CI)"]),
+    "Confidence intervals from 2,000 bootstrap samples of repositories. Repository-level tests: Supplementary Table S17.")
 
 # ---------------- Table 9: Sobol indices ----------------
 so = rd(OUT, "rq4_sobol.csv").sort_values("S1", ascending=False)
@@ -322,6 +322,37 @@ co = rd(OUT, "rq2_components.csv")
 save("S15", "Effect of AI Adoption on the Parts of Effort and on Commit Volume", pd.DataFrame(
     [[x["label"], pct_ci(x["att"], x["ci_low"], x["ci_high"]), pct_ci(x["pre_avg"], x["pre_ci_low"], x["pre_ci_high"])]
      for _, x in co.iterrows()], columns=["Outcome", "Effect after adoption (95% CI)", "Gap before adoption (95% CI)"]))
+
+# ---------------- Table S16: alternative adoption definitions ----------------
+tr = rd(OUT, "rq2_treatment.csv")
+lab16 = {"ln_pm": "Effort", "ln_team": "Active developers", "ln_ksloc": "Size (KSLOC)", "ln_prod": "Productivity"}
+rows = []
+for name in tr["subset"].unique():
+    for y, ylab in lab16.items():
+        x = tr[(tr["subset"] == name) & (tr["outcome"] == y)].iloc[0]
+        rows.append([name if y == "ln_pm" else "", ylab, pct_ci(x["att"], x["ci_low"], x["ci_high"]),
+                     pct_ci(x["pre_avg"], x["pre_ci_low"], x["pre_ci_high"]),
+                     f"{int(x['n_treated_repos'])} / {int(x['n_never'])}" if y == "ln_pm" else ""])
+cn = pd.read_csv(os.path.join(OUT, "rq2_treatment_counts.csv"), index_col=0)
+save("S16", "Effect of AI Adoption Under Alternative Definitions of Adoption", pd.DataFrame(rows, columns=[
+    "Definition", "Outcome", "Effect after adoption (95% CI)", "Gap before adoption (95% CI)", "Adopters / never-adopters"]),
+    f"Main sample: {cn.loc['Adopters (any signal)', 'AI group (AIDev)']} adopters from the AI group and "
+    f"{cn.loc['Adopters (any signal)', 'Comparison group']} from the comparison group; all "
+    f"{cn.loc['Never adopted'].sum()} never-adopters are comparison repositories. Repositories with a signal that a definition does not use are excluded from that row.")
+
+# ---------------- Table S17: repository-clustered accuracy tests ----------------
+te = rd(OUT, "rq3_tests.csv")
+order17 = ["COCOMO II (default)", "Size-only (linear)", "COCOMO II (recalibrated)", "ATLM", "Random forest"]
+rows = []
+for m in order17:
+    t = te[te["baseline"] == m].iloc[0]
+    pf = lambda v: "<0.001" if v < 0.001 else f"{v:.3f}"
+    rows.append([m, f"{num(t['mae_diff'])} ({num(t['diff_ci_low'])}, {num(t['diff_ci_high'])})", pf(t["p_boot"]),
+                 num(t["A12_repo"]), pf(t["p_holm"]), num(t["A12"]), pf(t["p_quarter_level"])])
+save("S17", "Comparison of Each Baseline With COCOMO-Extended, Accounting for Repository Clustering", pd.DataFrame(rows, columns=[
+    "Baseline", "MAE difference, PM (95% cluster CI)", "Bootstrap p", "Repository A12", "Repository Wilcoxon p (Holm)",
+    "Quarter A12", "Quarter Wilcoxon p (unadjusted)"]),
+    "482 repositories. Positive differences and A12 above 0.5 favour COCOMO-Extended. Repository tests compare repository mean absolute errors (one pair per repository). Quarter-level columns treat the 5,932 quarters as independent and are shown for comparison only.")
 
 # ---------------- one workbook ----------------
 with pd.ExcelWriter(os.path.join(TAB, "all_tables.xlsx")) as xw:

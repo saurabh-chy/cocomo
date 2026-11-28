@@ -1,0 +1,6 @@
+﻿Baseline,"MAE difference, PM (95% cluster CI)",Bootstrap p,Repository A12,Repository Wilcoxon p (Holm),Quarter A12,Quarter Wilcoxon p (unadjusted)
+COCOMO II (default),"14.31 (9.18, 19.36)",<0.001,0.67,<0.001,0.62,<0.001
+Size-only (linear),"0.25 (−1.95, 2.34)",0.794,0.57,<0.001,0.53,<0.001
+COCOMO II (recalibrated),"0.44 (−0.25, 1.20)",0.207,0.51,0.008,0.50,<0.001
+ATLM,"0.31 (−0.08, 0.71)",0.133,0.51,0.002,0.50,<0.001
+Random forest,"−1.29 (−3.75, 0.42)",0.210,0.49,0.055,0.49,0.060

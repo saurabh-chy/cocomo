@@ -56,10 +56,11 @@ python reproduce.py --skip-bayes  # faster: reuse posterior draws already in ana
 | Table 5, Tables S6-S7 (driver effects) | `Table_5.csv`, `Table_S6.csv`, `Table_S7.csv` | `rq1_bayes.py` |
 | Table 6, Table S8 (robustness) | `Table_6.csv`, `Table_S8.csv` | `robustness.py`, `audit_checks.py` |
 | Table 7, Table S9 (AI adoption) | `Table_7.csv`, `Table_S9.csv` | `rq2_did.py`, `audit_checks.py` |
-| Table 8 (accuracy) | `Table_8.csv` | `rq3_accuracy.py` |
+| Table 8, Table S17 (accuracy, clustered tests) | `Table_8.csv`, `Table_S17.csv` | `rq3_accuracy.py` |
 | Tables 9-10, S11-S13 (simulation) | `Table_9.csv`, `Table_10.csv`, `Table_S11.csv` ... | `rq4_sim.py` |
 | Table S14 (effort measure) | `Table_S14.csv` | `effort_construct.py` |
 | Table S15 (AI and the parts of effort) | `Table_S15.csv` | `rq2_components.py` |
+| Table S16 (AI adoption definitions) | `Table_S16.csv` | `rq2_treatment.py` |
 | Figures 1-4 | `analysis/figures/figure1_size_effort.png` ... `figure4_scenarios.png` | `figures.py` |
 
 All tables are also collected in `analysis/tables/all_tables.xlsx`. Tables 1, S1-S3 and S10 state measurement rules and simulator inputs; the rules are coded in `pipeline/core.py` and `pipeline/run.py`, the inputs in `analysis/rq4_sim.py`. Tables S4-S5 report the pilots and the hand check (`docs/pilot_log.md`).

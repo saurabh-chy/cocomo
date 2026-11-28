@@ -14,6 +14,7 @@ Run everything with `python reproduce.py` from the repository root, or run the s
 | `audit_checks.py` | Within/between split, turnover control, DiD without inclusion rules, Scorecard check | `audit_checks.csv`, `rq2_att_unfiltered.csv` |
 | `effort_construct.py` | What the effort measure counts | `effort_construct.csv` |
 | `rq2_components.py` | RQ2 on the parts of effort | `rq2_components.csv` |
+| `rq2_treatment.py` | RQ2 under stricter adoption definitions; adopter counts by group and first signal | `rq2_treatment.csv`, `rq2_treatment_counts.csv` |
 | `make_tables.py` | Formats every computed table as printed in the paper | `analysis/tables/Table_*.csv`, `all_tables.xlsx` |
 
 Seeds are fixed (20261127). The posterior draw files (`*.npz`) are large and not committed; rerun `rq1_bayes.py` to recreate them.

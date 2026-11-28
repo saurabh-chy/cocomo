@@ -94,15 +94,33 @@ def a12(x, y_):
     r = pd.Series(np.r_[x, y_]).rank().values
     return (r[:len(x)].sum() / len(x) - (len(x) + 1) / 2) / len(y_)
 
+# Tests respect the grouping: quarters of one repository are not independent.
+# (1) Wilcoxon signed-rank test on repository-level mean absolute errors (one pair per repository);
+# (2) repository-clustered bootstrap of the MAE difference, baseline minus COCOMO-Extended.
+repo_ids = q["repo"].values
+R_ = pd.DataFrame({m: ae[m] for m in pred}).groupby(repo_ids).agg(["sum", "count"])
+codes = pd.factorize(repo_ids)[0]
+n_rep = codes.max() + 1
+sums = {m: np.bincount(codes, weights=ae[m], minlength=n_rep) for m in pred}
+cnt = np.bincount(codes, minlength=n_rep).astype(float)
+brng = np.random.default_rng(SEED + 1)
+W = brng.multinomial(n_rep, np.full(n_rep, 1 / n_rep), size=2000).astype(float)
 tests = []
 for m in pred:
     if m == "COCOMO-Extended":
         continue
-    p = wilcoxon(ae[m], ae["COCOMO-Extended"]).pvalue
-    tests.append({"baseline": m, "p": p, "A12": a12(ae[m], ae["COCOMO-Extended"])})
+    rm, re_ = sums[m] / cnt, sums["COCOMO-Extended"] / cnt          # repository mean errors
+    diff_boot = (W @ sums[m] - W @ sums["COCOMO-Extended"]) / (W @ cnt)
+    d0 = ae[m].mean() - ae["COCOMO-Extended"].mean()
+    tests.append({"baseline": m, "mae_diff": d0,
+                  "diff_ci_low": np.percentile(diff_boot, 2.5), "diff_ci_high": np.percentile(diff_boot, 97.5),
+                  "p_boot": min(1.0, 2 * min(np.mean(diff_boot <= 0), np.mean(diff_boot >= 0))),
+                  "p": wilcoxon(rm, re_).pvalue, "A12_repo": a12(rm, re_),
+                  "p_quarter_level": wilcoxon(ae[m], ae["COCOMO-Extended"]).pvalue,
+                  "A12": a12(ae[m], ae["COCOMO-Extended"])})
 tests = pd.DataFrame(tests).sort_values("p").reset_index(drop=True)
 k = len(tests)
-tests["p_holm"] = np.minimum(1, np.maximum.accumulate(tests["p"] * (k - np.arange(k))))
+tests["p_holm"] = np.minimum(1, np.maximum.accumulate(tests["p"] * (k - np.arange(k))))   # Holm on repository-level tests
 res.to_csv(os.path.join(OUT, "rq3_accuracy.csv"), index=False)
 tests.to_csv(os.path.join(OUT, "rq3_tests.csv"), index=False)
 print(f"random guessing MAE = {mae_p0:.2f} PM (SD {sd_p0:.3f})")
